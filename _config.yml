@@ -16,7 +16,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ellipse.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://wwmore.github.io #https://wwmore.github.io # the base hostname & protocol for your site
 baseurl: / # the subpath of your site, e.g. /blog/
@@ -36,7 +36,7 @@ rss_icon: true
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
@@ -55,25 +55,25 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: WWmore # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
+twitter_username: HuiWang34957044 # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
+orcid_id: 0000-0002-5185-7093 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Wang_Hui35 # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: # work page URL
+work_url: https://cemse.kaust.edu.sa/vcc/people/person/hui-wang # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Email is the best way to reach me.
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -84,8 +84,8 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: Geometry  # your blog must have a name for it to show up in the nav bar
+blog_description:  Architectural Geometry 
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -205,8 +205,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Hui
+  first_name: [Wang]
 
   style: apa
   locale: en
