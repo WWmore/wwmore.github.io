@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Hui
-middle_name:  
-last_name: Wang
+first_name: #Hui
+middle_name:  GEOMETRY
+last_name: #Wang
 email: hwangchn@outlook.com #hui.wang.1@kaust.edu.sa
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal research website.
