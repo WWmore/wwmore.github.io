@@ -1,24 +1,40 @@
 ---
 layout: about
-title: about
+title:  Hui <strong> Wang </strong> (王慧)</strong>
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: # <a href='#'>KAUST</a>. Address. Contacts. Moto. Etc.
+description: >
+  <p> hui.wang.1@kaust.edu.sa |
+      <a href="https://www.researchgate.net/profile/Wang_Hui35" target="_blank" title="Research Gate"><i class="ai ai-researchgate"></i> Research Gate</a> |  
+      <a href="https://scholar.google.com/citations?hl=en&user=GEo8ylMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i> Google Scholar</a>
+  </p>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me2.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>VCC Building1,</p>
+    <p>KAUST, Thuwal</p>
+    <p>Jeddah 23955</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am now a <a href="https://cemse.kaust.edu.sa/vcc/people/person/hui-wang" target="\_blank"> Postdoctoral Research Fellow </a> 
+of <a href="https://www.geometrie.tuwien.ac.at/geom/ig/pottmann/index.php" target="\_blank"> Prof. Helmut Pottmann's </a> 
+<a href="https://cemse.kaust.edu.sa/cdf" target="\_blank"> Computational Design and Fabrication (CDF) Research </a> 
+group in
+<a href="https://cemse.kaust.edu.sa/vcc" target="\_blank">Visual Computing Center (VCC)</a>
+in KAUST.
+Previously, I was a joint PhD student of his
+<a href="https://www.geometrie.tuwien.ac.at/geom/ig/pottmann/index.php" target="\_blank">Applied Geometry </a> group 
+in TU Wien for two years.
+I got my PhD in 2020 from Dalian University of Technology (DUT), where I was
+supervised under <a href="http://faculty.dlut.edu.cn/zhu/zh_CN/index.htm" target="\_blank">Prof. Chungang Zhu</a>
+in
+<a href="https://math.dlut.edu.cn/English/About_us/Institutes.htm" target="\_blank"> Computational Geometry</a>  group.
+My current research interests include architectural geometry, discrete differential geometry, geometry processing and optimization, and computational design.
+Please check my
+<a href="https://WWmore.github.io/hwang/assets/pub/hwang-cv.pdf" target="\_blank"><b>CV</b></a> here.
