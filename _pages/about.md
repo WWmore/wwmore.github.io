@@ -2,20 +2,17 @@
 layout: about
 title:  Hui <strong> Wang </strong> (王慧)</strong>
 permalink: /
-subtitle: # <a href='#'>KAUST</a>. Address. Contacts. Moto. Etc.
-description: >
-  <p> hui.wang.1@kaust.edu.sa |
-      <a href="https://www.researchgate.net/profile/Wang_Hui35" target="_blank" title="Research Gate"><i class="ai ai-researchgate"></i> Research Gate</a> |  
-      <a href="https://scholar.google.com/citations?hl=en&user=GEo8ylMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i> Google Scholar</a>
-  </p>
+subtitle: <p> hui.wang.1@kaust.edu.sa |
+          <a href="https://www.researchgate.net/profile/Wang_Hui35" target="_blank" title="Research Gate"><i class="ai ai-researchgate"></i> Research Gate</a> |  
+          <a href="https://scholar.google.com/citations?hl=en&user=GEo8ylMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i> Google Scholar</a>
+          </p>
 
 profile:
   align: right
   image: me2.jpg
   address: >
-    <p>VCC Building1,</p>
-    <p>KAUST, Thuwal</p>
-    <p>Jeddah 23955</p>
+    <p>VCC,KAUST,Jeddah,23955</p>
+    # <p>Jeddah 23955</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
