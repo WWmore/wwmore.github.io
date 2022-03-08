@@ -33,4 +33,4 @@ in
 <a href="https://math.dlut.edu.cn/English/About_us/Institutes.htm" target="\_blank"> Computational Geometry</a>  group.
 My current research interests include architectural geometry, discrete differential geometry, geometry processing and optimization, and computational design.
 Please check my
-<a href={hwang-cv.pdf} target="\_blank"><b>CV</b></a> here.
+<a href="https://github.com/WWmore/wwmore.github.io/blob/master/assets/pdf/hwang-cv.pdf" target="\_blank"><b>CV</b></a> here.
