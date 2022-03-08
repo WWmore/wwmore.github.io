@@ -11,7 +11,7 @@ profile:
   align: right
   image: me2.jpg
   address: >
-    <p>VCC,B1,KAUST,Jeddah,23955</p>
+    <p> VCC,KAUST,Jeddah,23955 </p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
