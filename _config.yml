@@ -92,7 +92,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: #al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # -----------------------------------------------------------------------------
@@ -204,8 +204,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Hui
-  first_name: [Wang]
+  last_name: Wang
+  first_name: [Hui]
 
   style: apa
   locale: en
