@@ -1,18 +1,36 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Helmut":
+  - firstname: ["Helmut Pottmann"]
+    url: https://www.geometrie.tuwien.ac.at/geom/ig/pottmann/index.php
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Johannes": 
+  - firstname: ["Johannes Wallner"]
+    url: http://www.geometrie.tugraz.at/wallner/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Christian": 
+  - firstname: ["Christian M\''uller"]
+    url: https://www.geometrie.tuwien.ac.at/geom/ig/mueller/index.php
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Florian": 
+  - firstname: ["Florian Rist"]
+    url: https://cemse.kaust.edu.sa/vcc/people/person/florian-rist
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Martin":
+  - firstname: ["Martin Kilian"]
+    url: https://www.geometrie.tuwien.ac.at/geom/ig/kilian/index.html
+
+"Davide":
+  - firstname: ["Davide Pellis"]
+    url: https://lgg.epfl.ch/people.php#
+
+"Caigui": 
+  - firstname: ["Caigui Jiang"]
+    url: https://gr.xjtu.edu.cn/web/jiang
+
+"Chungang": 
+  - firstname: ["Chungang Zhu"]
+    url: http://faculty.dlut.edu.cn/zhu/zh_CN/index.htm
+
+"Caiyun": 
+  - firstname: ["Caiyun Li"]
+    url: http://faculty.dlut.edu.cn/licaiyun/zh_CN/index.htm
+
