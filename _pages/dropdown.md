@@ -1,12 +1,12 @@
 ---
 layout: page
-title: submenus
+title: Mis.
 nav: false
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
-    - title: divider
     - title: projects
       permalink: /projects/
+    - title: divider
+    - title: blog
+      permalink: /posts/
 ---
