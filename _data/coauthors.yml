@@ -1,36 +1,40 @@
-"Helmut":
-  - firstname: ["Helmut Pottmann"]
+"Pottmann":
+  - firstname: ["Helmut"]
     url: https://www.geometrie.tuwien.ac.at/geom/ig/pottmann/index.php
 
-"Johannes": 
-  - firstname: ["Johannes Wallner"]
+"Wallner": 
+  - firstname: ["Johannes"]
     url: http://www.geometrie.tugraz.at/wallner/
 
-"Christian": 
-  - firstname: ["Christian M\''uller"]
+"M{\"u}ller": 
+  - firstname: ["Christian"]
     url: https://www.geometrie.tuwien.ac.at/geom/ig/mueller/index.php
 
-"Florian": 
-  - firstname: ["Florian Rist"]
+"Rist": 
+  - firstname: ["Florian"]
     url: https://cemse.kaust.edu.sa/vcc/people/person/florian-rist
 
-"Martin":
-  - firstname: ["Martin Kilian"]
+"Kilian":
+  - firstname: ["Martin"]
     url: https://www.geometrie.tuwien.ac.at/geom/ig/kilian/index.html
 
-"Davide":
-  - firstname: ["Davide Pellis"]
+"Pellis":
+  - firstname: ["Davide"]
     url: https://lgg.epfl.ch/people.php
 
-"Caigui": 
-  - firstname: ["Caigui Jiang"]
+"Jiang": 
+  - firstname: ["Caigui"]
     url: https://gr.xjtu.edu.cn/web/jiang
 
-"Chungang": 
-  - firstname: ["Chungang Zhu"]
+"Zhu": 
+  - firstname: ["Chungang"]
     url: http://faculty.dlut.edu.cn/zhu/zh_CN/index.htm
 
-"Caiyun": 
-  - firstname: ["Caiyun Li"]
+"Li": 
+  - firstname: ["Caiyun"]
     url: http://faculty.dlut.edu.cn/licaiyun/zh_CN/index.htm
 
+
+"Michels": 
+  - firstname: ["Dominik"]
+    url: https://cemse.kaust.edu.sa/org/csg
