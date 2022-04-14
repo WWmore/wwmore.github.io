@@ -6,7 +6,7 @@
   - firstname: ["Johannes"]
     url: http://www.geometrie.tugraz.at/wallner/
 
-"M{\"u}ller": 
+"Müller": 
   - firstname: ["Christian"]
     url: https://www.geometrie.tuwien.ac.at/geom/ig/mueller/index.php
 
@@ -36,5 +36,9 @@
 
 
 "Michels": 
-  - firstname: ["Dominik"]
+  - firstname: ["Dominik","Dominik L.",]
     url: https://cemse.kaust.edu.sa/org/csg
+
+"Schling":
+  - firstname: ["Eike"]
+    url: https://eikeschling.com/
