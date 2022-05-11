@@ -18,17 +18,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am now a <a href="https://cemse.kaust.edu.sa/vcc/people/person/hui-wang" target="\_blank"> Postdoctoral Research Fellow </a> 
+I am a <a href="https://cemse.kaust.edu.sa/vcc/people/person/hui-wang" target="\_blank"> Postdoctoral Research Fellow </a> 
 of <a href="https://www.geometrie.tuwien.ac.at/geom/ig/pottmann/index.php" target="\_blank"> Prof. Helmut Pottmann's </a> 
-<a href="https://cemse.kaust.edu.sa/cdf" target="\_blank"> Computational Design and Fabrication (CDF) Research </a> 
-group in
+<a href="https://cemse.kaust.edu.sa/cdf" target="\_blank"> Computational Design and Fabrication (CDF) </a> 
+research group in
 <a href="https://cemse.kaust.edu.sa/vcc" target="\_blank">Visual Computing Center (VCC)</a>
 in KAUST.
 Previously, I was a joint PhD student of his
 <a href="https://www.geometrie.tuwien.ac.at/geom/ig/pottmann/index.php" target="\_blank">Applied Geometry </a> group 
 in TU Wien for two years.
-I got my PhD in 2020 from Dalian University of Technology (DUT), where I was
-supervised under <a href="http://faculty.dlut.edu.cn/zhu/zh_CN/index.htm" target="\_blank">Prof. Chungang Zhu</a>
+I got my PhD in 2020 from Dalian University of Technology (DUT), where my superviser was
+<a href="http://faculty.dlut.edu.cn/zhu/zh_CN/index.htm" target="\_blank">Prof. Chungang Zhu</a>
 in
 <a href="https://math.dlut.edu.cn/English/About_us/Institutes.htm" target="\_blank"> Computational Geometry</a>  group.
 My current research interests include architectural geometry, discrete differential geometry, geometry processing and optimization, and computational design.
