@@ -1,39 +1,78 @@
 ---
 layout: page
-title: Surfaces with a constant ratio of principal curvatures
+title: Surfaces with a constant ratio of principal curvatures (CRPC surfaces)
 description: Discrete differential geometry, Architectural geometry, Weingarten surface, Characteristic parameterization, Constant ratio of principal curvatures, Principal symmetric net
 img: assets/img/paper_2021CRPC.jpg
 importance: 1
 category: work
 ---
 
+------
+##### Publication
+Computer Aided Geometric Design
+
+##### Authors
+Hui Wang, Helmut Pottmann
+
+##### Downloads
+[paper](assets/pdf/2022_crpc.pdf)
+
+##### Abstract
+Motivated by applications in architectural geometry, we study and compute surfaces with a constant ratio of principal curvatures (CRPC surfaces) based on their characteristic parameterizations. For negative Gaussian curvature K, these parameterizations are asymptotic. For positive K they are conjugate and symmetric with respect to the principal curvature directions. CRPC surfaces are described by characteristic parameterizations whose parameter lines form a constant angle. We use them to derive characteristic parameterizations of rotational CRPC surfaces in a simple geometric way. Pairs of such surfaces with principal curvature ratio k1/k2=±a can be seen as equilibrium shapes and reciprocal force diagrams of each other. We then introduce discrete CRPC surfaces, expressed via discrete isogonal characteristic nets, and show how to efficiently compute them through numerical optimization. In particular, we derive discrete helical and spiral CRPC surfaces. We provide various ways how these and other special types of CRPC surfaces can serve as a basis for computational design of more general CRPC surfaces. Our computational tools may also serve as an experimental basis for mathematical studies of the largely unexplored class of CRPC surfaces.
 
 ------
 
-#### publication: Computer Aided Geometric Design
+##### Figures
 
-#### authors:  Hui Wang, Helmut Pottmann
-
-
-------
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="paper_2021CRPC.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/proj1/pos_render95.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj1/pos_render92.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj1/pos_render93.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
-<div class="caption">
-    Architectural design study exhibiting a structure from planar panels based on a discrete CRPC surface with a = 0.45. The constant node angle (≠π/2) and the principal symmetric arrangement lead to a more interesting visual appearance than a mesh aligned with principal curvature directions would have.
+Architectural design study exhibiting a structure from planar panels based on a discrete CRPC surface with a = 0.45. The constant node angle (≠π/2) and the principal symmetric arrangement lead to a more interesting visual appearance than a mesh aligned with principal curvature directions would have.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj1/pos_render6.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj1/pos_render3.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj1/pos_render7_cut.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
 </div>
+Gridshells based on CRPC surfaces of positive curvature.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj1/neg_render1.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj1/neg_render30.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj1/neg_render2.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj1/costa4.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>    
+</div>
+Asymptotic gridshells, whose underlying surfaces are negatively curved CRPC surfaces.
+
 
 ------
-#### abstract
-    Motivated by applications in architectural geometry, we study and compute surfaces with a constant ratio of principal curvatures (CRPC surfaces) based on their characteristic parameterizations. For negative Gaussian curvature K, these parameterizations are asymptotic. For positive K they are conjugate and symmetric with respect to the principal curvature directions. CRPC surfaces are described by characteristic parameterizations whose parameter lines form a constant angle. We use them to derive characteristic parameterizations of rotational CRPC surfaces in a simple geometric way. Pairs of such surfaces with principal curvature ratio k1/k2=±a can be seen as equilibrium shapes and reciprocal force diagrams of each other. We then introduce discrete CRPC surfaces, expressed via discrete isogonal characteristic nets, and show how to efficiently compute them through numerical optimization. In particular, we derive discrete helical and spiral CRPC surfaces. We provide various ways how these and other special types of CRPC surfaces can serve as a basis for computational design of more general CRPC surfaces. Our computational tools may also serve as an experimental basis for mathematical studies of the largely unexplored class of CRPC surfaces.
 
+#### Video
 
-------
-#### downloads
-
-[paper](https://www.sciencedirect.com/science/article/pii/S0167839622000103?via%3Dihub)
-
-------
-#### video
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj1/costa_crpc.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
