@@ -1,81 +1,91 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Shape-morphing mechanical metamaterials
+description: Kirigami, Auxetic materials, Metamaterials, Shape morphing, Computational fabrication
+img: assets/img/paper_2021CAD.png
 importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+------
+##### **Publication**
+Computer-Aided Design
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+##### **Authors**
+Caigui Jiang, Florian Rist, Hui Wang, Johannes Wallner, Helmut Pottmann
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+##### **Downloads**
+[paper]{https://www.geometrie.tuwien.ac.at/geom/ig/publications/geommaterials/geommaterials.pdf}
+
+##### **Abstract**
+Small-scale cut and fold patterns imposed on sheet material enable its morphing into three-dimensional shapes. This manufacturing paradigm has been receiving much attention in recent years and poses challenges in both fabrication and computation. It is intimately connected with the interpretation of patterned sheets as mechanical metamaterials, typically of negative Poisson ratio. We here present an affirmative solution to a fundamental geometric question, namely the targeted programming of a shape morph. We use optimization to compute kirigami patterns that realize a morph between shapes, in particular between a flat sheet and a surface in space. The shapes involved can be arbitrary; in fact we are able to approximate any mapping between shapes whose principal distortions do not exceed certain bounds. This amounts to a solution of the so-called inverse problem for kirigami cut and fold patterns. The methods we employ include a differential–geometric interpretation of the morph, besides drawing on recent progress in geometric computing.
+
+------
+
+##### **Figures**
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/proj3/Picture2.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+Fig.1: Auxetic behavior of regular squares can be considered by square corners gliding on the frame with same speed (the sizes of squares get scaled here).
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/proj3/a1.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj3/a2.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+Fig.2: Joint optimization of quad-based metamaterials in closed state and maximally open spatial state.
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj3/knet_close.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj3/knet_expand.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj3/unduloid_close.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj3/unduloid_expand.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>    
+</div>
+Fig.3: Lamps design from fully closed states to fully open states.
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj3/snet_try_close.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj3/snet_try_expand.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
-```
-{% endraw %}
+Fig.4: Roof design from fully closed planar states to fully open curved states.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj3/roof10.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj3/hexi_roof4.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj3/hexi_roof3.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>    
+</div>
+Fig.5: Fully open Kirigami roofs.
+
+
+------
+
+#### **Video**
+
+Model deformation videos are here: [model1](https://vimeo.com/524221493/b7d951751c), [model2](https://vimeo.com/524221586/a53a1f1064), [model3](https://vimeo.com/524221545/c6b63f9480).
