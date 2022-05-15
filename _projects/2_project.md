@@ -36,7 +36,21 @@ nevertheless flexible
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj2/iso_rot_killing.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/proj2/paper_2021SIG.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+Fig.: Smooth freeform skins from flexible panels. It turns out that constant
+Gaussian curvature surfaces, i.e., spheres and pseudospheres, provide almost
+universal molds for the manufacturing of panels bending isometrically. Here
+a design by Zaha Hadid Architects is covered by panels struck from a small
+number of spherical molds (red) and pseudospherical molds (blue), as well
+as single-curved panels that are intrinsically flat (white)
+
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj2/iso_rot_killing.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
 Fig.1: Infinitesimal isometries tangential to surfaces (Killing fields) exist on

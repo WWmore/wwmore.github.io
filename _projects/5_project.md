@@ -38,7 +38,16 @@ materials like metal sheets.
 ------
 
 ##### **Figures**
-
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj3/paper_DGPC.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+Fig.: Architectural design in reference to designs by architect Frank Gehry. In our case the four surface patches are not developable, but are isometric to the
+same surface of revolution. The rectangular metal sheets covering the surface can be produced using just one comparably small sector between two meridian
+curves of the corresponding surface of revolution as a mold (left and Figure 16). The long vertical strip (left; gray) of the surface of revolution is either one big
+mold or can be segmented into smaller molds if necessary. Metal sheets covering surface areas with almost vanishing Gaussian curvature can be produced
+without a special mold, i.e., as developable surface patches.
 
 ------
 

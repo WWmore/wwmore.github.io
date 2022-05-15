@@ -26,6 +26,13 @@ Small-scale cut and fold patterns imposed on sheet material enable its morphing 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj3/paper_2021CAD.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+Fig.: Example of a quad-based metamaterial where a planar closed state morphs to a maximally open spatial state. The computation according to stages 1–3 involves a constant mean stretch mapping from a planar domain to the given design surface at right.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/proj3/Picture2.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>

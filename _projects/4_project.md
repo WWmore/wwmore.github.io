@@ -38,7 +38,15 @@ discrete curvature theory for principal symmetric meshes.
 ------
 
 ##### **Figures**
-
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj3/paper_2020SIG.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+Fig.: Architectural design of a modern mountain leisure and tourism center. The geometric shape of the hull is a discrete principal symmetric parametrization
+(an S-net) of a Weingarten surface of type aκ1 + bκ2 = c. The big advantage lies in the fabrication of its doubly curved panels by a substantial
+reduction of necessary molds, as the same mold can be used along curves of constant curvature illustrated by isolines (b). Panels with identical molds are
+clustered together and highlighted by the same color (a). The network of this S-net assumes constant intersection angles which contributes to its aesthetic.
 
 ------
 
