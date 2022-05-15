@@ -48,6 +48,23 @@ must follow its level sets.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj2/flower1.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj2/flower_full.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj2/flower2.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+Fig.2: Simulating the bending process (isometric deformation) of the **Strelitzia reginae** flower.
+
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/proj2/test_fold1.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
@@ -57,10 +74,13 @@ must follow its level sets.
         {% include figure.html path="assets/img/proj2/test_fold2.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj2/fold2.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+        {% include figure.html path="assets/img/proj2/fold2_mesh.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>    
 </div>
-Fig.2: Isometric deformation of meshes.
+Fig.3: Isometric deformation of meshes.
+
+
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -84,22 +104,9 @@ Fig.2: Isometric deformation of meshes.
         {% include figure.html path="assets/img/proj2/star_oct_2_half.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>  
 </div>
-Fig.3: Felixion behavior of meshes.
+Fig.4: Felixion behavior of meshes.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj2/flower1.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
-    </div>
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj2/flower_full.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj2/flower2.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
-    </div>
-</div>
-Fig.4: Simulation the bending process (isometric deformation) of the **Strelitzia reginae** flower.
+
 
 
 <div class="row">
