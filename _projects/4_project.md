@@ -1,80 +1,47 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Principal Symmetric Meshes (S-nets)
+description: Discrete differential geometry, Architectural geometry, Computational fabrication, Paneling, Sphere geometries, Curvature adaptive milling
+img: assets/img/paper_2020SIG.png
+importance: 4
+category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+------
+##### **Publication**
+ACM Transactions on Graphics
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+##### **Authors**
+Davide Pellis, Hui Wang, Florian Rist, Kilian Martin, Helmut Pottmann, Christian Müller
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+##### **Downloads**
+[paper](https://www.geometrie.tuwien.ac.at/geom/ig/publications/snets/snets.pdf)
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+##### **Abstract**
+The isolines of principal symmetric surface parametrizations run symmetrically to the principal directions. We describe two discrete versions of these
+special nets/quad meshes which are dual to each other and show their usefulness for various applications in the context of fabrication and architectural
+design. Our discretization of a principal symmetric mesh comes naturally
+with a family of spheres, the so-called Meusnier and Mannheim spheres. In
+our representation of principal symmetric meshes, we have direct control
+over the radii of theses spheres and the intersection angles of the parameter
+lines. This facilitates tasks such as generating Weingarten surfaces including constant mean curvature surfaces and minimal surfaces. We illustrate
+the potential of Weingarten surfaces for paneling doubly curved freeform facades by significantly reducing the number of necessary molds. Moreover,
+we have direct access to curvature adaptive tool paths for cylindrical CNC
+milling with circular edges as well as flank milling with rotational cones.
+Furthermore, the construction of curved support structures from congruent
+circular strips is easily managed by constant sphere radii. The underlying
+families of spheres are in a natural way discrete curvature spheres in analogy
+to smooth Möbius and Laguerre geometry which further leads to a novel
+discrete curvature theory for principal symmetric meshes.
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+------
+
+##### **Figures**
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+------
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+#### **Video**
+
+Presentation video is [here](https://dl.acm.org/doi/10.1145/3386569.3392446).

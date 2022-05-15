@@ -1,80 +1,45 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Discrete Geodesic Parallel Coordinates
+description: Discrete differential geometry, Architectural geometry, Computational fabrication, Paneling, Geodesic, Geodesic strip, Isometry, Geodesic parallel coordinates
+img: assets/img/paper_DGPC.jpg
+importance: 5
+category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+------
+##### **Publication**
+ACM Transactions on Graphics
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+##### **Authors**
+Hui Wang, Davide Pellis, Florian Rist, Helmut Pottmann, Christian Müller
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+##### **Downloads**
+[paper](https://www.geometrie.tuwien.ac.at/geom/ig/publications/geodesic/geodesic.pdf)
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+##### **Abstract**
+Geodesic parallel coordinates are orthogonal nets on surfaces where one
+of the two families of parameter lines are geodesic curves. We describe a
+discrete version of these special surface parameterizations and show that
+they are very useful for specific applications, most of which are related to
+the design and fabrication of surfaces in architecture. With the new discrete surface model, it is easy to control strip widths between neighboring
+geodesics. This facilitates tasks such as cladding a surface with strips of
+originally straight flat material or designing geodesic gridshells and timber
+rib shells. It is also possible to model nearly developable surfaces. These are
+characterized by geodesic strips with almost constant strip widths and are
+used for generating shapes that can be manufactured from materials which
+allow for some stretching or shrinking like felt, leather, or thin wooden
+boards. Most importantly, we show how to constrain the strip width parameters to model a class of intrinsically symmetric surfaces. These surfaces are
+isometric to surfaces of revolution and can be covered with doubly-curved
+panels that are produced with only a few molds when working with flexible
+materials like metal sheets.
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+------
+
+##### **Figures**
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+------
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+#### **Video**
