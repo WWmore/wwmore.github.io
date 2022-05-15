@@ -36,7 +36,7 @@ nevertheless flexible
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj2/paper_2021SIG.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+        {% include figure.html path="assets/img/paper_2021SIG.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
 Fig.: Smooth freeform skins from flexible panels. It turns out that constant

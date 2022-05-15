@@ -40,7 +40,7 @@ discrete curvature theory for principal symmetric meshes.
 ##### **Figures**
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj3/paper_2020SIG.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+        {% include figure.html path="assets/img/paper_2020SIG.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
 Fig.: Architectural design of a modern mountain leisure and tourism center. The geometric shape of the hull is a discrete principal symmetric parametrization

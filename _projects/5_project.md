@@ -40,7 +40,7 @@ materials like metal sheets.
 ##### **Figures**
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj3/paper_DGPC.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+        {% include figure.html path="assets/img/paper_DGPC.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
 Fig.: Architectural design in reference to designs by architect Frank Gehry. In our case the four surface patches are not developable, but are isometric to the
