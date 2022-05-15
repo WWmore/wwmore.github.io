@@ -15,7 +15,7 @@ Computer-Aided Design
 Caigui Jiang, Florian Rist, Hui Wang, Johannes Wallner, Helmut Pottmann
 
 ##### **Downloads**
-[paper]{https://www.geometrie.tuwien.ac.at/geom/ig/publications/geommaterials/geommaterials.pdf}
+[paper](https://www.geometrie.tuwien.ac.at/geom/ig/publications/geommaterials/geommaterials.pdf)
 
 ##### **Abstract**
 Small-scale cut and fold patterns imposed on sheet material enable its morphing into three-dimensional shapes. This manufacturing paradigm has been receiving much attention in recent years and poses challenges in both fabrication and computation. It is intimately connected with the interpretation of patterned sheets as mechanical metamaterials, typically of negative Poisson ratio. We here present an affirmative solution to a fundamental geometric question, namely the targeted programming of a shape morph. We use optimization to compute kirigami patterns that realize a morph between shapes, in particular between a flat sheet and a surface in space. The shapes involved can be arbitrary; in fact we are able to approximate any mapping between shapes whose principal distortions do not exceed certain bounds. This amounts to a solution of the so-called inverse problem for kirigami cut and fold patterns. The methods we employ include a differential–geometric interpretation of the morph, besides drawing on recent progress in geometric computing.
@@ -40,7 +40,7 @@ Fig.1: Auxetic behavior of regular squares can be considered by square corners g
         {% include figure.html path="assets/img/proj3/a2.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
-Fig.2: Joint optimization of quad-based metamaterials in closed state and maximally open spatial state.
+Fig.2: Joint optimization of quad-based metamaterials in closed state and fully open spatial state. "Fully open quads" means that all the hole quards are circular.
 
 
 <div class="row">
