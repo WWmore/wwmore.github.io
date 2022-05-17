@@ -12,7 +12,8 @@ category: work
 ACM Transactions on Graphics
 
 ##### **Authors**
-Davide Pellis, Hui Wang, Florian Rist, Kilian Martin, Helmut Pottmann, Christian Müller
+Davide Pellis∗, Hui Wang∗, Florian Rist, Kilian Martin, Helmut Pottmann, Christian Müller
+(Joint first authors)
 
 ##### **Downloads**
 [paper](https://www.geometrie.tuwien.ac.at/geom/ig/publications/snets/snets.pdf)

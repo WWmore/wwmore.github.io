@@ -49,6 +49,51 @@ curves of the corresponding surface of revolution as a mold (left and Figure 16)
 mold or can be segmented into smaller molds if necessary. Metal sheets covering surface areas with almost vanishing Gaussian curvature can be produced
 without a special mold, i.e., as developable surface patches.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj5/slide1.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+Fig.1: In this paper, we model a geodesic parallel mesh with a regular quad grid by choosing a geodesic direction and asking for the geodesic parallel angles constraint. We furthermore ask for equal edge lengths along parallel polylines to get a discrete surface isometric to a surface of revolution. Instead, with angle constraint, equal edge lengths along geodesic polylines, and the discrete Jacobi equation, we can model discrete developable surfaces.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj5/slide2.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+Fig.2: Cuting along a profile curve of the rotatioanl surface, isometrically deform it to get freeform patches.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj5/slide3.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+Fig.3: The variety of surface patches (top) isometric to surfaces of revolution (bottom).
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj5/slide4.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+Fig.4: Geodesic parallel meshes can approximate a nearly developable surface like for instance a folded felt. The process is the following. We first scanned a folded felt to get a mesh model. We start then from a planar quad mesh. With geodesic parallel and developability constraints on, we optimize for closeness with the scanned mesh. We observe a good approximation, and the corresponding surface of revolution is an almost right cylinder. On bottom right, the nearly developable surface has been developed into the plane. Also here we can observe small distortions.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj5/slide5.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+Fig.5: Geodesic parallel meshes very naturally leads to real-world applications. First of all, geodesics on a surface can be easily materialized with thin elongated quadrilateral timber strips(straight strips). Moreover, parallel geodesics are fairly distributed over a surface. Geodesic parallel meshes are then well suited for the design of architectural geodesic gridshells. A design procedure can be the following. Given a freeform reference surface, we can cover the surface with a geodesic parallel mesh. In this way, we get a first family of geodesic curves on the surface. A second mesh with different orientation can be used for a second family of geodesic curves to get a network. If a reference surface is not given, a generic geodesic parallel mesh can be used as a reference for the second one. To test our design procedure, we built a small scale model made of straight wooden strips, shown on the left. Here we can see how well the model match our geodesic parallel mesh on the right.
+
 ------
 
 #### **Video**
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj5/video_clad_def_2x.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj5/video_model_def_4x.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+Interactive design of the geodesic parallel meshes.
