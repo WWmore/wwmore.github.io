@@ -96,4 +96,6 @@ Fig.5: Geodesic parallel meshes very naturally leads to real-world applications.
         {% include figure.html path="assets/img/proj5/video_model_def_4x.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
-Interactive design of the geodesic parallel meshes.
+<div class="caption">
+    Interactive design of the geodesic parallel meshes.
+</div>
