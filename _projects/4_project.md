@@ -18,12 +18,13 @@ Davide Pellis∗, Hui Wang∗, Florian Rist, Kilian Martin, Helmut Pottmann, Chr
 ##### **Downloads**
 [paper](https://www.geometrie.tuwien.ac.at/geom/ig/publications/snets/snets.pdf)
 
-<object data="https://www.geometrie.tuwien.ac.at/geom/ig/publications/snets/snets.pdf" type="pdf" width="95%" height="700px">
+<object data="https://www.geometrie.tuwien.ac.at/geom/ig/publications/snets/snets.pdf" type="application/pdf" width="95%" height="700px">
     <embed src="https://www.geometrie.tuwien.ac.at/geom/ig/publications/snets/snets.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://www.geometrie.tuwien.ac.at/geom/ig/publications/snets/snets.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
+<iframe src="https://www.geometrie.tuwien.ac.at/geom/ig/publications/snets/snets.pdf" height="100%" width="100%"></iframe>
 
 ##### **Abstract**
 The isolines of principal symmetric surface parametrizations run symmetrically to the principal directions. We describe two discrete versions of these
