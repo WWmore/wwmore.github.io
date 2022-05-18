@@ -18,11 +18,11 @@ Davide Pellis∗, Hui Wang∗, Florian Rist, Kilian Martin, Helmut Pottmann, Chr
 ##### **Downloads**
 [paper](https://www.geometrie.tuwien.ac.at/geom/ig/publications/snets/snets.pdf)
 
-<object data="https://www.geometrie.tuwien.ac.at/geom/ig/publications/snets/snets.pdf#toolbar=0" type="application/pdf" width="100%" height="100%">
-</object>
+<!-- <object data="https://www.geometrie.tuwien.ac.at/geom/ig/publications/snets/snets.pdf#toolbar=0" type="application/pdf" width="100%" height="100%">
+</object> -->
 
 <iframe src="https://www.geometrie.tuwien.ac.at/geom/ig/publications/snets/snets.pdf" 
-width="90%" height=1000 frameborder="0">
+width="90%" height=500 frameborder="0" style="border: none;">
 </iframe>
 
 ##### **Abstract**
