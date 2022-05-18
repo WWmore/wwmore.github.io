@@ -17,6 +17,10 @@ Caigui Jiang, Hui Wang, Victor Ceballos Inza, Felix Dellinger, Florian Rist, Joh
 ##### **Downloads**
 [paper](https://www.geometrie.tuwien.ac.at/geom/ig/publications/isoforfab/isoforfab.pdf)
 
+<iframe src="https://www.geometrie.tuwien.ac.at/geom/ig/publications/isoforfab/isoforfab.pdf#toolbar=0" 
+width="100%" height=400 frameborder="0" style="border: none;">
+</iframe>
+
 ##### **Abstract**
 We solve the task of representing free forms by an arrangement of panels
 that are manufacturable by precise isometric bending of surfaces made from

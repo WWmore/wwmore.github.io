@@ -22,7 +22,7 @@ Davide Pellis∗, Hui Wang∗, Florian Rist, Kilian Martin, Helmut Pottmann, Chr
 </object> -->
 
 <iframe src="https://www.geometrie.tuwien.ac.at/geom/ig/publications/snets/snets.pdf#toolbar=0" 
-width="97%" height=400 frameborder="0" style="border: none;">
+width="100%" height=400 frameborder="0" style="border: none;">
 </iframe>
 
 ##### **Abstract**

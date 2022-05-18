@@ -17,6 +17,10 @@ Hui Wang, Davide Pellis, Florian Rist, Helmut Pottmann, Christian Müller
 ##### **Downloads**
 [paper](https://www.geometrie.tuwien.ac.at/geom/ig/publications/geodesic/geodesic.pdf)
 
+<iframe src="https://www.geometrie.tuwien.ac.at/geom/ig/publications/geodesic/geodesic.pdf#toolbar=0" 
+width="100%" height=400 frameborder="0" style="border: none;">
+</iframe>
+
 ##### **Abstract**
 Geodesic parallel coordinates are orthogonal nets on surfaces where one
 of the two families of parameter lines are geodesic curves. We describe a
@@ -34,6 +38,10 @@ isometric to surfaces of revolution and can be covered with doubly-curved
 panels that are produced with only a few molds when working with flexible
 materials like metal sheets.
 
+
+<iframe src="assets/pdf/2019-[SA]-slides.pdf#toolbar=0" 
+width="100%" height=400 frameborder="0" style="border: none;">
+</iframe>
 
 ------
 
