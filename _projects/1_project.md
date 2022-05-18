@@ -17,7 +17,7 @@ Hui Wang, Helmut Pottmann
 ##### **Downloads**
 [paper](assets/pdf/2022_crpc.pdf)
 
-<iframe src="assets/pdf/2022_crpc.pdf#toolbar=0" 
+<iframe src="/assets/pdf/2022_crpc.pdf#toolbar=0" 
 width="100%" height=400 frameborder="0" style="border: none;">
 </iframe>
 
