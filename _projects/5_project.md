@@ -40,7 +40,7 @@ materials like metal sheets.
 
 
 <iframe src="/assets/pdf/2019-[SA]-slides.pdf#toolbar=0" 
-width="100%" height=400 frameborder="0" style="border: none;">
+width="100%" height=300 frameborder="0" style="border: none;">
 </iframe>
 
 ------
