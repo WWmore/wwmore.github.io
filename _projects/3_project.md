@@ -83,9 +83,6 @@ Fig.4: Roof design from fully closed planar states to fully open curved states.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj3/roof10.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/proj3/hexi_roof4.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
@@ -93,6 +90,13 @@ Fig.4: Roof design from fully closed planar states to fully open curved states.
     </div>    
 </div>
 Fig.5: Fully open Kirigami roofs.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj3/roof10.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>  
+</div>
+Fig.6: Architectural design.
 
 
 ------
