@@ -16,7 +16,9 @@ category: fun
     </div>
 </div>
 <div class="caption">
-    I followed a Youtube tutorial to design the [Boiler Suit façade](https://www.dezeen.com/2007/08/20/boiler-suit-by-thomas-heatherwick/) by Thomas Heatherwick.
+    I followed a Youtube tutorial to design the 
+    <a href="https://www.dezeen.com/2007/08/20/boiler-suit-by-thomas-heatherwick/" target="\_blank"> Boiler Suit façade </a>
+    by Thomas Heatherwick.
 </div>
 
 

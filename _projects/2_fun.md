@@ -19,7 +19,9 @@ category: fun
     </div>    
 </div>
 <div class="caption">
-    I followed a tutorial to design the [Phoenix Center](https://www.wikiwand.com/en/Phoenix_Center) in Beijing.
+    I followed a tutorial to design the 
+    <a href="https://www.wikiwand.com/en/Phoenix_Center" target="\_blank"> Phoenix Center </a>
+    in Beijing.
 </div>
 
 ------
