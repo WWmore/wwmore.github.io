@@ -9,7 +9,7 @@ subtitle: <p> hui.wang.1@kaust.edu.sa |
 
 profile:
   align: right
-  image: me2.jpg
+  image: me3.png
   address: >
     <p> VCC,KAUST,Jeddah,23955 </p>
 
