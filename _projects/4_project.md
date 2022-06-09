@@ -56,6 +56,19 @@ Fig.: Architectural design of a modern mountain leisure and tourism center. The 
 reduction of necessary molds, as the same mold can be used along curves of constant curvature illustrated by isolines (b). Panels with identical molds are
 clustered together and highlighted by the same color (a). The network of this S-net assumes constant intersection angles which contributes to its aesthetic.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj4/snet_fig16.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+Fig.1: Re-render of the Fig.16 in the paper.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj4/snet_fig19.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+Fig.2: Re-render of the Fig.19 in the paper.
 ------
 
 #### **Video**
