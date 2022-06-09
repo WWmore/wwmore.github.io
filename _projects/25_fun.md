@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Glassball
+title: Suzanne
 description: Blender
 img: assets/img/fun/blender_model.png
 importance: 10
