@@ -13,7 +13,7 @@ category: fun
     </div>       
 </div>
 <div class="caption">
-    I made two weave blaskets in Blender.
+    I made two weave baskets in Blender.
 </div>
 
 ------
