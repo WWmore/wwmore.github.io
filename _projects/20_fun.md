@@ -13,7 +13,7 @@ category: fun
     </div>       
 </div>
 <div class="caption">
-    This was maybe the most complex model I made in Blender.
+    This was maybe the most complex and realistic model I made in Blender.
 </div>
 
 ------
