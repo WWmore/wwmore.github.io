@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Grasshopper
-description: Chunhua Pedestrain Bridge
+title: Chunhua Pedestrain Bridge
+description: Rhino(Grasshopper)
 img: assets/img/fun/spring_flower1.png
 importance: 3
 category: fun

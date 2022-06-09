@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Grasshopper
-description: Weave pattern
+title: Weave pattern
+description: Rhino(Grasshopper)
 img: assets/img/fun/weave_pattern.png
 importance: 3
 category: fun
@@ -13,9 +13,10 @@ category: fun
     </div>
 </div>
 <div class="caption">
-    I followed a tutorial to design the weaving pattern pavillion.
+    I followed a [tutorial](https://parametrichouse.com/wavy-pattern/) to design the weaving pattern pavillion.
 </div>
 
 ------
 ##### **Downloads**
+See the [Parametric House](https://parametrichouse.com/wavy-pattern/).
 Rhino file in [Google Drive](https://drive.google.com/file/d/1i5IrIUac3fGejbT-pjpQRyDz8tUcs3HZ/view?usp=sharing)

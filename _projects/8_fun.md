@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Grasshopper
-description: Paneum center
+title: Paneum center
+description: Rhino(Grasshopper)
 img: assets/img/fun/paneum.png
 importance: 5
 category: fun

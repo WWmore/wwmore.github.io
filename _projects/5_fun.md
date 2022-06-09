@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Grasshopper
-description: Truss
+title: Truss
+description: Rhino(Grasshopper->Lunchbox)
 img: assets/img/fun/truss.png
 importance: 3
 category: fun
