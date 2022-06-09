@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Coronavirus Model
+title: Coronavirus
 description: Blender
 img: assets/img/fun/covid-19.png
 importance: 10

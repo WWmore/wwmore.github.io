@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Waffle Structure
+title: Waffle
 description: Rhino(Grasshopper->Bowerbird)
 img: assets/img/fun/bowerbird_waffle.png
 importance: 7
