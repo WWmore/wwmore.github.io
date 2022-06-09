@@ -2,7 +2,7 @@
 layout: page
 title: Keyshot
 description: interesting materials
-img: assets/img/fun/morph_box.png
+img: assets/img/fun/keyshot_plastic suede rough blue fuzz.png
 importance: 7
 category: fun
 ---
