@@ -13,7 +13,7 @@ category: fun
     </div>    
 </div>
 <div class="caption">
-    I followed a [tutorial](https://parametrichouse.com/voronoi-on-surface/) to design the Voronoi pattern on a spiral surface.
+    I followed a tutorial to design the Voronoi pattern on a spiral surface.
 </div>
 
 ------

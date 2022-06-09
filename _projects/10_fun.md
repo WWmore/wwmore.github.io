@@ -16,9 +16,10 @@ category: fun
     </div> 
 </div>
 <div class="caption">
-    See the [Parametric House](https://parametrichouse.com/trefoil-knot/).
+    Trefoil knots with changable knot numbers.
 </div>
 
 ------
 ##### **Downloads**
+See the [Parametric House](https://parametrichouse.com/trefoil-knot/).
 Rhino file in [Google Drive](https://drive.google.com/file/d/1xtiewe6DK7VV_WmT_YKMW4tCtO2-R1zM/view?usp=sharing).

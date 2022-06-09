@@ -13,7 +13,7 @@ category: fun
     </div>
 </div>
 <div class="caption">
-    I followed a [tutorial](https://parametrichouse.com/wavy-pattern/) to design the weaving pattern pavillion.
+    I followed a tutorial to design the weaving pattern pavillion.
 </div>
 
 ------

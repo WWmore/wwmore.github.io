@@ -13,7 +13,7 @@ category: fun
     </div> 
 </div>
 <div class="caption">
-    Twisted tube with changable parameters See the [Parametric House](https://parametrichouse.com/pufferfish-twisted-box/).
+    Twisted tube with changable parameters.
 </div>
 
 ------

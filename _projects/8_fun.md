@@ -16,7 +16,7 @@ category: fun
     </div> 
 </div>
 <div class="caption">
-    Left: [Paneum center](https://www.archdaily.com/881743/paneum-center-coop-himmelb-l-au) by Coop Himmelb(l)au in Austria.
+    Left: <a href="https://www.archdaily.com/881743/paneum-center-coop-himmelb-l-au" target="\_blank"> Paneum center </a> by Coop Himmelb(l)au in Austria.
     Right: a roughly approximated model by me.
 </div>
 

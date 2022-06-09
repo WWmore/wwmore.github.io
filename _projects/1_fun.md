@@ -16,7 +16,7 @@ category: fun
     </div>
 </div>
 <div class="caption">
-    I followed a [tutorial](https://parametrichouse.com/boiler-suit/) to design the 
+    I followed a tutorial to design the 
     <a href="https://www.dezeen.com/2007/08/20/boiler-suit-by-thomas-heatherwick/" target="\_blank"> Boiler Suit façade </a>
     by Thomas Heatherwick.
 </div>
@@ -24,4 +24,5 @@ category: fun
 
 ------
 ##### **Downloads**
+See the [Parametric House](https://parametrichouse.com/boiler-suit/).
 Rhino file in [Google Drive](https://drive.google.com/file/d/1fAuhEW_VU8LTB_nf6XUOaykNiADkXmHF/view?usp=sharing).

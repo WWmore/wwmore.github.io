@@ -16,7 +16,7 @@ category: fun
     </div>       
 </div>
 <div class="caption">
-    I designed an auxetic lamp.
+    I designed an auxetic lamp or dome.
 </div>
 
 ------
