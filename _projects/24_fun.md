@@ -13,5 +13,5 @@ category: fun
     </div>       
 </div>
 <div class="caption">
-    I made a glass ball on a torus in Blender.
+    I made a glass ball on a metal torus in Blender.
 </div>
