@@ -3,7 +3,7 @@ layout: page
 title: Duck
 description: Rhino
 img: assets/img/fun/duck3.png
-importance: 5
+importance: 9
 category: fun
 ---
 
