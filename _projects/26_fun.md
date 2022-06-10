@@ -3,7 +3,7 @@ layout: page
 title: Wood
 description: Blender
 img: assets/img/fun/blender_wood_roof.png
-importance: 10
+importance: 14
 category: fun
 ---
 

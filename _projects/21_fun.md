@@ -3,7 +3,7 @@ layout: page
 title: Weave pattern
 description: Blender
 img: assets/img/fun/blender_weave.png
-importance: 10
+importance: 14
 category: fun
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: Suzanne
 description: Blender
 img: assets/img/fun/blender_model.png
-importance: 10
+importance: 15
 category: fun
 ---
 
