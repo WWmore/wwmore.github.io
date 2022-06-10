@@ -31,6 +31,6 @@ I got my PhD in 2020 from Dalian University of Technology (DUT), where my superv
 <a href="http://faculty.dlut.edu.cn/zhu/zh_CN/index.htm" target="\_blank">Prof. Chungang Zhu</a>
 in
 <a href="https://math.dlut.edu.cn/English/About_us/Institutes.htm" target="\_blank"> Computational Geometry</a>  group.
-My current research interests include architectural geometry, discrete differential geometry, geometry processing and optimization, and computational design.
+My current research interests include architectural geometry, geometry processing, computational design, CAD, CAGD, and discrete differential geometry etc.
 Please check my
 <a href="https://www.huiwang.me/assets/pdf/hwang-cv.pdf" target="\_blank"><b>CV</b></a> here.
