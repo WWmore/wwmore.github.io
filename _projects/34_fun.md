@@ -16,7 +16,7 @@ category: fun
     </div>  
 </div>
 <div class="caption">
-    Followed a tutorial to model the World Trad Center (Oculus) by Santiago Calatrava architect. Left: Real architecture. Right: Design.
+    Followed a tutorial to model the World Trad Center (Oculus) by Santiago Calatrava architect.
 </div>
 
 ------
