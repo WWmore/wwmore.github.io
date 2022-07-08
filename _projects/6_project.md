@@ -8,14 +8,14 @@ category: work
 ---
 
 ------
-##### <i class="fa-solid fa-memo"></i> **Publication**
+##### <i class="fa-solid fa-memo">**Publication**</i> 
 CAD
 
-##### <i class="fa-solid fa-user-group"></i> **Authors**
+##### <i class="fa-solid fa-user-group">**Authors**</i> 
 Eike Schling∗, Hui Wang∗, Sebastian Hoyer, Helmut Pottmann 
 (∗Joint first authors)
 
-##### <i class="fa-solid fa-file-arrow-down"></i> **Downloads**
+##### <i class="fa-solid fa-file-arrow-down">**Downloads**</i> 
 <!-- [paper](https://www.geometrie.tuwien.ac.at/geom/ig/publications/geodesic/geodesic.pdf) -->
 
 <!-- <iframe src="https://www.geometrie.tuwien.ac.at/geom/ig/publications/geodesic/geodesic.pdf#toolbar=0" 
@@ -32,23 +32,24 @@ width="100%" height=350 frameborder="0" style="border: none;">
 
 ------
 
-##### <i class="fa-solid fa-image"></i> **Figures**
-<div class="row">
+##### <i class="fa-solid fa-image">**Figures**</i>
+ 
+<!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/paper_DGPC.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
-Fig.: 
+Fig.:  -->
 
 
 ------
 
-#### <i class="fa-solid fa-circle-play"></i> **Video**
+#### <i class="fa-solid fa-circle-play">**Video**</i> 
 
-Presentation video in Youtube [<i class="fa-brands fa-youtube"></i>](https://dl.acm.org/doi/10.1145/3386569.3392446) and Bilibili [<i class="fa-brands fa-bilibili"></i>](https://www.bilibili.com/video/BV1Rf4y1Z7yK?spm_id_from=333.999.0.0&vd_source=3fcaaf2fe9f45c94842d7fa553d555be)
+Presentation video in [<i class="fa-brands fa-youtube">Youtube</i>](https://dl.acm.org/doi/10.1145/3386569.3392446) and in [<i class="fa-brands fa-bilibili">Bilibili</i>](https://www.bilibili.com/video/BV1Rf4y1Z7yK?spm_id_from=333.999.0.0&vd_source=3fcaaf2fe9f45c94842d7fa553d555be)
 
 
 <p align="center">
-<iframe width="560" height="315" src="[Curves&Surfaces2022]-Designing asymptotic geodesic hybrid gridshells" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=jyjE0wSNoHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
