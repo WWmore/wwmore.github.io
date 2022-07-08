@@ -40,7 +40,7 @@ width="100%" height=350 frameborder="0" style="border: none;">
 
 #### <i class='fab fa-youtube'>**Video**</i> 
 
-Presentation video in [YouTube](https://www.youtube.com/watch?v=jyjE0wSNoHw) and in [Bilibili](https://www.bilibili.com/video/BV1Rf4y1Z7yK?spm_id_from=333.999.0.0&vd_source=3fcaaf2fe9f45c94842d7fa553d555be)
+Presentation video in [YouTube](https://www.youtube.com/watch?v=jyjE0wSNoHw) and in [Bilibili](https://www.bilibili.com/video/BV1Rf4y1Z7yK?spm_id_from=333.999.0.0&vd_source=3fcaaf2fe9f45c94842d7fa553d555be).
 
 
 <!-- <p align="center">
