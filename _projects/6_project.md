@@ -8,14 +8,15 @@ category: work
 ---
 
 ------
-##### <i class='fas fa-folder-open fa-lg'>**Publication**</i><br/>
+##### <i class='fas fa-folder-open'>**Publication**</i><br/>
 CAD
 
-##### <i class='fas fa-laugh-beam fa-lg'>**Authors**</i><br/>
+##### <i class='fas fa-laugh-beam'>**Authors**</i><br/>
 Eike Schling∗, Hui Wang∗, Sebastian Hoyer, Helmut Pottmann 
 (∗Joint first authors)
 
 ##### <i class='fas fa-download'>**Downloads**</i>
+
 <!-- [paper](https://www.geometrie.tuwien.ac.at/geom/ig/publications/geodesic/geodesic.pdf) -->
 
 <!-- <iframe src="https://www.geometrie.tuwien.ac.at/geom/ig/publications/geodesic/geodesic.pdf#toolbar=0" 
@@ -34,25 +35,16 @@ width="100%" height=350 frameborder="0" style="border: none;">
 
 ##### <i class='far fa-images'>**Figures**</i>
 
-<!-- <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/paper_DGPC.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
-    </div>
-</div>
-Fig.:  -->
-
 
 ------
 
-#### <i class='fab fa-youtube fa-lg'>**Video**</i> 
+#### <i class='fab fa-youtube'>**Video**</i> 
 
-Presentation video in [YouTube](https://dl.acm.org/doi/10.1145/3386569.3392446) and in [Bilibili](https://www.bilibili.com/video/BV1Rf4y1Z7yK?spm_id_from=333.999.0.0&vd_source=3fcaaf2fe9f45c94842d7fa553d555be)
+Presentation video in [YouTube](https://www.youtube.com/watch?v=jyjE0wSNoHw) and in [Bilibili](https://www.bilibili.com/video/BV1Rf4y1Z7yK?spm_id_from=333.999.0.0&vd_source=3fcaaf2fe9f45c94842d7fa553d555be)
 
 
 <!-- <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=jyjE0wSNoHw" title="Designing Asymptotic Geodesic Hybrid Gridshells" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p> -->
 
-<p align="center">
 <iframe width="420" height="315" src="https://www.youtube.com/watch?v=jyjE0wSNoHw" frameborder="0" allowfullscreen></iframe>
-</p>
