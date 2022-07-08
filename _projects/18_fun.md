@@ -17,6 +17,6 @@ category: fun
 </div>
 
 ------
-##### **Downloads**
+##### <i class='fas fa-download'>**Downloads**</i>
 See [Tutorial](https://parametrichouse.com/cairo-tessellation/).
 Rhino file in [Google Drive](https://drive.google.com/file/d/11nkPmjp866i_bbKu5kNHsEHlxQKZpHG5/view?usp=sharing).

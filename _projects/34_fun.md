@@ -20,7 +20,7 @@ category: fun
 </div>
 
 ------
-##### **Downloads**
+##### <i class='fas fa-download'>**Downloads**</i>
 See the [tutorial](https://www.youtube.com/watch?v=aUbEFr2ygX8).
 
 Rhino file in [Google Drive](https://drive.google.com/file/d/1ZDvougJkLy3q9w8g1Pyfd2QYQGnfCd29/view?usp=sharing).

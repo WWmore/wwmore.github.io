@@ -24,5 +24,5 @@ category: fun
 </div>
 
 ------
-##### **Downloads**
+##### <i class='fas fa-download'>**Downloads**</i>
 See the [Parametric House](https://parametrichouse.com/twisted-box-mesh-boolean/).

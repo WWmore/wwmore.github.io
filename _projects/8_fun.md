@@ -21,5 +21,5 @@ category: fun
 </div>
 
 ------
-##### **Downloads**
+##### <i class='fas fa-download'>**Downloads**</i>
 Rhino file in [Google Drive](https://drive.google.com/file/d/1o1TT66RaNbsNk2lGqvK5OGrikH4l-Jq-/view?usp=sharing), Grasshopper files in [Google Drive1](https://drive.google.com/file/d/18TSV-vHOfrdbgu6KuIWc0_3qwHB4RunU/view?usp=sharing) and [Google Drive2](https://drive.google.com/file/d/17iRGHK6LJtjJphZuqud8aP2OPYF4Bv42/view?usp=sharing).

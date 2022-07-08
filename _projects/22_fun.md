@@ -20,7 +20,7 @@ category: fun
 </div>
 
 ------
-##### **Downloads**
+##### <i class='fas fa-download'>**Downloads**</i>
 Sphere Earth Blender file in [Google Drive](https://drive.google.com/file/d/110Tmdbw5EfMRT3BOMUh6-e--o_1FjtJB/view?usp=sharing).
 
 Torus Earth Blender file in [Google Drive](https://drive.google.com/file/d/1Yn5dt6StcQZoZgraUNiJgWI6ZXZuTQvk/view?usp=sharing).

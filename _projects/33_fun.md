@@ -20,7 +20,7 @@ category: fun
 </div>
 
 ------
-##### **Downloads**
+##### <i class='fas fa-download'>**Downloads**</i>
 See the [tutorial](https://docs.mcneel.com/rhino/6/usersguide/en-us/index.htm).
 
 Duck Rhino file in [Google Drive](https://drive.google.com/file/d/1AwYtae64FDFL6sKlkob2WpJWuPQGq81N/view?usp=sharing).

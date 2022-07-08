@@ -23,5 +23,5 @@ category: fun
 </div>
 
 ------
-##### **Downloads**
+##### <i class='fas fa-download'>**Downloads**</i>
 See [Bowerbird](https://github.com/oberbichler/Bowerbird)

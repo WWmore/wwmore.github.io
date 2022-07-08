@@ -23,6 +23,6 @@ category: fun
 
 
 ------
-##### **Downloads**
+##### <i class='fas fa-download'>**Downloads**</i>
 See the [Parametric House](https://parametrichouse.com/boiler-suit/).
 Rhino file in [Google Drive](https://drive.google.com/file/d/1fAuhEW_VU8LTB_nf6XUOaykNiADkXmHF/view?usp=sharing).

@@ -17,6 +17,6 @@ category: fun
 </div>
 
 ------
-##### **Downloads**
+##### <i class='fas fa-download'>**Downloads**</i>
 See [Criss Cross pattern](https://www.grasshopper3d.com/forum/topics/point-grid-and-criss-cross-pattern).
 Rhino file in [Google Drive](https://drive.google.com/file/d/1Ly6SNBdxqoHYkWKu_W397q-njyF7N5J9/view?usp=sharing)

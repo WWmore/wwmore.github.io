@@ -20,5 +20,5 @@ category: fun
 </div>
 
 ------
-##### **Downloads**
+##### <i class='fas fa-download'>**Downloads**</i>
 See the [tutorial](https://parametrichouse.com/lesson/whatis/).

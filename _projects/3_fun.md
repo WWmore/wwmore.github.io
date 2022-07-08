@@ -22,5 +22,5 @@ category: fun
 </div>
 
 ------
-##### **Downloads**
+##### <i class='fas fa-download'>**Downloads**</i>
 Rhino file in [Google Drive](https://drive.google.com/file/d/1H-mbhU3lD3obkZYuD61CqBaKh1YUTBlY/view?usp=sharing)

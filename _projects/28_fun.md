@@ -20,5 +20,5 @@ category: fun
 </div>
 
 ------
-##### **Downloads**
+##### <i class='fas fa-download'>**Downloads**</i>
 See [Tutorial](https://parametrichouse.com/lunchbox-quad-tower/).

@@ -17,6 +17,6 @@ category: fun
 </div>
 
 ------
-##### **Downloads**
+##### <i class='fas fa-download'>**Downloads**</i>
 See another tutorial in [Parametric House](https://parametrichouse.com/twisting-fractal-2/).
 Grasshopper file in [Google Drive](https://drive.google.com/file/d/1QPhaHug9jG35POq5b6NGiX1DeSSabP12/view?usp=sharing)

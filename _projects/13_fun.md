@@ -17,6 +17,6 @@ category: fun
 </div>
 
 ------
-##### **Downloads**
+##### <i class='fas fa-download'>**Downloads**</i>
 See the [Parametric House](https://parametrichouse.com/voronoi-on-surface/).
 Grasshopper file in [Google Drive](https://drive.google.com/file/d/1EieubqnE-PUptJsi1Z56x9xvRazLbSj5/view?usp=sharing)

@@ -20,6 +20,6 @@ category: fun
 </div>
 
 ------
-##### **Downloads**
+##### <i class='fas fa-download'>**Downloads**</i>
 See the [Parametric House](https://parametrichouse.com/lunchbox-enneper-surface/).
 Grasshopper file in [Google Drive](https://drive.google.com/file/d/1pudc3s2CmtzmuLIM1DTydb1UY7o6GXPn/view?usp=sharing)

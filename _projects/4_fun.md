@@ -17,6 +17,6 @@ category: fun
 </div>
 
 ------
-##### **Downloads**
+##### <i class='fas fa-download'>**Downloads**</i>
 See the [Parametric House](https://parametrichouse.com/wavy-pattern/).
 Rhino file in [Google Drive](https://drive.google.com/file/d/1i5IrIUac3fGejbT-pjpQRyDz8tUcs3HZ/view?usp=sharing)
