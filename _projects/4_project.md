@@ -8,14 +8,14 @@ category: work
 ---
 
 ------
-##### **Publication**
+##### <i class='fas fa-folder-open'>**Publication**</i><br/>
 ACM Transactions on Graphics
 
-##### **Authors**
+##### <i class='fas fa-laugh-beam'>**Authors**</i><br/>
 Davide Pellis∗, Hui Wang∗, Florian Rist, Kilian Martin, Helmut Pottmann, Christian Müller
 (∗Joint first authors)
 
-##### **Downloads**
+##### <i class='fas fa-file-pdf'>**PDF**</i>
 [paper](https://www.geometrie.tuwien.ac.at/geom/ig/publications/snets/snets.pdf)
 
 <!-- <object data="https://www.geometrie.tuwien.ac.at/geom/ig/publications/snets/snets.pdf#toolbar=0" type="application/pdf" width="100%" height="100%">
@@ -25,7 +25,7 @@ Davide Pellis∗, Hui Wang∗, Florian Rist, Kilian Martin, Helmut Pottmann, Chr
 width="100%" height=400 frameborder="0" style="border: none;">
 </iframe>
 
-##### **Abstract**
+##### <i class='fas fa-align-justify'>**Abstract**</i>
 The isolines of principal symmetric surface parametrizations run symmetrically to the principal directions. We describe two discrete versions of these
 special nets/quad meshes which are dual to each other and show their usefulness for various applications in the context of fabrication and architectural
 design. Our discretization of a principal symmetric mesh comes naturally
@@ -45,7 +45,7 @@ discrete curvature theory for principal symmetric meshes.
 
 ------
 
-##### **Figures**
+##### <i class='far fa-images'>**Figures**</i>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/paper_2020SIG.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
@@ -72,6 +72,6 @@ Fig.2: Re-render of the Fig.19 in the paper.
 
 ------
 
-#### **Video**
+#### <i class='fab fa-youtube'>**Video**</i> 
 
 Presentation video is [here](https://dl.acm.org/doi/10.1145/3386569.3392446).

@@ -8,25 +8,25 @@ category: work
 ---
 
 ------
-##### **Publication**
+##### <i class='fas fa-folder-open'>**Publication**</i><br/>
 Computer Aided Geometric Design
 
-##### **Authors**
+##### <i class='fas fa-laugh-beam'>**Authors**</i><br/>
 Hui Wang, Helmut Pottmann
 
-##### **Downloads**
+##### <i class='fas fa-file-pdf'>**PDF**</i>
 [paper](assets/pdf/2022_crpc.pdf)
 
 <iframe src="/assets/pdf/2022_crpc.pdf#toolbar=0" 
 width="100%" height=400 frameborder="0" style="border: none;">
 </iframe>
 
-##### **Abstract**
+##### <i class='fas fa-align-justify'>**Abstract**</i>
 Motivated by applications in architectural geometry, we study and compute surfaces with a constant ratio of principal curvatures (CRPC surfaces) based on their characteristic parameterizations. For negative Gaussian curvature K, these parameterizations are asymptotic. For positive K they are conjugate and symmetric with respect to the principal curvature directions. CRPC surfaces are described by characteristic parameterizations whose parameter lines form a constant angle. We use them to derive characteristic parameterizations of rotational CRPC surfaces in a simple geometric way. Pairs of such surfaces with principal curvature ratio k1/k2=±a can be seen as equilibrium shapes and reciprocal force diagrams of each other. We then introduce discrete CRPC surfaces, expressed via discrete isogonal characteristic nets, and show how to efficiently compute them through numerical optimization. In particular, we derive discrete helical and spiral CRPC surfaces. We provide various ways how these and other special types of CRPC surfaces can serve as a basis for computational design of more general CRPC surfaces. Our computational tools may also serve as an experimental basis for mathematical studies of the largely unexplored class of CRPC surfaces.
 
 ------
 
-##### **Figures**
+##### <i class='far fa-images'>**Figures**</i>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -75,7 +75,7 @@ Fig.3: Asymptotic gridshells, whose underlying surfaces are negatively curved CR
 
 ------
 
-#### **Video**
+#### <i class='fas fa-photo-video'>GIF</i>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

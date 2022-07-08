@@ -8,20 +8,20 @@ category: work
 ---
 
 ------
-##### **Publication**
+##### <i class='fas fa-folder-open'>**Publication**</i><br/>
 ACM Transactions on Graphics
 
-##### **Authors**
+##### <i class='fas fa-laugh-beam'>**Authors**</i><br/>
 Caigui Jiang, Hui Wang, Victor Ceballos Inza, Felix Dellinger, Florian Rist, Johannes Wallner, Helmut Pottmann
 
-##### **Downloads**
+##### <i class='fas fa-file-pdf'>**PDF**</i>
 [paper](https://www.geometrie.tuwien.ac.at/geom/ig/publications/isoforfab/isoforfab.pdf)
 
 <iframe src="https://www.geometrie.tuwien.ac.at/geom/ig/publications/isoforfab/isoforfab.pdf#toolbar=0" 
 width="100%" height=400 frameborder="0" style="border: none;">
 </iframe>
 
-##### **Abstract**
+##### <i class='fas fa-align-justify'>**Abstract**</i>
 We solve the task of representing free forms by an arrangement of panels
 that are manufacturable by precise isometric bending of surfaces made from
 a small number of molds. In fact we manage to solve the paneling task with
@@ -36,7 +36,7 @@ nevertheless flexible
 
 ------
 
-##### **Figures**
+##### <i class='far fa-images'>**Figures**</i>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -142,7 +142,7 @@ Fig.5: Flexion facade design analogous to the “flectofin” shading elements [
 
 ------
 
-#### **Video**
+#### <i class='fab fa-youtube'>**Video**</i> 
 Presentation video is [here](https://dl.acm.org/doi/10.1145/3450626.3459839).
 
 

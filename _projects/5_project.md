@@ -8,20 +8,20 @@ category: work
 ---
 
 ------
-##### **Publication**
+##### <i class='fas fa-folder-open'>**Publication**</i><br/>
 ACM Transactions on Graphics
 
-##### **Authors**
+##### <i class='fas fa-laugh-beam'>**Authors**</i><br/>
 Hui Wang, Davide Pellis, Florian Rist, Helmut Pottmann, Christian Müller
 
-##### **Downloads**
+##### <i class='fas fa-file-pdf'>**PDF**</i>
 [paper](https://www.geometrie.tuwien.ac.at/geom/ig/publications/geodesic/geodesic.pdf)
 
 <iframe src="https://www.geometrie.tuwien.ac.at/geom/ig/publications/geodesic/geodesic.pdf#toolbar=0" 
 width="100%" height=400 frameborder="0" style="border: none;">
 </iframe>
 
-##### **Abstract**
+##### <i class='fas fa-align-justify'>**Abstract**</i>
 Geodesic parallel coordinates are orthogonal nets on surfaces where one
 of the two families of parameter lines are geodesic curves. We describe a
 discrete version of these special surface parameterizations and show that
@@ -45,7 +45,7 @@ width="100%" height=350 frameborder="0" style="border: none;">
 
 ------
 
-##### **Figures**
+##### <i class='far fa-images'>**Figures**</i>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/paper_DGPC.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
@@ -94,8 +94,7 @@ Fig.5: Geodesic parallel meshes very naturally leads to real-world applications.
 
 ------
 
-#### **Video**
-
+#### <i class='fas fa-photo-video'>GIF</i>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/proj5/video_clad_def_2x.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}

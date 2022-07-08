@@ -8,25 +8,25 @@ category: work
 ---
 
 ------
-##### **Publication**
+##### <i class='fas fa-folder-open'>**Publication**</i><br/>
 Computer-Aided Design
 
-##### **Authors**
+##### <i class='fas fa-laugh-beam'>**Authors**</i><br/>
 Caigui Jiang, Florian Rist, Hui Wang, Johannes Wallner, Helmut Pottmann
 
-##### **Downloads**
+##### <i class='fas fa-file-pdf'>**PDF**</i>
 [paper](https://www.geometrie.tuwien.ac.at/geom/ig/publications/geommaterials/geommaterials.pdf)
 
 <iframe src="https://www.geometrie.tuwien.ac.at/geom/ig/publications/geommaterials/geommaterials.pdf#toolbar=0" 
 width="100%" height=400 frameborder="0" style="border: none;">
 </iframe>
 
-##### **Abstract**
+##### <i class='fas fa-align-justify'>**Abstract**</i>
 Small-scale cut and fold patterns imposed on sheet material enable its morphing into three-dimensional shapes. This manufacturing paradigm has been receiving much attention in recent years and poses challenges in both fabrication and computation. It is intimately connected with the interpretation of patterned sheets as mechanical metamaterials, typically of negative Poisson ratio. We here present an affirmative solution to a fundamental geometric question, namely the targeted programming of a shape morph. We use optimization to compute kirigami patterns that realize a morph between shapes, in particular between a flat sheet and a surface in space. The shapes involved can be arbitrary; in fact we are able to approximate any mapping between shapes whose principal distortions do not exceed certain bounds. This amounts to a solution of the so-called inverse problem for kirigami cut and fold patterns. The methods we employ include a differential–geometric interpretation of the morph, besides drawing on recent progress in geometric computing.
 
 ------
 
-##### **Figures**
+##### <i class='far fa-images'>**Figures**</i>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -101,6 +101,6 @@ Fig.6: Architectural design.
 
 ------
 
-#### **Video**
+#### <i class='fab fa-youtube'>**Video**</i> 
 
 Model deformation videos are here: [model1](https://vimeo.com/524221493/b7d951751c), [model2](https://vimeo.com/524221586/a53a1f1064), [model3](https://vimeo.com/524221545/c6b63f9480).

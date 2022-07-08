@@ -15,7 +15,7 @@ CAD
 Eike Schling∗, Hui Wang∗, Sebastian Hoyer, Helmut Pottmann 
 (∗Joint first authors)
 
-##### <i class='fas fa-download'>**Downloads**</i>
+##### <i class='fas fa-file-pdf'>**PDF**</i>
 
 <!-- [paper](https://www.geometrie.tuwien.ac.at/geom/ig/publications/geodesic/geodesic.pdf) -->
 
@@ -47,4 +47,6 @@ Presentation video in [YouTube](https://www.youtube.com/watch?v=jyjE0wSNoHw) and
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=jyjE0wSNoHw" title="Designing Asymptotic Geodesic Hybrid Gridshells" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p> -->
 
+<p align="center">
 <iframe width="420" height="315" src="https://www.youtube.com/watch?v=jyjE0wSNoHw" frameborder="0" allowfullscreen></iframe>
+</p>
