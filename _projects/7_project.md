@@ -67,7 +67,7 @@ Fig.2: Different from the one in Fig.1, every fifth polyline of a family is plan
         {% include figure.html path="assets/img/proj7/harbin.441.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
-Fig.3: Left: [Harbin Opera House](https://www.archdaily.cn/cn/778981/ha-er-bin-ge-ju-yuan-madjian-zhu-shi-wu-suo) designed by the MAD Architects in China. Right-two: Inspired by it, I designed a supporting structure with two families of orthogonal planar polylines (PP+90 type).
+Fig.3: Left: MAD Architects-designed [Harbin Opera House](https://www.archdaily.cn/cn/778981/ha-er-bin-ge-ju-yuan-madjian-zhu-shi-wu-suo) in China. Right-two: Inspired by it, I designed a supporting structure with two families of orthogonal planar polylines (PP+90 type).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
