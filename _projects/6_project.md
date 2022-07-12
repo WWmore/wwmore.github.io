@@ -43,7 +43,7 @@ width="100%" height=350 frameborder="0" style="border: none;">
         {% include figure.html path="assets/img/proj6/webs.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
-Fig.1: Numerical models of geodesic nets (1-2 row), Voss nets (3-4 row), asymptotic nets (5-6 row), AAG-webs (7-8 row), AGG-webs (9-10 row), AGAG-webs (11-12 row), their gridshells (second column) and corresponding developable strips' unrollments (right column).
+Fig.1: Numerical models of geodesic nets (1-2 row), Voss nets (3-4 row), asymptotic nets (5-6 row), AAG-webs (7-8 row), AGG-webs (9-10 row), AGAG-webs (11-12 row), their gridshells (second column) and corresponding developable strips' unrollments (right columns).
 
 
 <div class="row">
@@ -51,17 +51,17 @@ Fig.1: Numerical models of geodesic nets (1-2 row), Voss nets (3-4 row), asympto
         {% include figure.html path="assets/img/proj6/singular.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
-Fig.2: Above discussions are confined to nets and webs of regular combinatorics, which limits the shape variety. For such meshes with a singularity of valence 6 or valence 8, we divide the web into 6 or 8 regular quad patches. Each patch is an AAG-web. Right column are two designs. 
+Fig.2: Discussions in Fig.1 are confined to nets and webs of regular combinatorics, which limits the shape variety. For such meshes with a singularity of valence 6 or valence 8, we divide the web into 6 or 8 regular quad patches. Each patch is an AAG-web. Right column are two designs. 
 
 
-###### Applications
+###### **Applications**
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/proj6/app1.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
-Fig.3: We designed and built another timber roof structure from straight lamellas.
+Fig.3: We designed and built a timber roof structure from straight lamellas.
 The Top and bottom mesh boundaries of the computed rotational AAG gridshell have square and circular shapes, respectively. The real model is one-quarter of it.
 
 
@@ -79,11 +79,12 @@ Our optimized AAG-web approximates the shape with 4 original planar boundaries, 
         {% include figure.html path="assets/img/proj6/app3.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
-Fig.5: Here we roughly approximated the negatively curved part of the Soumaya Museum Model by an AAG web. This web results from the carefully-controlled optimization.
+Fig.5: We roughly approximated the negatively curved part of the Soumaya Museum Model by an AAG web. This web results from the carefully-controlled optimization.
 Given any negatively curved mesh, we cannot directly approximate it to be an AGG or AAG-web. Only special shapes are possible.
 How to approximate a given curved shape is still an open question. 
 A promising way to investigate the generation of webs is by using a level set approach.
 It will be our future work.
+
 
 
 <div class="row">
@@ -94,7 +95,7 @@ It will be our future work.
         {% include figure.html path="assets/img/proj6/xuerongxing1.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
-During the Winter Olympitc Games Beijing 2022, many [Xuerong Star](http://city.cri.cn/20220221/5011d6ff-c7ac-ca90-7db1-e44a3e98ca2b.html), namely Edelweiss Star, as steel landscape sculptures appeared near National Stadium and Ice Cube. They were designed by Prof. Weixin Huang's team of Tsinghua University. These steel models are designed based on regular icosahedron. In fact, 6 pairs of triangular faces are used to form the congruent curved patches and the others 8 left triangular faces are deleted. 
+Fig.6: During the Winter Olympic Games Beijing 2022, many steel landscape sculptures called [Xuerong Stars](http://city.cri.cn/20220221/5011d6ff-c7ac-ca90-7db1-e44a3e98ca2b.html)(namely Edelweiss Stars) appeared in front of the National Stadium and Ice Cube. They were designed by Prof. Weixin Huang's team from Tsinghua University. These steel models are designed based on the regular icosahedron, where 6 pairs of triangular faces are used to form the congruent curved patches and the other 8 left triangular faces are deleted. 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/proj6/xuerongxing2.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
@@ -103,7 +104,7 @@ During the Winter Olympitc Games Beijing 2022, many [Xuerong Star](http://city.c
         {% include figure.html path="assets/img/proj6/xuerongxing3.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
-Fig.6: Generated from the above settings, I rebuilt another AAG-gridshell with 20 patches are congruent to each other. The red strips are tangent along the geodesic curves of each simple negatively-curved patch, and the other two families of diagonal strips are orthogonal along the asymptotic curves of the patch.
+Fig.7: Still based on a regular icosahedron, I redesigned another AAG-gridshell with 20 patches congruent to each other. The red strips are tangent along the geodesic curves of each simple negatively-curved patch, and the other two families of diagonal strips are orthogonal along the asymptotic curves of the patch.
 
 ------
 
@@ -146,5 +147,5 @@ to be updated ...
         {% include figure.html path="assets/img/proj6/hops.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
-Fig.: A user-friendly design tool has been realized by integrating the optimization into the CAD system Rhinoceros3D. Our plugin allows the user to define the main inputs to the optimization, the initial mesh, the web type, strip width and optimization parameters like the number of iterations and weights. The results, namely the optimized mesh,
-strip boundaries in piecewise quintic Bezier form, ruling vectors, the developable strips as well as their developments are returned as Rhinoceros 3D geometry objects. The optimization is implemented in CPython and called from Grasshopper, Rhinoceros’ parametric design extension, using the [Hops component](https://developer.rhino3d.com/guides/compute/hops-component/). This allows the user to offload the actual computation to a more powerful remote machine, if desired. We will make our plugin available to the architectural community in the near future.
+A user-friendly design tool has been realized by integrating the optimization into the CAD system Rhinoceros3D. Our plugin allows the user to define the main inputs to the optimization, the initial mesh, the web type, strip width and optimization parameters like the number of iterations and weights. The results, namely the optimized mesh,
+strip boundaries in piecewise quintic Bezier form, ruling vectors, the developable strips as well as their developments are returned as Rhinoceros3D geometry objects. The optimization is implemented in CPython and called from Grasshopper, Rhinoceros’ parametric design extension, using the [Hops component](https://developer.rhino3d.com/guides/compute/hops-component/). This allows the user to offload the actual computation to a more powerful remote machine, if desired. We will make our plugin available to the architectural community in the near future.
