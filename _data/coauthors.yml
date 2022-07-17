@@ -19,7 +19,7 @@
     url: https://www.geometrie.tuwien.ac.at/geom/ig/kilian/index.html
 
 "Pellis":
-  - firstname: ["Davide"]
+  - firstname: ["Davide","Davide*"]
     url: https://lgg.epfl.ch/people.php
 
 "Jiang": 
@@ -40,5 +40,5 @@
     url: https://cemse.kaust.edu.sa/org/csg
 
 "Schling":
-  - firstname: ["Eike"]
+  - firstname: ["Eike","Eike*"]
     url: https://eikeschling.com/
