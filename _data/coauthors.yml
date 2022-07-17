@@ -22,9 +22,29 @@
   - firstname: ["Davide","Davide*"]
     url: https://lgg.epfl.ch/people.php
 
+"Dellinger":
+  - firstname: ["Felix"]
+    url: https://www.geometrie.tuwien.ac.at/dellinger/ 
+
+"Inza":
+  - firstname: ["Victor Ceballos"]
+    url: https://cemse.kaust.edu.sa/cs/people/person/victor-ceballos-inza
+
+"Pirahmad":
+  - firstname: ["Olimjoni"]
+    url: https://cemse.kaust.edu.sa/people/person/pirahmad-olimjoni
+
 "Jiang": 
   - firstname: ["Caigui"]
     url: https://gr.xjtu.edu.cn/web/jiang
+
+"Wang": 
+  - firstname: ["Cheng"]
+    url: https://cemse.kaust.edu.sa/people/person/cheng-wang
+
+"Liu": 
+  - firstname: ["Yang"]
+    url: https://cemse.kaust.edu.sa/people/person/yang-liu
 
 "Zhu": 
   - firstname: ["Chungang"]
@@ -42,3 +62,12 @@
 "Schling":
   - firstname: ["Eike","Eike*"]
     url: https://eikeschling.com/
+
+"Schikore":
+  - firstname: ["Denis"]
+    url: https://webarchiv.typo3.tum.de/AR/ls-lt/lt/personen/mitarbeiter/jonas-schikore/index.html
+
+
+"Tellier":
+  - firstname: ["Xavier"]
+    url: https://www.researchgate.net/profile/Xavier-Tellier-2
