@@ -83,8 +83,8 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Geometry  # your blog must have a name for it to show up in the nav bar
-blog_description: related with Architecture, Art, Design, Reading
+blog_name: # Geometry  # your blog must have a name for it to show up in the nav bar
+blog_description: # related with Architecture, Art, Design, Reading
 permalink: /blog/:year/:title/
 
 # Pagination
