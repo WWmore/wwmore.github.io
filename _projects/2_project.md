@@ -48,7 +48,7 @@ Gaussian curvature surfaces, i.e., spheres and pseudospheres, provide almost
 universal molds for the manufacturing of panels bending isometrically. Here
 a design by Zaha Hadid Architects is covered by panels struck from a small
 number of spherical molds (red) and pseudospherical molds (blue), as well
-as single-curved panels that are intrinsically flat (white)
+as single-curved panels that are intrinsically flat (white).
 
 
 
@@ -58,7 +58,7 @@ as single-curved panels that are intrinsically flat (white)
     </div>
 </div>
 Fig.1: Infinitesimal isometries tangential to surfaces (Killing fields) exist on
-surfaces isometric to rotational surfaces like the example at right. Otherwise
+surfaces isometric to rotational surfaces (above surfaces all isometric to rotational ones, deformed used the method in ["Discrete Geodesic Parallel Coordinates"](https://www.huiwang.me/projects/5_project) paper). Otherwise
 vector fields that are as Killing as possible yield information on paneling.
 The color coding is according to Gaussian curvature — true Killing fields
 must follow its level sets.
@@ -77,7 +77,7 @@ must follow its level sets.
         {% include figure.html path="assets/img/proj2/flower2.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
-Fig.2: Simulating the bending process (isometric deformation) of the **Strelitzia reginae** flower.
+Fig.2: Simulating the bending process (isometric deformation) of the **Strelitzia Reginae** flower.
 
 
 
@@ -137,7 +137,7 @@ Fig.4: Felixion behavior of meshes.
         {% include figure.html path="assets/img/proj2/facade.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
-Fig.5: Flexion facade design analogous to the “flectofin” shading elements [Lienhard et al. 2011](https://www.str-ucture.com/en/what/research-and-development/reference/flectofinR/). 
+Fig.5: Flexion facade design analogous to the “flectofin” shading elements ([Lienhard et al. 2011](https://www.str-ucture.com/en/what/research-and-development/reference/flectofinR/)). 
 
 
 ------
