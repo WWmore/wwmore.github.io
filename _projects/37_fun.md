@@ -24,8 +24,7 @@ category: fun
 </div>
 <div class="caption">
     Followed a tutorial to design the spherical packings on the subdivided Dodecahedron (top), Icosahedron (center), and Dipyramid (bottom). This is optimized by the Sphere Packing component in Kangaroo Solver.
-    However, these spheres are not really a complete sphere packing but NEARLY tangent or intersected to each other, which can be seen from the gaps or overlaps between the circle disks on the right column. 
-    
+    However, these packings are not really complete sphere packings. The spheres are NEARLY tangent or intersected to each other, which can be seen from the gaps or overlaps between the circle disks on the right column. 
 </div>
 
 
