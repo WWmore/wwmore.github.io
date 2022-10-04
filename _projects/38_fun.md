@@ -20,7 +20,7 @@ category: fun
 <div class="caption">
     Breakwater Beacon is a landmark building of KAUST. It was completed in 2009. The design information can be found 
     <a href="https://www.robertbird.com/rbg-projects/kaust-beacon/" target="\_blank"> here </a>. This 
-    <a href="https://grabcad.com/library/kaust-beacon-1" target="\_blank"> free-download .stl file model </a> in GrabCAD was designed by a KAUST 3D printer tutor in 2015.
+    <a href="https://grabcad.com/library/kaust-beacon-1" target="\_blank"> free-download .stl file model </a> in GrabCAD was designed by a 3D printer tutor in KAUST in 2015.
 </div>
 
 
