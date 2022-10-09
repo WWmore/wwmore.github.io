@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Beacon KAUST
+title: KAUST Beacon
 description: Rhino
 img: assets/img/fun/beacon_kaust.png
 importance: 2
@@ -29,3 +29,5 @@ category: fun
 See an extra [Rhino tutorial](https://www.youtube.com/watch?v=8FaWKGNOAlI).
 
 More details of the [real architecture](https://www.designrulz.com/architecture/2012/12/kaust-beacon/).
+
+A blog shows the process of modeling [Beacon model](http://www.metawati.com/structural-model-kaust-beacon-ii/) by the Architecture Department of Cornell University.
