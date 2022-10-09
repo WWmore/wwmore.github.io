@@ -11,8 +11,6 @@ category: fun
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/fun/visit_flow1.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
-</div>
-<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/fun/visit_flow2.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
@@ -22,15 +20,13 @@ category: fun
     is an open-source scientific visualization application, especially for large datasets. 
     It's based on VTK, similar to mayavi.
     Above are two velocity flows learned from the
-    <a href="https://wiki.vis.kaust.edu.sa/training/2022-23introtovisit" target="\_blank"> workshop.
+    <a href="https://wiki.vis.kaust.edu.sa/training/2022-23introtovisit" target="\_blank"> workshop</a>.
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/fun/visit0.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
-</div>
-<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/fun/visit1.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
@@ -40,6 +36,7 @@ category: fun
 </div>
 
 ------
+
 ##### <i class='fas fa-download'>**Downloads**</i>
 
 See the official [VisIt Manual](https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/tutorials/VisIt_Basics.html).
