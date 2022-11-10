@@ -57,4 +57,4 @@ horizontal: false
 {%- endif -%}
 </div>
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5w71banuqwl&amp;m=1&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5ggtq6gc5qc&amp;m=8&amp;c=54ff00&amp;cr1=ff007e&amp;f=arial&amp;l=1&amp;z=11&amp;rx=20&amp;lx=500&amp;ly=100&amp;he=8" async="async"></script>
