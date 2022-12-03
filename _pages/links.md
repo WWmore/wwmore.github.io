@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /links/
-title: -
+title: _~_
 description: updating...
 nav: true
 ---
