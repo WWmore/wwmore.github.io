@@ -1,15 +1,15 @@
 ---
 layout: page
 permalink: /links/
-title: Helpful links
+title: 
 description: updating...
 nav: true
 ---
 
 
-## Conferences / Seminars
+<!-- ## Conferences / Seminars -->
 
-### Conferences
+#### Conferences
 
 
 - [The International Association for Shell and Spatial Structures (IASS) symposia](https://www.iass2023.org.au/)
@@ -20,7 +20,7 @@ nav: true
 
 
 
-### Seminars
+#### Seminars
 
 - [GAMES: Graphics And Mixed Environment Symposium](http://games-cn.org/)
 
@@ -37,20 +37,20 @@ nav: true
 
 
 
-### Papers
+#### Papers
 
 - [Computer Graphics by Ke-Sen Huang](https://kesen.realtimerendering.com/)
 
 - [HCI and Graphics by CSAIL](https://hcie.csail.mit.edu/fabpub/)
 
-## Math / Geometry
+#### Math / Geometry
 
 - [Joint Mathematics Meetings](http://gallery.bridgesmathart.org/exhibitions/2022-joint-mathematics-meetings)
 
 
 
 
-## Research Groups
+#### Research Groups
 
 - [Mark Pauly's Geometric Computing Lab in EPFL](https://lgg.epfl.ch/publications.php)
 
@@ -80,11 +80,11 @@ nav: true
 - [Adriana Schulz's group in UW](https://homes.cs.washington.edu/~adriana/)
 
 
-## Architectural Groups
+#### Architectural Groups
 
 
 
-## Courses / Tutorials
+#### Courses / Tutorials
 
 - [GAMES 102: 几何建模与处理基础](http://staff.ustc.edu.cn/~lgliu/Courses/GAMES102_2020/default.html)
 
@@ -104,34 +104,34 @@ nav: true
 - [MIT 6.S192: Deep Learning for Art, Aesthetics, and Creativity](https://www.youtube.com/playlist?list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH)
 
 
-## Books / Pdfs
+#### Books
 
 - [Polygon Mesh Processing by Mario Botsch, Leif Kobbelt, Mark Pauly, Pierre Alliez and Bruno Levy](http://www.pmp-book.org/)
 
 
 
-## Presentation / Writing
+<!-- #### Presentation / Writing -->
 
-### Presentation
+#### Presentation
 
 - [How to give a technical presentation by Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html)
 
 
 - [Tips for Giving Clear Talks by Kayvon Fatahalian](https://graphics.stanford.edu/~kayvonf/misc/cleartalktips.pdf)
 
-### Writing
+#### Writing
 
 
 - [Being Scheherazade: The Importance of Storytelling in Academic Writing](https://static1.squarespace.com/static/5ff7643543dbcf533ddfb8a8/t/5ffe4695ecabfb2a45e74391/1610499733496/amjfte13.pdf)
 
 
-## Softwares / Tools
+<!-- ## Softwares / Tools -->
 
-### Softwares
+#### Softwares
 
-- [3D建模与处理软件简介---刘利刚](http://staff.ustc.edu.cn/~lgliu/Resources/CG/3D_modeling.htm)
+- [3D modeling and processing softwares---listed by Ligang Liu](http://staff.ustc.edu.cn/~lgliu/Resources/CG/3D_modeling.htm)
 
 
 
-### Tools
+#### Tools
 
