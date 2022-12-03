@@ -18,7 +18,7 @@ category: fun
     </div>
 </div>
 <div class="caption">
-    Referring to the real shell (<a href="https://www.archdaily.com/93922/bamboo-structure-project-pouya-khazaeli-parsa" target="\_blank"> Bamboo Structure Project / Pouya Khazaeli Parsa </a>) in Iran and a recent research project (<a href="https://www.researchgate.net/publication/365698926_Design_and_construction_of_kinetic_structures_based_on_elastica_strips" target="\_blank"> Kinetic Structure by Elastic Strips </a>) by Prof.Yimin Xie's Lab, I designed this twisting shell with twisting circular strips.
+    Referring to the real shell (<a href="https://www.archdaily.com/93922/bamboo-structure-project-pouya-khazaeli-parsa" target="\_blank"> Bamboo Structure Project / Pouya Khazaeli Parsa </a>) in Iran and a recent research project (<a href="https://www.researchgate.net/publication/365698926_Design_and_construction_of_kinetic_structures_based_on_elastica_strips" target="\_blank"> Kinetic Structure by Elastic Strips </a>) by Prof.Yimin Xie's Lab, I designed this twisting shell with twisting strips. Note: during the rotation, the strips get changed from straight ones (i.e. strips with straight boundary) to curved ones (i.e. curved boundary with inflection), they are not isometric to the beginning ones. It's just a imaginary simulation.
 </div>
 
 
