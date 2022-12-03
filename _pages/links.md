@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /links/
-title: _~_
+title: ~~
 description: updating...
-nav: true
+nav: false
 ---
 
 
@@ -38,6 +38,8 @@ nav: true
 
 
 #### Papers
+
+- [Nature Communications](https://www.nature.com/ncomms/)
 
 - [Computer Graphics by Ke-Sen Huang](https://kesen.realtimerendering.com/)
 
