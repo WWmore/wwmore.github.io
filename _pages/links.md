@@ -75,7 +75,7 @@ nav: false
     	
 - [Denis Zorin and Daniele Panozzo's group in NYU](https://cims.nyu.edu/gcl/index.html)
     	  	
-
+- [Katia Bertoldi's Materials and Structures by Design Group in Harvard University](https://bertoldi.seas.harvard.edu/)
     	
 - [Fabio Pellacini's Computational Design Lab in Sapienza University of Rome](https://pellacini.di.uniroma1.it/)
     	
