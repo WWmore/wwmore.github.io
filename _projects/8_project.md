@@ -56,7 +56,7 @@ Very happy that a triply symmetric wooden shell structure designed by my numeric
     </div>
 </div>
 <div class="caption">
-    Here is the final AAG-web with orthogonal straight strips along the asymptotic curves and tangent straight strips along the geodesics, which was optimized as discussed in this [project](https://www.huiwang.me/projects/6_project/).
+    Here is the final AAG-web with orthogonal straight strips along the asymptotic curves and tangent straight strips along the geodesics, which was optimized as discussed in this <a href="https://www.huiwang.me/projects/6_project/" target="\_blank"> project </a>.
 </div>
 
 
