@@ -9,7 +9,7 @@ category: work
 
 ------
 ##### <i class='fas fa-folder-open'>**Publication**</i><br/>
-Computer-Aided Design
+Computer-Aided Design (CAD)
 
 ##### <i class='fas fa-laugh-beam'>**Authors**</i><br/>
 Caigui Jiang, Florian Rist, Hui Wang, Johannes Wallner, Helmut Pottmann
@@ -17,7 +17,7 @@ Caigui Jiang, Florian Rist, Hui Wang, Johannes Wallner, Helmut Pottmann
 ##### <i class='fas fa-file-pdf'>**PDF**</i>
 [paper](https://www.geometrie.tuwien.ac.at/geom/ig/publications/geommaterials/geommaterials.pdf)
 
-<iframe src="https://www.geometrie.tuwien.ac.at/geom/ig/publications/geommaterials/geommaterials.pdf#toolbar=0" 
+<iframe src="/assets/pdf/2021Auxetic-HW#toolbar=0" 
 width="100%" height=400 frameborder="0" style="border: none;">
 </iframe>
 

@@ -9,7 +9,7 @@ category: work
 
 ------
 ##### <i class='fas fa-folder-open'>**Publication**</i><br/>
-CAD
+Computer-Aided Design (CAD)
 
 ##### <i class='fas fa-laugh-beam'>**Authors**</i><br/>
 Eike Schling∗, Hui Wang∗, Sebastian Hoyer, Helmut Pottmann 
@@ -21,14 +21,11 @@ Fabrication and assembly of freeform shells can be simplified significantly when
 ------
 
 ##### <i class='fas fa-file-pdf'>**Paper/Slide**</i>
+[paper](https://www.geometrie.tuwien.ac.at/geom/ig/publications/asymgeogridshell/asymgeogridshell.pdf)
 
-paper to be updated...
-
-<!-- [paper](https://www.geometrie.tuwien.ac.at/geom/ig/publications/geodesic/geodesic.pdf) -->
-
-<!-- <iframe src="https://www.geometrie.tuwien.ac.at/geom/ig/publications/geodesic/geodesic.pdf#toolbar=0" 
+<iframe src="/assets/pdf/2022AG-HW.pdf#toolbar=0" 
 width="100%" height=400 frameborder="0" style="border: none;">
-</iframe> -->
+</iframe>
 
 <iframe src="/assets/pdf/slides/2022-AG-Hui.pdf#toolbar=0" 
 width="100%" height=350 frameborder="0" style="border: none;">

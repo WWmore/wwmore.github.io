@@ -9,7 +9,7 @@ category: work
 
 ------
 ##### <i class='fas fa-folder-open'>**Publication**</i><br/>
-to be soon...
+Computer-Aided Design (CAD)
 
 ##### <i class='fas fa-laugh-beam'>**Authors**</i><br/>
 Cheng Wang, Caigui Jiang, Hui Wang, Xavier Tellier, Helmut Pottmann 
@@ -23,8 +23,11 @@ discuss in which way these may be combined. Some of the studied meshes are discr
 surfaces in classical geometry, whose knowledge is helpful for initializing the proposed optimization algorithms.
 
 ##### <i class='fas fa-file-pdf'>**Paper**</i>
-to be soon...
+[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4144321)
 
+<iframe src="/assets/pdf/2022PP-HW.pdf#toolbar=0" 
+width="100%" height=400 frameborder="0" style="border: none;">
+</iframe>
 ------
 
 ##### <i class='far fa-images'>**Figures**</i>

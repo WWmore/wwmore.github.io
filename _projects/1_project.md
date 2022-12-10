@@ -9,7 +9,7 @@ category: work
 
 ------
 ##### <i class='fas fa-folder-open'>**Publication**</i><br/>
-Computer Aided Geometric Design
+Computer Aided Geometric Design (CAGD)
 
 ##### <i class='fas fa-laugh-beam'>**Authors**</i><br/>
 Hui Wang, Helmut Pottmann
