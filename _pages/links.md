@@ -54,6 +54,12 @@ nav: false
 
 #### Research Groups
 
+- [Visual Computing Center in KAUST](https://cemse.kaust.edu.sa/vcc/about-vcc)
+
+- [Advanced Computational Design (ACD) in TU Wien](https://acd.tuwien.ac.at/)
+
+- [Geometry and Computational Design (GCD) in TU Wien](https://gcd.tuwien.ac.at/)
+
 - [Mark Pauly's Geometric Computing Lab in EPFL](https://lgg.epfl.ch/publications.php)
 
 - [Olga Sorkine-Hornung's Interactive Geometry Lab in ETH](https://igl.ethz.ch/)
@@ -84,6 +90,8 @@ nav: false
 
 #### Architectural Groups
 
+
+- [SOM Ideas](https://www.som.com/ideas/)
 
 
 #### Courses / Tutorials
