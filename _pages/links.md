@@ -60,6 +60,8 @@ nav: false
 
 - [Geometry and Computational Design (GCD) in TU Wien](https://gcd.tuwien.ac.at/)
 
+- [Digital Fabrication is Switzerland](https://dfab.ch/streams)
+
 - [Mark Pauly's Geometric Computing Lab in EPFL](https://lgg.epfl.ch/publications.php)
 
 - [Olga Sorkine-Hornung's Interactive Geometry Lab in ETH](https://igl.ethz.ch/)
