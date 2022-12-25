@@ -17,9 +17,10 @@ Caigui Jiang, Florian Rist, Hui Wang, Johannes Wallner, Helmut Pottmann
 ##### <i class='fas fa-file-pdf'>**PDF**</i>
 [paper](https://www.geometrie.tuwien.ac.at/geom/ig/publications/geommaterials/geommaterials.pdf)
 
-<iframe src="/assets/pdf/2021Auxetic-HW#toolbar=0" 
+<iframe src="/assets/pdf/2021Auxetic-HW.pdf#toolbar=0" 
 width="100%" height=400 frameborder="0" style="border: none;">
 </iframe>
+
 
 ##### <i class='fas fa-align-justify'>**Abstract**</i>
 Small-scale cut and fold patterns imposed on sheet material enable its morphing into three-dimensional shapes. This manufacturing paradigm has been receiving much attention in recent years and poses challenges in both fabrication and computation. It is intimately connected with the interpretation of patterned sheets as mechanical metamaterials, typically of negative Poisson ratio. We here present an affirmative solution to a fundamental geometric question, namely the targeted programming of a shape morph. We use optimization to compute kirigami patterns that realize a morph between shapes, in particular between a flat sheet and a surface in space. The shapes involved can be arbitrary; in fact we are able to approximate any mapping between shapes whose principal distortions do not exceed certain bounds. This amounts to a solution of the so-called inverse problem for kirigami cut and fold patterns. The methods we employ include a differential–geometric interpretation of the morph, besides drawing on recent progress in geometric computing.
