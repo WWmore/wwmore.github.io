@@ -12,6 +12,8 @@ category: work
 
 Very happy that a triply symmetric wooden shell structure designed by my numerical optimization result has been built in real life. More construction details see [Asymptotic Geodesic Timber Vault](https://eikeschling.com/2022/11/08/asymptotic-geodesic-timber-vault/) by Prof.Eike Schling.
 
+Check the Deutch report in [News@Campus](https://www.baunetz-campus.de/news/asymptotic-geodesic-timber-vault-gitterschalen-mal-einfach-8117275).
+
 
 ##### Final Result
 
