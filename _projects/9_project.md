@@ -15,11 +15,7 @@ category: work
     </div>
 </div>
 
-Very happy to attend the one-week (29th Jan. - 2nd Feb.) Computational Architecture workshop held by VCC, KAUST.
-5 experts（Eike Schling, Dominik L. Michels, Florian Rist, Helmut Pottmann and Peter Wonka）from architecture, geometry and computer science gave related talks about the reasonable and scientific ways to design things.
-I attended it together with 13 other architectural undergraduates selected from Saudi Arabia.
-It was my first time attending an architectural workshop, very interesting and fruitful!
-Not only I learnt how are the differences between theory, optimization results and the actual constructed model, but I also learned some new experiences from the 10 girls and 3 boys how they came up with their design ideas, how did they handle construction details, and how did they catch up with time to gave attractive presentations successfully.
+Very happy to attend the one-week (29th Jan. - 2nd Feb.) Computational Architecture workshop held by VCC, KAUST. 5 experts（Eike Schling, Dominik L. Michels, Florian Rist, Helmut Pottmann and Peter Wonka）from architecture, geometry and computer science gave related talks about the reasonable and scientific ways to design things. I attended it together with 13 other architectural undergraduates selected from Saudi Arabia. It was my first time attending an architectural workshop, very interesting and fruitful! Not only I learnt how are the differences between theory, optimization results and the actual constructed model, but I also learnt some new experiences from the 10 girls and 3 boys, how they came up with their design ideas, how they handled construction details, and how they caught up with time to gave attractive presentations successfully.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/proj9/work.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
