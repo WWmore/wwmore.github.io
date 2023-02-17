@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wood
+title: texture mapping
 description: Blender
 img: assets/img/fun/blender_wood_roof.png
 importance: 14
