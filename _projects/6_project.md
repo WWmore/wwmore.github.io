@@ -20,13 +20,14 @@ Fabrication and assembly of freeform shells can be simplified significantly when
 
 ------
 
-##### <i class='fas fa-file-pdf'>**Paper/Slide**</i>
+##### <i class='fas fa-file-pdf'>**Paper**</i>
 [paper](https://www.geometrie.tuwien.ac.at/geom/ig/publications/asymgeogridshell/asymgeogridshell.pdf)
 
 <iframe src="/assets/pdf/2022AG-HW.pdf#toolbar=0" 
 width="100%" height=400 frameborder="0" style="border: none;">
 </iframe>
 
+##### <i class='fas fa-file-pdf'>**Slide**</i>
 <iframe src="/assets/pdf/slides/2022-AG-Hui.pdf#toolbar=0" 
 width="100%" height=350 frameborder="0" style="border: none;">
 </iframe>
