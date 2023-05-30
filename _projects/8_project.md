@@ -14,7 +14,7 @@ Very happy that a triply symmetric wooden shell structure designed by my numeric
 
 Check the Deutch report in [News@Campus](https://www.baunetz-campus.de/news/asymptotic-geodesic-timber-vault-gitterschalen-mal-einfach-8117275).
 
-Our research paper [***Architectural Structures from Quad Meshes with Planar Parameter Lines***]{https://www.aag2023.com/#section2} has been accepted in Advances in Architectural Geometry (AAG) 2023 conference, which will be held in Stuttgart, Germany.
+Our research paper [***Architectural Structures from Quad Meshes with Planar Parameter Lines***](https://www.aag2023.com/#section2) has been accepted in Advances in Architectural Geometry (AAG) 2023 conference, which will be held in Stuttgart, Germany.
 
 ##### Final Result
 
@@ -64,14 +64,14 @@ Our research paper [***Architectural Structures from Quad Meshes with Planar Par
 
 
 
-<!-- <div class="row">
+<!--- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/proj8/file.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
 <div class="caption">
     Here are all the mesh files I had ever made to get the right and nice one.
-</div> -->
+</div> --->
 
 
 
