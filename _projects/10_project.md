@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Discrete Orthogonal Structures
-description: Orthogonal multi-nets; Principal meshes; Developable surfaces;
-CMC surfaces; Principal stress net
+description: Orthogonal multi-nets, Principal meshes, Developable surfaces,
+CMC surfaces, Principal stress net
 img: assets/img/proj10/smi_minishell.png
 importance: 1
 category: work
