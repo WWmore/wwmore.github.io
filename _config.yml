@@ -204,7 +204,7 @@ jekyll-archives:
 scholar:
 
   last_name: Wang
-  first_name: [Hui, Hui*]
+  first_name: [Hui, Hui*, Hui^1]
 
   style: apa
   locale: en
