@@ -10,7 +10,7 @@ category: work
 
 ------
 ##### <i class='fas fa-folder-open'>**Publication**</i><br/>
-Computer & Graphics (C&G)
+Computer & Graphics
 
 ##### <i class='fas fa-laugh-beam'>**Authors**</i><br/>
 Felix Dellinger, Xinye Li, and Hui Wang* (corresponding author)
