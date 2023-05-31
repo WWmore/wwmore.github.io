@@ -3,7 +3,7 @@ layout: page
 title: Designing Asymptotic Geodesic Hybrid Gridshells
 description: mesh optimization, asymptotic curves, geodesic curves, construction-aware design, elastic gridshells
 img: assets/img/paper_2022AGG.png
-importance: 1
+importance: 2
 category: work
 ---
 

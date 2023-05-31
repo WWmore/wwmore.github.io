@@ -3,7 +3,7 @@ layout: page
 title: Isometries for computational design and fabrication
 description: Discrete differential geometry, Computeraided design, Computational fabrication, Architectural geometry, Discrete isometry, Isometric registration, Killing vector field
 img: assets/img/paper_2021SIG.png
-importance: 2
+importance: 3
 category: work
 ---
 
