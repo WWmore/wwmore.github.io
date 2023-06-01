@@ -43,7 +43,7 @@ More views of renderings:
     </div>
 </div>
 <div class="caption">
-    Torsion-free gridshell structure, whose underlying net is an orthogonal planar-quad net, i.e. principal curvature net.
+    Torsion-free gridshell structure, whose underlying net is an orthogonal planar-quad net (PQ-net), i.e. principal curvature net.
 </div>
 
 <div class="row">
@@ -80,12 +80,10 @@ More views of renderings:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj10/shell_mini2.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
-    </div>
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/proj10/shell_mini1.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj10/shell_mini2.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
 <div class="caption">
