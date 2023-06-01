@@ -15,7 +15,7 @@ Computer Aided Geometric Design (CAGD)
 Hui Wang, Helmut Pottmann
 
 ##### <i class='fas fa-file-pdf'>**PDF**</i>
-[paper](assets/pdf/2022_crpc.pdf)
+[paper](/assets/pdf/2022_crpc.pdf)
 
 <iframe src="/assets/pdf/2022_crpc.pdf#toolbar=0" 
 width="100%" height=400 frameborder="0" style="border: none;">

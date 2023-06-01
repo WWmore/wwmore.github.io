@@ -14,7 +14,19 @@ Very happy that a triply symmetric wooden shell structure designed by my numeric
 
 Check the Deutch report in [News@Campus](https://www.baunetz-campus.de/news/asymptotic-geodesic-timber-vault-gitterschalen-mal-einfach-8117275).
 
+
+##### <i class='fas fa-folder-open'>**Publication**</i><br/>
 Our research paper [***Asymptotic Geodesic Hybrid Timber Gridshell***](https://www.aag2023.com/#section2) has been accepted in Advances in Architectural Geometry (AAG) 2023 conference, which will be held in Stuttgart, Germany.
+
+##### <i class='fas fa-laugh-beam'>**Authors**</i><br/>
+Eike Schling, Zongshuai Wan, Hui Wang, Pierluigi DAcunto
+
+##### <i class='fas fa-file-pdf'>**PDF**</i>
+[paper](/assets/pdf/2023AAG23-HW.pdf)
+
+<iframe src="/assets/pdf/2023AAG23-HW.pdf#toolbar=0" 
+width="100%" height=400 frameborder="0" style="border: none;">
+</iframe>
 
 ##### Final Result
 
