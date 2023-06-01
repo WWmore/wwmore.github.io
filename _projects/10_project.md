@@ -10,11 +10,19 @@ category: work
 ------
 
 ##### <i class='fas fa-folder-open'>**Publication**</i><br/>
-Our paper ***Discrete Orthogonal Structures*** has been accepted by the Shape Modeling International (SMI 2023) conference, which will take place from July 4th to 6th in Genova, Italy. 
-It will be published in the Computer and Graphics journal.
+It has been accepted by the Shape Modeling International (SMI 2023) conference, which will take place from July 4th to 6th in Genova, Italy. 
+It will be published in the Computer & Graphics journal.
 
 ##### <i class='fas fa-laugh-beam'>**Authors**</i><br/>
 Felix Dellinger, Xinye Li, and Hui Wang* (corresponding author)
+
+##### <i class='fas fa-file-pdf'>**Graphical Abstract**</i>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj10/teaser.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
 
 ##### <i class='fas fa-file-pdf'>**PDF**</i>
 [paper](/assets/pdf/2023SMI.pdf)
@@ -23,20 +31,63 @@ Felix Dellinger, Xinye Li, and Hui Wang* (corresponding author)
 width="100%" height=400 frameborder="0" style="border: none;">
 </iframe>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj10/teaser.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
-    </div>
-</div>
-
 ------
 
 ##### <i class='far fa-images'>**Figures**</i>
 
-updating...
+More views of renderings:
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj10/shell_pc.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+<div class="caption">
+    Torsion-free gridshell structure, whose underlying net is an orthogonal planar-quad net, i.e. principal curvature net.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj10/shell_mini.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+<div class="caption">
+    Minimal gridshell structure, whose underlying net is an orthogonal Asymptotic net (A-net), i.e. minimal net.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj10/shell_cmc.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+<div class="caption">
+    Circular gridshell structure, whose underlying net is an orthogonal principal symmetric net (S-net) with a constant radius, i.e. constant mean curvature net (CMC-net).
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj10/shell_eq.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+<div class="caption">
+    Principal stress (equilibrium) structure, whose underlying net is an orthogonal furnicular net, i.e. principal stress net.
+</div>
+
 
 ------
 
 #### <i class='fas fa-photo-video'>GIF</i>
 
-updating...
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj10/shell_mini2.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj10/shell_mini1.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
+<div class="caption">
+    Form-finding of the initial minimal net.
+</div>
