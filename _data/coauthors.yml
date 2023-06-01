@@ -64,9 +64,8 @@
     url: https://eikeschling.com/
 
 "Schikore":
-  - firstname: ["Denis"]
+  - firstname: ["Jonas"]
     url: https://webarchiv.typo3.tum.de/AR/ls-lt/lt/personen/mitarbeiter/jonas-schikore/index.html
-
 
 "Tellier":
   - firstname: ["Xavier"]
@@ -76,3 +75,11 @@
 "DAcunto":
   - firstname: ["Pierluigi"]
     url: https://www.professoren.tum.de/en/dacunto-pierluigi
+
+"Wan":
+  - firstname: ["Zongshuai"]
+    url: https://scholar.google.com/citations?user=FDR6BeEAAAAJ&hl=zh-CN
+
+"Li":
+  - firstname: ["Xinye"]
+    url: https://orcid.org/0000-0002-5048-1274
