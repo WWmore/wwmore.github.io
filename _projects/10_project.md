@@ -10,8 +10,8 @@ category: work
 ------
 
 ##### <i class='fas fa-folder-open'>**Publication**</i><br/>
-It has been accepted by the Shape Modeling International (SMI 2023) conference, which will take place from July 4th to 6th in Genova, Italy. 
-It will be published in the Computer & Graphics journal.
+It has been accepted by the Shape Modeling International (SMI 2023) conference, which will take place from July 4th to 6th in Genova, Italy, 
+and published in the [Computers & Graphics journal](https://doi.org/10.1016/j.cag.2023.05.024).
 
 ##### <i class='fas fa-laugh-beam'>**Authors**</i><br/>
 Felix Dellinger, Xinye Li, and Hui Wang* (corresponding author)
