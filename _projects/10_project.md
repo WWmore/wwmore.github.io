@@ -89,3 +89,6 @@ More views of renderings:
 <div class="caption">
     Form-finding of the initial minimal net.
 </div>
+
+<iframe allowfullscreen width="640" height="480" loading="lazy" frameborder="0" src="https://p3d.in/e/Nqa24+spin"></iframe>
+<iframe allowfullscreen width="640" height="480" loading="lazy" frameborder="0" src="https://p3d.in/e/9UHvA+spin"></iframe>
