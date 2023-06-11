@@ -74,4 +74,4 @@ width="100%" height=400 frameborder="0" style="border: none;">
     Here is the final AAG-web with orthogonal straight strips along the asymptotic curves and tangent straight strips along the geodesics, which was optimized as discussed in this <a href="https://www.huiwang.me/projects/6_project/" target="\_blank"> project </a>.
 </div>
 
-
+<iframe allowfullscreen width="640" height="480" loading="lazy" frameborder="0" src="https://p3d.in/e/BYkl2+spin+load"></iframe>
