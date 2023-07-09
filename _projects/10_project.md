@@ -11,7 +11,7 @@ category: work
 
 ##### <i class='fas fa-folder-open'>**Publication**</i><br/>
 It was accepted by the **Shape Modeling International (SMI2023)** conference, and presented during the **International Geometry Summit (IGS2023)** from July 3rd to 7th in Genova, Italy.
-This paper won the **Best Paper (Honourable Mention)** out of the 20 accepted papers (63 submissions).
+This paper won the **$${\color{red}Best Paper (Honourable Mention)}$$** out of the 20 accepted papers (63 submissions).
 It has been published in the [Computers & Graphics journal](https://doi.org/10.1016/j.cag.2023.05.024).
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
