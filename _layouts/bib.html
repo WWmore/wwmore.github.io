@@ -141,7 +141,7 @@
             {% if entry.awards contains '://' -%}
             <a href="{{ entry.awards }}" class="btn btn-sm z-depth-0" role="button">Awards</a>
             {%- else -%}
-            <a href="{{ entry.awards | prepend: '/assets/img/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
+            <a href="{{ entry.awards | prepend: '/assets/img/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Awards</a>
             {%- endif %}
           {%- endif %}
           {%- if entry.website %}
