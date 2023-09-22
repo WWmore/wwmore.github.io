@@ -34,11 +34,8 @@ Pseudo-geodesic curves of a surface was first studied by Walter Wunderlich in 19
 When $`\theta=90^o`$, they are geodesic;
 when $`\theta=0^o`$, they are asymptotic curves.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj11/diagram1.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
-    </div>
-</div>
+
+<img src="assets/img/proj11/diagram1.png" alt="image" width="300" height="auto">
 
 
 <div class="row">
@@ -94,12 +91,7 @@ when $`\theta=0^o`$, they are asymptotic curves.
 </div>
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj11/diagram2.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
-    </div>
-</div>
-
+<img src="assets/img/proj11/diagram2.png" alt="image" width="300" height="auto">
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -115,11 +107,7 @@ when $`\theta=0^o`$, they are asymptotic curves.
 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj11/diagram3.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
-    </div>
-</div>
+<img src="assets/img/proj11/diagram3.png" alt="image" width="300" height="auto">
 
 
 <div class="row">

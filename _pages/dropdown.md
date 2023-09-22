@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Mis.
-nav: false
+title: Submenu
+nav: true
 dropdown: true
 children: 
-    - title: projects
-      permalink: /projects/
-    - title: divider
     - title: blog
       permalink: /posts/
+    - title: repositories
 ---
