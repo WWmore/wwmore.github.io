@@ -30,8 +30,12 @@ width="100%" height=400 frameborder="0" style="border: none;">
 
 ##### <i class='far fa-images'>**Figures**</i>
 
+Pseudo-geodesic curves of a surface was first studied by Walter Wunderlich in 1950. They are the curves whose osculating planes have a constant angle $\theta$ with the tangent planes of the surface. 
+When $\theta=90^o$, they are geodesic;
+when $\theta=0^o$, they are asymptotic curves.
+
 ```mermaid
-graph LR
+flowchart LR
     B[1 family] --> E[Ex.: smooth on cylinder]
     B --> F[Ex.: level-set on a triangle mesh]
     B --> G[Ex.: one isoline of a quad mesh]
@@ -47,7 +51,8 @@ graph LR
     </div>
 </div>
 <div class="caption">
-    A smooth pseugo-geodesic on a rotational cylinder.
+    A smooth pseugo-geodesic on a rotational cylinder can be explicitly represented by $x = \cos(t); y= \sin(t); z = \tan(\theta) ch(t/\tan(\theta))$ with parameter $t$.
+    Left: changing interval $t$. Right: changing tilt angle $\theta$.
 </div>
 
 <div class="row">
@@ -59,7 +64,7 @@ graph LR
     </div>
 </div>
 <div class="caption">
-    A family of pseudo-geodesics on a mesh. Left: A family of pseudo-geodesic of tilt angle $60^o$ as level-sets are constructed from a triangle mesh. Right: A family of pseudo-geodesics of angle $45^o$ are optimized from geodesics of the quad mesh.
+    A family of pseudo-geodesics on a mesh. Left: A family of pseudo-geodesic of $\theta=60^o$ as level-sets are constructed from a triangle mesh. Right: A family of pseudo-geodesics of $\theta=45^o$ are optimized from geodesics of the quad mesh.
 </div>
 
 <div class="row">
@@ -71,7 +76,7 @@ graph LR
     </div>
 </div>
 <div class="caption">
-    Shading facade with time changing from morning to after. Left: outside. Right: inside view with focal lenth=10.
+    Shading facade with time changing from morning to after. Left: outside. Right: inside view with focal lenth 10.
 </div>
 
 <div class="row">
@@ -86,14 +91,14 @@ graph LR
     </div>
 </div>
 <div class="caption">
-    Four shading facades. Left: shading effect with changing light directions at different time. Center-Right: turn-table views.
+    Four shading facades of an architecture function differently. Left: shading effect with changing light directions at different time. Center-Right: turn-table views.
 </div>
 
 
 
 
 ```mermaid
-graph LR
+flowchart LR
     C[2 families] --> I[Ex.: quad mesh isolines]
     C --> J[App.: gridshell]
     C --> K[App.: torsion-free structure]
@@ -114,7 +119,7 @@ graph LR
 
 
 ```mermaid
-graph LR
+flowchart LR
     D[3 families] --> L[AAG-webs]
     D --> M[AGG-webs]
     D --> N[PPG-webs]
@@ -124,29 +129,16 @@ graph LR
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/proj11/AAG.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
-</div>
-<div class="caption">
-    AAG-web.
-</div>
-
-<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/proj11/AGG.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
-</div>
-<div class="caption">
-    AGG-web.
-</div>
-
-<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/proj11/gif_teaser_0.1s.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
     </div>
 </div>
 <div class="caption">
-    PPG-web.
+    Left: AAG-web. Center: AGG-web. Right: PPG-web. (Note: A = Asymptotic (blue), G = Geodesic (red), P= Pseudo-geodesic.)
 </div>
-
 
 
 ------
@@ -155,7 +147,7 @@ graph LR
 
 TBD...
 
-#### <i class='fa-solid fa-code'>Code</i>
+#### <i class='fa fa-code'>Code</i>
 Level-sets code see [here](https://github.com/wangbolun300/RectifyingStripPatterns).
 
 <div class="row">
