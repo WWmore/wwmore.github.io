@@ -34,13 +34,11 @@ Pseudo-geodesic curves of a surface was first studied by Walter Wunderlich in 19
 When $\theta=90^o$, they are geodesic;
 when $\theta=0^o$, they are asymptotic curves.
 
-```mermaid
 flowchart LR
     B[1 family] --> E[Ex.: smooth on cylinder]
     B --> F[Ex.: level-set on a triangle mesh]
     B --> G[Ex.: one isoline of a quad mesh]
     B --> H[App.: shading system]
-```
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -97,7 +95,7 @@ flowchart LR
 
 
 
-```mermaid
+```mermaid 
 flowchart LR
     C[2 families] --> I[Ex.: quad mesh isolines]
     C --> J[App.: gridshell]
@@ -118,12 +116,11 @@ flowchart LR
 
 
 
-```mermaid
-flowchart LR
+graph LR
     D[3 families] --> L[AAG-webs]
     D --> M[AGG-webs]
     D --> N[PPG-webs]
-```
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
