@@ -47,8 +47,8 @@ when \\(\theta=0^o\\), they are asymptotic curves.
     </div>
 </div>
 <div class="caption">
-    A smooth pseugo-geodesic on a rotational cylinder can be explicitly represented by \\(x = \cos(t); y= \sin(t); z = \tan(\theta) ch(t/\tan(\theta))\\) with parameter \\(t\\).
-    Left: changing interval \\(t\\). Right: changing tilt angle \\(\theta\\).
+    A smooth pseugo-geodesic on a rotational cylinder can be explicitly represented by $$x = \cos(t); y= \sin(t); z = \tan(\theta) ch(t/\tan(\theta))$$ with parameter $$t$$.
+    Left: changing interval $$t$$. Right: changing tilt angle $$\theta$$.
 </div>
 
 <div class="row">
@@ -60,7 +60,7 @@ when \\(\theta=0^o\\), they are asymptotic curves.
     </div>
 </div>
 <div class="caption">
-    A family of pseudo-geodesics on a mesh. Left: A family of pseudo-geodesic with \\(\theta=60^o\\) are constructed as level-sets from a triangle mesh. Right: A family of pseudo-geodesics with \\(\theta=45^o\\) are optimized from geodesics (\\(\theta=90^o\\)) of the quad mesh, where the binormals along the pseudo-geodesics form the so-called **Rectifying Strips** that are developable.
+    A family of pseudo-geodesics on a mesh. Left: A family of pseudo-geodesic with $$\theta=60^o$$ are constructed as level-sets from a triangle mesh. Right: A family of pseudo-geodesics with $$\theta=45^o$$ are optimized from geodesics ($$\theta=90^o$$) of the quad mesh, where the binormals along the pseudo-geodesics form the so-called **Rectifying Strips** that are developable.
 </div>
 
 <div class="row">
