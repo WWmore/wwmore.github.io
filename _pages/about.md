@@ -18,13 +18,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a <a href="https://cemse.kaust.edu.sa/vcc/people/person/hui-wang" target="\_blank"> Postdoctoral Researcher </a> 
+<a href="https://cemse.kaust.edu.sa/vcc/people/person/hui-wang" target="\_blank"> Postdoctoral Researcher </a> 
 of <a href="https://www.geometrie.tuwien.ac.at/geom/ig/pottmann/index.php" target="\_blank"> Prof. Helmut Pottmann's </a> 
 <a href="https://cemse.kaust.edu.sa/cdf" target="\_blank"> Computational Design and Fabrication (CDF) </a> 
 research group in
 <a href="https://cemse.kaust.edu.sa/vcc" target="\_blank">Visual Computing Center (VCC)</a>
 in KAUST.
-Previously, I was a joint PhD student of his
+Previously, I was a visiting PhD student of his
 <a href="https://www.geometrie.tuwien.ac.at/geom/ig/pottmann/index.php" target="\_blank">Applied Geometry </a> group 
 in TU Wien for two years.
 I got my PhD in 2020 from Dalian University of Technology (DUT), where my superviser was
