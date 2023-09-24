@@ -32,5 +32,5 @@ I got my PhD in 2020 from Dalian University of Technology (DUT), where my superv
 in
 <a href="https://math.dlut.edu.cn/English/About_us/Institutes.htm" target="\_blank"> Computational Geometry</a>  group.
 My current research interests include architectural geometry, geometry processing, computational design, CAD, CAGD, and discrete differential geometry etc.
-Please check my
-<a href="https://www.huiwang.me/assets/pdf/hwang-cv.pdf" target="\_blank"><b>CV</b></a> here.
+<!-- Please check my
+<a href="https://www.huiwang.me/assets/pdf/hwang-cv.pdf" target="\_blank"><b>CV</b></a> here. -->
