@@ -39,7 +39,7 @@ width="100%" height=400 frameborder="0" style="border: none;">
 
 
 #### <i class='fa fa-code'>Code</i>
-Open source :snake: code has been released in [Github :octocat:](https://github.com/WWmore/DOS). Welcome!
+Open source :snake: code has been released in [Github](https://github.com/WWmore/DOS).  :octocat: Welcome!
 
 ------
 
