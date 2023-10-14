@@ -126,19 +126,14 @@ Fig.7: Still based on a regular icosahedron, I redesigned another AAG-gridshell 
 Presentation video in [YouTube](https://www.youtube.com/watch?v=jyjE0wSNoHw) and in [Bilibili](https://www.bilibili.com/video/BV1Rf4y1Z7yK?spm_id_from=333.999.0.0&vd_source=3fcaaf2fe9f45c94842d7fa553d555be).
 
 
-<!-- <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=jyjE0wSNoHw" title="Designing Asymptotic Geodesic Hybrid Gridshells" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p> -->
+[![talk](assets/img/proj6/youtube.png)](https://www.youtube.com/embed/jyjE0wSNoHw?si=4Ud7yaqTfAYfXAhQ)
 
-<!-- <p align="center">
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=jyjE0wSNoHw" frameborder="0" allowfullscreen></iframe>
-</p> -->
 
 ------
 
 ##### <i class='fas fa-download'>Open Source</i>
 
-to be updated ...
+Open source :snake: code has been released in [Github :octocat:](https://github.com/WWmore/AAG). Welcome!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

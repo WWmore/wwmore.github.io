@@ -73,3 +73,7 @@ width="100%" height=400 frameborder="0" style="border: none;">
 <div class="caption">
     Here is the final AAG-web with orthogonal straight strips along the asymptotic curves and tangent straight strips along the geodesics, which was optimized as discussed in this <a href="https://www.huiwang.me/projects/6_project/" target="\_blank"> project </a>.
 </div>
+
+
+##### <i class='fa fa-code'>Code</i>
+Open source :snake: code has been released in [Github :octocat:](https://github.com/WWmore/AAG). Welcome!
