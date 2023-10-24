@@ -7,7 +7,12 @@ importance: 3
 category: fun
 ---
 
-https://github.com/WWmore/gaussian-splatting/assets/28695253/d1d8aaeb-a890-434e-95b8-acf526bea44b
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/video/beacon_cut_small.mp4" title="example image" class="img-fluid rounded z-depth-1" zoomable=true%}
+    </div>
+</div>
 <div class="caption">
     I used 24 photos with 0.6 x Zoom-out views from my phone to produce the 3D Gaussian Splatting. 
 </div>
