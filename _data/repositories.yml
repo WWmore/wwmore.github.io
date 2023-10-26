@@ -6,9 +6,12 @@ github_repos:
   - WWmore/DOS
   - WWmore/AAG
   # - WWmore/ArchitecturalGeometry
-  - WWmore/ArchGeo
+  
   - WWmore/compute.rhino3d
   - WWmore/gaussian-splatting
-  # - WWmore/DL4VistualComputing
-  - WWmore/imageprocessing
   - WWmore/Rectangling-Panoramic-Images-via-Warping
+  # - WWmore/DL4VistualComputing
+  
+  - WWmore/ArchGeo
+  - WWmore/mkdocs-archgeo
+  

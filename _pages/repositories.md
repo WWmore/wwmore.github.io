@@ -2,10 +2,14 @@
 layout: page
 permalink: /repositories/
 title: code
-description: open repositories in Github.
+description: open repositories in Github
 nav: true
 nav_order: 1
 ---
+
+
+![ArchGeo](assets/img/AG_small.png) A documentation for the ArchGeo library is built [here](https://www.huiwang.me/mkdocs-archgeo/).
+
 
 ## GitHub users
 
