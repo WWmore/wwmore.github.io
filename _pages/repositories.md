@@ -8,7 +8,7 @@ nav_order: 1
 ---
 
 
-![ArchGeo](https://github.com/WWmore/wwmore.github.io/blob/a93d8e62f8833af6d3f4a66a905a39839cfce48b/assets/img/AG_small.png) A documentation for the ArchGeo library is built [here](https://www.huiwang.me/mkdocs-archgeo/).
+A documentation for the ![ArchGeo](AG_small.png) library is built [here](https://www.huiwang.me/mkdocs-archgeo/). 
 
 ## GitHub users
 
