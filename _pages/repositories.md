@@ -8,7 +8,7 @@ nav_order: 1
 ---
 
 
-A documentation for the ![ArchGeo](AG_small.png) library is built [here](https://www.huiwang.me/mkdocs-archgeo/). 
+A documentation for the ![ArchGeo](../assets/img/AG_small.png) library is built [here](https://www.huiwang.me/mkdocs-archgeo/). 
 
 ## GitHub users
 
