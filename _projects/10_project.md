@@ -12,7 +12,7 @@ category: work
 ##### <i class='fas fa-folder-open'>**Publication**</i><br/>
 It was accepted by the **Shape Modeling International (SMI2023)** conference, and presented during the **International Geometry Summit (IGS2023)** from July 3rd to 7th in Genova, Italy.
 This paper won the **$${\color{red}Best Paper (Honourable Mention)}$$** out of the 20 accepted papers (63 submissions).
-[Twitter](https://twitter.com/jjorge/status/1677652626270298117) :fontawesome-brands-twitter:{ .twitter }
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/jjorge.svg?style=social&label=Follow%20%40jjorge)](https://twitter.com/jjorge/status/1677652626270298117)
 It has been published in the [Computers & Graphics journal](https://doi.org/10.1016/j.cag.2023.05.024).
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
