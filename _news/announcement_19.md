@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-09-01 00:00:00-0400
+date: 2023-10-07 00:00:00-0400
 inline: true
 ---
 
-Our paper ***Rectifying Strip Patterns*** has been accepted by the SIGGRAPH Asia 2023 conference, which will take place in Sydney, Australia :koala: during Dec.12-15. 
+I attended the Advances in Architectural Geometry (AAG 2023) conference in Stuttgart from Oct. 4th to 7th, where the first two days are the interesting <a href="https://www.huiwang.me/projects/12_project/">Origami workshop</a>.
