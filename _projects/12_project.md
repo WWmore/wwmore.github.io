@@ -10,7 +10,7 @@ category: work
 ------
 
 During the first two days of the [Advances in Architectural Geometry (AAG2023)](http://aag2023.com) conference held from October 4-7 in Stuggart, I attended the Structural Origami workshop led by Tomohiro Tachi, Rupert Maleczek and Yves Klett. I completed an Origami shell model together with Xinye Li during the workshop.
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/LabOrigami.svg?style=social&label=Follow%20%40LabOrigami)](https://twitter.com/LabOrigami/status/1710041520827462083)
+[Twitter](https://twitter.com/LabOrigami/status/1710041520827462083) :fontawesome-brands-twitter:{ .twitter }
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
