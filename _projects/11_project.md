@@ -12,6 +12,7 @@ category: work
 ##### <i class='fas fa-folder-open'>**Publication**</i><br/>
 ACM Transactions on Graphics; 
 Accepted by the **SIGGRAPH Asia 2023** conference (Dec.12-15, Sydney, Australia).
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/siggraph.svg?style=social&label=Follow%20%40siggraph)](https://twitter.com/siggraph/status/1713600629896020116)
 
 ##### <i class='fas fa-laugh-beam'>**Authors**</i><br/>
 Bolun Wang, Hui Wang, Eike Schling, Helmut Pottmann
