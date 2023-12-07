@@ -3,7 +3,7 @@ layout: page
 title:  Gaussian Splatting
 description: KAUST Beacon
 img: assets/img/fun/GS_beacon.gif
-importance: 3
+importance: 2
 category: fun
 ---
 
