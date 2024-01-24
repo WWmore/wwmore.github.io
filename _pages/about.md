@@ -34,5 +34,3 @@ in
 My current research interests include architectural geometry, geometry processing, computational design, CAD, CAGD, and discrete differential geometry etc.
 <!-- Please check my
 <a href="https://www.huiwang.me/assets/pdf/hwang-cv.pdf" target="\_blank"><b>CV</b></a> here. -->
-
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=529yslcglge&amp;m=0&amp;c=0006ff&amp;cr1=baff00&amp;sx=0" async="async"></script>
