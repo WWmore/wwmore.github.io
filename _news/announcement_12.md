@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-03-01 00:00:00-0400
+date: 2022-01-08 00:00:00-0400
 inline: true
 ---
 
-Our paper [***Characteristic parameterizations of surfaces with a constant ratio of principal curvatures***](https://www.huiwang.me/projects/1_project/) has been published in CAGD. :book:
+Invited by Computer Science department of Nothwestern Polytechnical University, I attent a ***Computation&Art*** workshop held by the Journal of Image and Graphics, and gave a 50-min talk titled [***Discrete surfaces optimization towards the architectural application***](https://mp.weixin.qq.com/s/kzszC2P1rHIjEwFP7G2naw) on Jan. 8th 2022.:sparkles:

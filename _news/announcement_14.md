@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-07-30 00:00:00-0400
+date: 2022-06-23 00:00:00-0400
 inline: true
 ---
 
-Our paper [***Designing asymptotic geodesic hybrid gridshells***](https://www.huiwang.me/projects/6_project/) has been published in Computer-Aided Design (CAD). :book:
+I gave a talk about [***Designing Asymptotic Geodesic Hybrid Gridshells***](https://www.huiwang.me/projects/6_project/) in the [***Curves and Surfaces 2022***](https://cs2022.sciencesconf.org/) live conference in Arcachon, France. :fish:
