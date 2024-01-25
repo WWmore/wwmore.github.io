@@ -2,7 +2,7 @@
 layout: about
 title:  Hui <strong> Wang </strong> (王慧)</strong>
 permalink: /
-subtitle: <p> hui.wang.1@kaust.edu.sa |
+subtitle: <p> hwangchn@outlook.com | hui.wang.1@kaust.edu.sa |
           <a href="https://www.researchgate.net/profile/Wang_Hui35" target="_blank" title="Research Gate"><i class="ai ai-researchgate"></i> Research Gate</a> |  
           <a href="https://scholar.google.com/citations?hl=en&user=GEo8ylMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i> Google Scholar</a>
           </p>
@@ -11,26 +11,26 @@ profile:
   align: right
   image: me3.png
   address: >
-    <p> hwangchn@outlook.com </p>
+    <p> </p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-On the University Faculty Job Market! :loudspeaker:
+:loudspeaker: On the University Faculty Career Fair!
 
 I got my PhD in 2020 in <a href="https://math.dlut.edu.cn/English/About_us/Institutes.htm" target="\_blank"> Computational Geometry</a> group (PI: <a href="http://faculty.dlut.edu.cn/zhu/zh_CN/index.htm" target="\_blank">Prof. Chungang Zhu</a>) from Dalian University of Technology (DUT).
 
-During my PhD, I visited two years in the
-<a href="https://www.geometrie.tuwien.ac.at/geom/ig/index.php" target="\_blank">Applied Geometry </a> group (PI: <a href="https://www.geometrie.tuwien.ac.at/geom/ig/pottmann/index.php" target="\_blank"> Prof. Helmut Pottmann </a>) in TU Wien.
+During my PhD, I visited the
+<a href="https://www.geometrie.tuwien.ac.at/geom/ig/index.php" target="\_blank">Applied Geometry </a> group (PI: <a href="https://www.geometrie.tuwien.ac.at/geom/ig/pottmann/index.php" target="\_blank"> Prof. Helmut Pottmann </a>) in TU Wien for 2 years.
 
 After my PhD graduation in 2020, I worked as a <a href="https://cemse.kaust.edu.sa/vcc/people/person/hui-wang" target="\_blank"> Postdoctoral Researcher </a> 
 of <a href="https://cemse.kaust.edu.sa/vcc/people/person/helmut-pottmann" target="\_blank"> Prof. Helmut Pottmann's </a> 
 <a href="https://cemse.kaust.edu.sa/cdf" target="\_blank"> Computational Design and Fabrication (CDF) </a> 
 research group in
 <a href="https://cemse.kaust.edu.sa/vcc" target="\_blank">Visual Computing Center (VCC)</a>
-in King Abdullah University of Science and Technology (KAUST), Saudi Arabia.
+in KAUST, Saudi Arabia.
 
 My research interests include Computer Graphics, Computational Design and Fabrication, CAD/CAM, Architectural Geometry, Image Processing, 3D Reconstruction, CV, etc.
 
