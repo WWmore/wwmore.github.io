@@ -26,7 +26,7 @@ During my PhD, I visited the
 After my PhD graduation in 2020, I worked as a <a href="https://cemse.kaust.edu.sa/vcc/people/person/hui-wang" target="\_blank"> Postdoctoral Researcher </a> 
 of <a href="https://cemse.kaust.edu.sa/vcc/people/person/helmut-pottmann" target="\_blank"> Prof. Helmut Pottmann's </a> 
 <a href="https://cemse.kaust.edu.sa/cdf" target="\_blank"> Computational Design and Fabrication (CDF) </a> 
-research group in
+group in
 <a href="https://cemse.kaust.edu.sa/vcc" target="\_blank">Visual Computing Center (VCC)</a>
 in KAUST, Saudi Arabia.
 
