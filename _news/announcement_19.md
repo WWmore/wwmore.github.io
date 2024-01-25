@@ -7,4 +7,4 @@ inline: true
 Our paper [***Discrete Orthogonal Structures***](https://www.huiwang.me/projects/10_project/) was presented in the [Shape Modeling International (SMI 2023)](https://smiconf.github.io/2023/) conference during the [International Geometry Summit (IGS2023)](https://www.igs2023.imati.cnr.it/) from July 3rd to 7th in Genova, Italy. :spaghetti: The paper won the Best Paper (Honourable Mention). :sparkles:
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/jjorge.svg?style=social&label=Follow%20%40jjorge)](https://twitter.com/jjorge/status/1677652626270298117)
 
-我们的文章 ***离散正交结构*** 被 国际几何峰会 IGS23 / Computers & Graphics $${\color{red}(CCF C)}$$ 接收, 并获$${\color{red}最佳论文荣誉提名奖}$$.
+我们的文章 ***离散正交结构*** 被 国际几何峰会 IGS23 / Computers & Graphics $${\color{red}\small{(CCF-C)}}$$ 接收, 并获$${\color{red}最佳论文荣誉提名奖}$$.

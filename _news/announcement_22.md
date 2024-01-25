@@ -8,4 +8,4 @@ Our paper [***Rectifying Strip Patterns***](https://www.huiwang.me/projects/11_p
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/siggraph.svg?style=social&label=Follow%20%40siggraph)](https://twitter.com/siggraph/status/1713600629896020116)
 
 
-我们的文章 ***从切条带面设计*** 被 SIGGRAPH Asia 2023 / ACM TOG $${\color{red}(CCF A, 计算机图形学顶会/刊)}$$ 接收.
+我们的文章 ***从切条带面设计*** 被 SIGGRAPH Asia 2023 / ACM TOG $${\color{red}\small{(CCF-A, 计算机图形学顶会/刊)}}$$ 接收.
