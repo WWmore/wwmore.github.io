@@ -10,8 +10,6 @@ subtitle: <p> hwangchn@outlook.com | hui.wang.1@kaust.edu.sa |
 profile:
   align: right
   image: me3.png
-  address: >
-    <p> </p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
