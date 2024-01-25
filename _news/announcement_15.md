@@ -5,3 +5,5 @@ inline: true
 ---
 
 Our paper [***Designing asymptotic geodesic hybrid gridshells***](https://www.huiwang.me/projects/6_project/) has been published in Computer-Aided Design (CAD). :book:
+
+我们的文章 ***混合渐近线与测地线的网壳设计*** 被 CAD 期刊 $${\color{red}(CCF B, 计算机辅助设计顶刊)}$$ 接收.
