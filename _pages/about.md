@@ -4,7 +4,7 @@ title:  Hui <strong> Wang </strong> (王慧)</strong>
 permalink: /
 subtitle: <p> hwangchn@outlook.com | hui.wang.1@kaust.edu.sa |
           <a href="https://www.researchgate.net/profile/Wang_Hui35" target="_blank" title="Research Gate"><i class="ai ai-researchgate"></i> Research Gate</a> |  
-          <a href="https://scholar.google.com/citations?hl=en&user=GEo8ylMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i> Google Scholar</a>
+          <a href="https://scholar.google.com/citations?user=s7YYzjoAAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i> Google Scholar</a>
           </p>
 
 profile:
@@ -30,7 +30,7 @@ group in
 <a href="https://cemse.kaust.edu.sa/vcc" target="\_blank">Visual Computing Center (VCC)</a>
 in KAUST, Saudi Arabia.
 
-My research interests include Computer Graphics, Computational Design and Fabrication, CAD/CAM, Architectural Geometry, Image Processing, 3D Reconstruction, CV, etc.
+My research interests include Computer Graphics, Computational Design and Fabrication, CAD/CAM, Architectural Geometry, Geometry Processing, Image Processing, 3D Reconstruction, CV, etc.
 
 <!-- Please check my
 <a href="https://www.huiwang.me/assets/pdf/hwang-cv.pdf" target="\_blank"><b>CV</b></a> here. -->
