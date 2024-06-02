@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <!-- Head -->
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">    <!-- Metadata, OpenGraph and Schema.org -->
+    
+
+    <!-- Standard metadata -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>ArchGeo建筑几何(第 6 期) | Hui  Wang</title>
+    <meta name="author" content="Hui  Wang">
+    <meta name="description" content="参数曲面">
+    <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website">
+
+
+    <!-- Bootstrap & MDB -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/css/mdb.min.css" integrity="sha256-jpjYvU3G3N6nrrBwXJoVEYI/0zw8htfFnhT9ljN3JJw=" crossorigin="anonymous">
+
+    <!-- Fonts & Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css" integrity="sha256-HtsXJanqjKTc8vVQjO4YMhiqFoXkfBsjBWcX91T1jr8=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha256-i1+4qU2G2860dGGIOJscdC30s9beBXjFfzjWLjBRsBg=" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons">
+
+    <!-- Code Syntax Highlighting -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/github.css" media="none" id="highlight_theme_light">
+
+    <!-- Styles -->
+    
+    <link rel="shortcut icon" href="/assets/img/ellipse.png">
+    
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="canonical" href="https://www.huiwang.me/blog/2021/issue6/">
+    
+    <!-- Dark Mode -->
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/native.css" media="none" id="highlight_theme_dark">
+
+    <script src="/assets/js/theme.js"></script>
+    <script src="/assets/js/dark_mode.js"></script>
+    
+
+  </head>
+
+  <!-- Body -->
+  <body class="fixed-top-nav sticky-bottom-footer">
+
+    <!-- Header -->
+    <header>
+
+      <!-- Nav Bar -->
+      <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top">
+        <div class="container">
+          <a class="navbar-brand title font-weight-lighter" href="https://www.huiwang.me//"><span class="font-weight-bold">Hui</span>   Wang</a>
+          <!-- Navbar Toggle -->
+          <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar top-bar"></span>
+            <span class="icon-bar middle-bar"></span>
+            <span class="icon-bar bottom-bar"></span>
+          </button>
+
+          <div class="collapse navbar-collapse text-right" id="navbarNav">
+            <ul class="navbar-nav ml-auto flex-nowrap">
+
+              <!-- About -->
+              <li class="nav-item ">
+                <a class="nav-link" href="/">about</a>
+              </li>
+              
+              <!-- Blog -->
+              <li class="nav-item active">
+                <a class="nav-link" href="/blog/">blog</a>
+              </li>
+
+              <!-- Other pages -->
+              <li class="nav-item ">
+                <a class="nav-link" href="/repositories/">code</a>
+              </li>
+              <li class="nav-item ">
+                <a class="nav-link" href="/projects/">projects</a>
+              </li>
+              <li class="nav-item ">
+                <a class="nav-link" href="/publications/">publications</a>
+              </li>
+
+              <!-- Toogle theme mode -->
+              <div class="toggle-container">
+                <a id="light-toggle">
+                  <i class="fas fa-moon"></i>
+                  <i class="fas fa-sun"></i>
+                </a>
+              </div>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <!-- Content -->
+    <div class="container mt-5">
+      <!-- _layouts/post.html -->
+
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">ArchGeo建筑几何(第 6 期)</h1>
+    <p class="post-meta">June 30, 2021</p>
+    <p class="post-tags">
+      <a href="https://www.huiwang.me/blog/2021"> <i class="fas fa-calendar fa-sm"></i> 2021 </a>
+        ·  
+        <a href="https://www.huiwang.me/blog/tag/images">
+          <i class="fas fa-hashtag fa-sm"></i> images</a>  
+          
+        ·  
+        <a href="https://www.huiwang.me/blog/category/ArchGeo">
+          <i class="fas fa-tag fa-sm"></i> ArchGeo</a>  
+          
+
+    </p>
+  </header>
+
+  <article class="post-content">
+    <h5 id="images-from-the-internet-if-there-is-any-copyright-infringement-please-notify-me-at-once-and-ill-delete-it">Images from the internet. If there is any copyright infringement, please notify me at once and I’ll delete it.</h5>
+<hr>
+
+<center> <h3>Architecture建筑</h3> </center>
+
+<ul>
+  <li>
+    <h4 id="太原植物园"><a href="https://www.dezeen.com/2021/06/02/taiyuan-botanical-garden-delugan-meissl-china/" rel="external nofollow noopener" target="_blank">太原植物园</a></h4>
+
+    <p>太原植物园去年完成了建设对外开放，其主要部分的是由奥地利建筑公司DMAA2016年开始设计完成的。植物园中的三个醒目的单独温室园分别构成凸曲面，平面玻璃镶嵌在两族钢梁而成的网格中，网格是曲面的共轭网（conjugate net）。因为网格存在某些区域夹角不是90度，故网格在该区域不是曲面的主法曲率网。内部双弯曲的木质框架形成可展曲面，如果两族可展曲面是正交的关系，则形成主法曲率网。如果可展曲面是垂直于外表面的，则可展曲面和外表面的交线是凸曲面的主法曲率线。</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2021-6/taiyuan.png" width="500">
+</p>
+
+<p>DMAA主要作品包括<a href="https://www.dmaa.at/work/tourist-info-vienna" rel="external nofollow noopener" target="_blank">维也纳游客中心</a>和斯图加特保时捷博物馆。</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2021-6/dmaa.png" width="500">
+</p>
+
+<ul>
+  <li>
+    <h4 id="sculpture-by-sea-海边雕塑"><a href="https://sculpturebythesea.com/gallery/" rel="external nofollow noopener" target="_blank">Sculpture by sea 海边雕塑</a></h4>
+
+    <p>封面是由<a href="https://archello.com/de/project/succah-by-the-sea" rel="external nofollow noopener" target="_blank">Office Feuerman</a> 为澳大利亚Bondi2019海边展设计的A-net shell(渐近网壳)结构.整体呈对称结构,能明显看出由四个主体部分拼接而成. 两族木质薄板拼接嵌套在一起,每条薄板都发生了不同程度的扭转(可展曲面挠率非零),边缘线沿着外表面的渐近线,构成了整体渐近线网(A-net).所有节点都是4价的,出现奇异点的地方是5价的,构造上在这些位置没有连续. 具体理论应该参考了建在TU Munich的<a href="https://eikeschling.com/2017/11/06/insideout/" rel="external nofollow noopener" target="_blank">‘Inside\Out Gridshell’</a>.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2021-6/shell1.png" width="500">
+</p>
+
+<p>‘Sculpture by sea’ 今年在Bondi海滩展出时间是10月21日-11月7日,号称世界上最大的公共雕塑展. 由来自世界各地的100多个作品,分布在2km长的海岸线上.</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2021-6/sculpture.png" width="500">
+</p>
+
+<ul>
+  <li>
+    <h4 id="螺旋面景观亭"><a href="https://mooool.com/da-hua-zi-yue-mansion-by-gm-landscape-design.html" rel="external nofollow noopener" target="_blank">螺旋面景观亭</a></h4>
+
+    <p>位于番禺老城区新建的一个商业项目景观亭. 由主法曲率网构成的螺旋面网壳结构.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2021-6/spiral.png" width="500">
+</p>
+
+<hr>
+<center> <h3>Math数学</h3> </center>
+
+<ul>
+  <li>
+    <h4 id="参数曲面和体"><a href="http://www.3d-meier.de/tut3/Seite0.html" rel="external nofollow noopener" target="_blank">参数曲面和体</a></h4>
+
+    <p>德语网站，整理了20多年的经典参数曲面，分类清晰，页面简单，直接给出参数表达式，定义域，图形. 有python源文件和Cinema源文件可以下载.</p>
+
+    <p>部分结果被[<encyclopedia of="" analytical="" surfaces="">](https://www.springer.com/gp/book/9783319117720)书籍引用，它也实现了很多书中的结果.</encyclopedia></p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2021-6/parametrische.png" width="500">
+</p>
+
+<ul>
+  <li>
+    <h4 id="极小曲面"><a href="https://minimalsurfaces.blog/home/repository/symmetrizations/" rel="external nofollow noopener" target="_blank">极小曲面</a></h4>
+
+    <p>整个界面全是关于极小曲面, 有不同分类. 界面清新流畅, 有PovRay , Mathematica 文件下载.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2021-6/minimal.png" width="500">
+</p>
+
+<ul>
+  <li>
+    <h4 id="多面体纸模型"><a href="https://www.polyhedra.net/zh/pictures.php?type=a" rel="external nofollow noopener" target="_blank">多面体纸模型</a></h4>
+
+    <p>集合和实现了多种多面体纸质模型.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2021-6/polyhedra.png" width="500">
+</p>
+
+<ul>
+  <li>
+    <h4 id="perspectiva-corporum-regularium"><a href="https://digital.slub-dresden.de/werkansicht/dlf/12830/5" rel="external nofollow noopener" target="_blank">Perspectiva Corporum Regularium</a></h4>
+
+    <p>规则透视体木版画，介绍多种奇异的多面体，1568年出版. 作者Wenzel Jamnitzer生于维也纳，是神圣罗马帝国的宫廷金匠. 高清扫描书籍可以免费下载.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2021-6/regularium.png" width="500">
+</p>
+
+<ul>
+  <li>
+    <h4 id="mathematical-art-galleries"><a href="http://gallery.bridgesmathart.org/exhibitions/2021-Bridges-Conference" rel="external nofollow noopener" target="_blank">Mathematical Art Galleries</a></h4>
+
+    <p>整合了几个数学与艺术结合的会议作品, 包括’JAMM2021’, ‘Bridges2021’等.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2021-6/mag.png" width="500">
+</p>
+
+<ul>
+  <li>
+    <h4 id="mathematical-research-institute-of-oberwolfach"><a href="https://opc.mfo.de/" rel="external nofollow noopener" target="_blank">Mathematical Research Institute of Oberwolfach</a></h4>
+
+    <p>上沃尔法赫数学研究所， 位于德国上沃尔法，世界各地数学家组织的研讨会, 每周举办数学研讨会. 很多大数学家都会在广场的Boy’s surface雕塑前留影并作为个人主页头像,甚至出版物头像. 该雕像由奔驰1991年捐赠, Boy’s surface是由Mobius带变化而来, 具有极小化Willmore energy.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2021-6/oberwolfach.png" width="500">
+</p>
+
+<ul>
+  <li>
+    <h4 id="mactutor"><a href="https://mathshistory.st-andrews.ac.uk/" rel="external nofollow noopener" target="_blank">MacTutor</a></h4>
+
+    <p>罗列了历史上有名的数学家照片和简介. 有按照国家, 地图, 年代, 字母表等方式分类.  中国数学家信息非常少. 也单独介绍曲线信息.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2021-6/mactutor.png" width="500">
+</p>
+
+<ul>
+  <li>
+    <h4 id="mit-微分几何在线书籍"><a href="http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/" rel="external nofollow noopener" target="_blank">MIT 微分几何在线书籍</a></h4>
+  </li>
+</ul>
+
+<hr>
+
+<center> <h3>Software工具</h3> </center>
+
+<ul>
+  <li>
+    <h4 id="eigen线性代数函数包"><a href="https://eigen.tuxfamily.org/index.php?title=Main_Page" rel="external nofollow noopener" target="_blank">Eigen线性代数函数包</a></h4>
+
+    <p>C++语言编写的线性代数包.</p>
+  </li>
+  <li>
+    <h4 id="libigl几何处理函数包"><a href="https://libigl.github.io/tutorial/" rel="external nofollow noopener" target="_blank">Libigl几何处理函数包</a></h4>
+
+    <p>C++语言编写,也有部分Python. 当前最热门的几何处理函数包. 基于Eigen.</p>
+  </li>
+  <li>
+    <h4 id="libhedra多边形网函数包"><a href="https://avaxman.github.io/libhedra/" rel="external nofollow noopener" target="_blank">Libhedra多边形网函数包</a></h4>
+
+    <p>C++语言编写, 从Libigl只针对三角网的局限扩展到处理多边形网格.</p>
+  </li>
+  <li>
+    <h4 id="lionfish"><a href="https://www.food4rhino.com/en/app/lion-fish#lg=1&amp;slide=4" rel="external nofollow noopener" target="_blank">Lionfish</a></h4>
+
+    <p>转化Nicholas Sharp的<a href="http://geometry-central.net/" rel="external nofollow noopener" target="_blank">Geometry Central</a>函数包为Grasshopper插件, 实现网格面上的向量域构造, 提取geodesic(测地线), 计算曲率等几何量.</p>
+  </li>
+</ul>
+
+<hr>
+
+<center> <h3>Reading阅读</h3> </center>
+
+<ol>
+  <li>
+    <h4 id="笑翻中国简史马伯庸">《笑翻中国简史》–马伯庸</h4>
+
+    <blockquote>
+      <p>1687年,耶稣会士柏应理撰写了&lt;中国哲学家孔子&gt;一书, 其中共计用了十三页对伏羲八卦图做了介绍. 坊间传闻,德国哲学家,数学家莱布尼茨买来一本一翻,我的天,这不是我正在研究的二进制嘛! 二进制的发明从此就归功于莱布尼茨了,而最早制定&lt;周易&gt;系统的中国原始数学家则淹没在了历史的浩瀚海洋中. 没办法,他那一套太形而上了,几千年来没几个人能搞得懂.周易&gt;中国哲学家孔子&gt;</p>
+    </blockquote>
+
+    <blockquote>
+      <p>“五德始终说”可是个大大的好东西,因为这套理论包容性特别高,谁都可以按照自己的需求去修改. 按他的本意,只有拥有正经德性的势力才能推翻前朝创立新政权,但是此后大家全都反着用,先捏掉前朝,然后再给自己配一个合适的”德”,以证明自己是受命于天的合法政权.这就好像是先上车后补票,先生孩子再领结婚证,先打下伊拉克再找大规模杀伤性武器一样, 古今道理全都相通.</p>
+    </blockquote>
+  </li>
+  <li>
+    <h4 id="烧火工刘慈欣">《烧火工》–刘慈欣</h4>
+
+    <blockquote>
+      <p>他们沉默地看着灿烂的星河，烧火工突然指向一个方向：“看！”. 萨沙看到了一道弧光划过星空，那是一颗流星。“那就是一般人的死法，他们的星星化成流星，大部分在落地前就烧光了，有些剩下的部分落到地上，也不过是一块平淡无奇的石头.</p>
+    </blockquote>
+  </li>
+  <li>
+    <h4 id="微纪元刘慈欣">《微纪元》–刘慈欣</h4>
+
+    <blockquote>
+      <p>那时人们常谈起一个笑话，说的是一个人同上帝的对话：</p>
+
+      <p>“上帝啊，一万年对你是多么短啊！”</p>
+
+      <p>上帝说：就一秒钟.</p>
+
+      <p>“上帝啊，一亿元对你是多么少啊！”</p>
+
+      <p>上帝说：就一分钱.</p>
+
+      <p>“上帝啊，给我一分钱吧！”</p>
+
+      <p>上帝说：请等一秒钟.</p>
+    </blockquote>
+
+    <blockquote>
+      <p>您的眼睛像黑色的大海…是博物馆…是放大了上亿倍的忧郁！</p>
+    </blockquote>
+  </li>
+  <li>
+    <h4 id="白痴陀思妥耶夫斯基">《白痴》–陀思妥耶夫斯基</h4>
+
+    <blockquote>
+      <p>一个有心而没有头脑的傻瓜，跟一个有头脑而没有心的傻瓜一样，都是可怜的傻瓜.</p>
+    </blockquote>
+  </li>
+</ol>
+
+<hr>
+
+<center> <h3>Miscellaneous其他</h3> </center>
+
+<ul>
+  <li>
+    <h4 id="felix-semper折纸雕像"><a href="http://felixsemper.com/index.html" rel="external nofollow noopener" target="_blank">Felix Semper折纸雕像</a></h4>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2021-6/paper_sculpture.png" width="500">
+</p>
+
+<ul>
+  <li>
+    <h4 id="德累斯顿数字馆藏"><a href="https://digital.slub-dresden.de/kollektionen" rel="external nofollow noopener" target="_blank">德累斯顿数字馆藏</a></h4>
+
+    <p>免费扫描书籍下载.</p>
+  </li>
+</ul>
+
+<hr>
+
+
+  </article>
+
+</div>
+
+    </div>
+
+    <!-- Footer -->    <footer class="sticky-bottom mt-5">
+      <div class="container">
+        © Copyright 2024 Hui  Wang. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme in <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>.
+
+      </div>
+    </footer>
+
+    <!-- JavaScripts -->
+    <!-- jQuery -->
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+    <!-- Bootsrap & MDB scripts -->
+  <script async src="https://cdn.jsdelivr.net/npm/@popperjs/core@/dist/umd/popper.min.js" integrity="" crossorigin="anonymous"></script>
+  <script async src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js" integrity="sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8=" crossorigin="anonymous"></script>
+  <script async src="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/js/mdb.min.js" integrity="sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA=" crossorigin="anonymous"></script>
+
+    <!-- Masonry & imagesLoaded -->
+  <script defer src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+  <script defer src="/assets/js/masonry.js" type="text/javascript"></script>
+    
+  <!-- Medium Zoom JS -->
+  <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.8/dist/medium-zoom.min.js" integrity="sha256-7PhEpEWEW0XXQ0k6kQrPKwuoIomz8R8IYyuU1Qew4P8=" crossorigin="anonymous"></script>
+  <script defer src="/assets/js/zoom.js"></script><!-- Load Common JS -->
+  <script defer src="/assets/js/common.js"></script>
+
+    <!-- MathJax -->
+  <script type="text/javascript">
+    window.MathJax = {
+      tex: {
+        tags: 'ams'
+      }
+    };
+  </script>
+  <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.0/es5/tex-mml-chtml.js"></script>
+  <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+
+    
+  </body>
+</html>
