@@ -3,7 +3,7 @@ layout: about
 title:  Hui <strong> Wang </strong> (王慧)</strong>
 permalink: /
 subtitle: <p> huiwang@xjtu.edu.cn | hwangchn@outlook.com | hui.wang.1@kaust.edu.sa |
-          <a href="https://www.researchgate.net/profile/Wang_Hui35" target="_blank" title="Research Gate"><i class="ai ai-researchgate"></i> </a>  
+          <a href="https://www.researchgate.net/profile/Wang_Hui35" target="_blank" title="Research Gate"><i class="ai ai-researchgate"></i> </a>  | 
           <a href="https://scholar.google.com/citations?user=s7YYzjoAAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i> </a>
           </p>
 
@@ -11,8 +11,7 @@ profile:
   align: right
   image: me3.png
   address: >
-    <p>[Offical Webpage](https://gr.xjtu.edu.cn/en/web/huiwang)</p>
-    <p>Xi'an Jiaotong University<p>
+    <p> <a href="https://gr.xjtu.edu.cn/en/web/huiwang" target="\_blank"> Official Web</a> </p>
     <p>Xi'an, China</p>
 
 news: true  # includes a list of news items
@@ -27,6 +26,8 @@ I got my PhD in 2020 in <a href="https://math.dlut.edu.cn/English/About_us/Insti
 During my PhD study, I visited Prof. Helmut Pottmann's
 <a href="https://www.geometrie.tuwien.ac.at/geom/ig/pottmann/index.php" target="\_blank">Applied Geometry </a> group in TU Wien for 2 years.
 My research interests include Computer Graphics, Computational Design and Fabrication, CAD/CAM, Architectural Geometry, Geometry Processing, Computational Geometry, Image Processing, 3D Reconstruction, CV, etc.
+
+Welcome to contact me if you are interested in my research!
 
 <!-- After my PhD graduation in 2020, I worked as a <a href="https://cemse.kaust.edu.sa/vcc/people/person/hui-wang" target="\_blank"> Postdoctoral Researcher </a> 
 of <a href="https://cemse.kaust.edu.sa/vcc/people/person/helmut-pottmann" target="\_blank"> Prof. Helmut Pottmann's </a> 
