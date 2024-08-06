@@ -1,0 +1,1732 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://www.huiwang.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.huiwang.me/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-08-06T14:37:29+00:00</updated><id>https://www.huiwang.me/feed.xml</id><title type="html">blank</title><subtitle>Personal research website.
+</subtitle><entry><title type="html">Curved folding shell</title><link href="https://www.huiwang.me/blog/2023/issue25/" rel="alternate" type="text/html" title="Curved folding shell" /><published>2023-10-12T00:01:00+00:00</published><updated>2023-10-12T00:01:00+00:00</updated><id>https://www.huiwang.me/blog/2023/issue25</id><content type="html" xml:base="https://www.huiwang.me/blog/2023/issue25/"><![CDATA[<p>During the first two days of the <a href="http://aag2023.com">Advances in Architectural Geometry (AAG2023)</a> conference held from October 4-7 in Stuggart, I attended the Structural Origami workshop led by Tomohiro Tachi, Rupert Maleczek and Yves Klett.</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/proj12/00-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/proj12/00-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/proj12/00-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/proj12/00.jpg" title="example image" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/proj12/01-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/proj12/01-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/proj12/01-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/proj12/01.jpg" title="example image" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<p>I completed an Origami shell model together with Xinye Li during the workshop.</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/proj12/1-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/proj12/1-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/proj12/1-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/proj12/1.png" title="example image" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/proj12/4-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/proj12/4-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/proj12/4-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/proj12/4.png" title="example image" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    Left: The flat patterns reveal the 'periodic' trends of the curves. When folded along these curved creases, the model takes on montains and valleys in the convex '凸' and concave '凹' ways, which showcases more interesting characteristics compared to the common  <a href="https://doi.org/10.1145/3355089.3356540" target="\_blank"> Curved Pleat Structures</a>.
+    Right: There are multiple degrees of freedom to transform the model isometrically. This particular state demonstrates higher stiffness and stability.
+</div>
+
+<h5 id="design">Design</h5>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/proj12/ani_compress_20panel_2D.gif-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/proj12/ani_compress_20panel_2D.gif-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/proj12/ani_compress_20panel_2D.gif-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/proj12/ani_compress_20panel_2D.gif" title="example image" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    The 2D pattern is designed using a parametric approach. We begin with two scaled ellipses, and then adjust the position and size of the central ellipse. As a result, the corresponding curved patterns are designed accordingly. To export the file, we use Rhino and save it as a .svg file.
+</div>
+
+<h5 id="simulation">Simulation</h5>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/proj12/ani_compress_20panel_3D.gif-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/proj12/ani_compress_20panel_3D.gif-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/proj12/ani_compress_20panel_3D.gif-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/proj12/ani_compress_20panel_3D.gif" title="example image" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    The curved folding process can be simulated using the online algorithm <a href="https://origamisimulator.org/" target="\_blank"> 'Origami Simulator'</a>. The results of the simulation are similar to the physical model.
+</div>
+
+<p>A research paper on this topic will be discussed in the near future.</p>]]></content><author><name></name></author><category term="ArchGeo" /><category term="workshop" /><summary type="html"><![CDATA[AAG2023/Origami workshop in University of Stuttgart]]></summary></entry><entry><title type="html">Asymptotic gridshell</title><link href="https://www.huiwang.me/blog/2023/issue24/" rel="alternate" type="text/html" title="Asymptotic gridshell" /><published>2023-02-03T00:01:00+00:00</published><updated>2023-02-03T00:01:00+00:00</updated><id>https://www.huiwang.me/blog/2023/issue24</id><content type="html" xml:base="https://www.huiwang.me/blog/2023/issue24/"><![CDATA[<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/proj9/workshop-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/proj9/workshop-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/proj9/workshop-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/proj9/workshop.jpg" title="example image" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<p>Very happy to attend the one-week (29th Jan. - 2nd Feb.) Computational Architecture workshop held by VCC, KAUST. 5 experts（Eike Schling, Dominik L. Michels, Florian Rist, Helmut Pottmann and Peter Wonka）from architecture, geometry and computer science gave related talks about the reasonable and scientific ways to design things. I attended it together with 13 other architectural undergraduates selected from Saudi Arabia. It was my first time attending an architectural workshop, very interesting and fruitful! Not only I learnt how are the differences between theory, optimization results and the actual constructed model, but I also learnt some new experiences from the 10 girls and 3 boys, how they came up with their design ideas, how they handled construction details, and how they caught up with time to gave attractive presentations successfully.</p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/proj9/work-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/proj9/work-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/proj9/work-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/proj9/work.png" title="example image" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<h5 id="results">Results</h5>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/proj9/dome-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/proj9/dome-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/proj9/dome-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/proj9/dome.png" title="example image" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    In the first afternoon, at the guide of Prof. Eike Schling, we built this beam shell with a triangle face at the top.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/proj9/mini-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/proj9/mini-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/proj9/mini-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/proj9/mini.png" title="example image" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    This model was made together with Xinye Li and Bolun Wang. 
+    We bent 12 straight congruent strips and fixed them with 36 joints at computed positions to construct.
+    We tried to get an asymptotic net as orthogonal as possible, which is corresponding to a minimal net. 
+    It is a trivial result, but it took us two days to finish it (in fact, we replaced the first day's plan and only took one day to finish together with the presentation). 
+    During the construction time, we met many small problems, like how to choose good joints, how to bend the strips against with its resilience, how to bear the small pins from the FRP strips, how to group the 12 strips into a near rotational shape, how to make the intersection angle as 90 degree as possible...
+    Thanksfully, the result was not bad.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/proj9/GIF_model.gif-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/proj9/GIF_model.gif-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/proj9/GIF_model.gif-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/proj9/GIF_model.gif" title="example image" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    Here is a zoom-in view of the model.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/proj9/GIF_kinetic.gif-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/proj9/GIF_kinetic.gif-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/proj9/GIF_kinetic.gif-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/proj9/GIF_kinetic.gif" title="example image" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/proj9/GIF_simulation.gif-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/proj9/GIF_simulation.gif-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/proj9/GIF_simulation.gif-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/proj9/GIF_simulation.gif" title="example image" data-zoomable="" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    After we tested with three kinds of different joints, the final one can even make the two families of strips rotate, which forms the kinetic behavior of the asymptotic shell (left).
+    This deformed progress can be simulated by Kangoroo in Grasshoppper.
+    The two families of strips can be unrolled into flat rectangular shape in plane.
+</div>
+
+<h5 id="presentation">Presentation</h5>
+
+<p>I gave the around 10mins’ presentation together with Xinye, here is the pdf</p>
+<iframe src="/assets/pdf/slides/2023-arch_workshop-Hui.pdf#toolbar=0" width="100%" height="400" frameborder="0" style="border: none;">
+</iframe>]]></content><author><name></name></author><category term="ArchGeo" /><category term="workshop" /><summary type="html"><![CDATA[Computational Architecture workshop in KAUST]]></summary></entry><entry><title type="html">ArchGeo建筑几何(第 23 期)</title><link href="https://www.huiwang.me/blog/2023/issue23/" rel="alternate" type="text/html" title="ArchGeo建筑几何(第 23 期)" /><published>2023-01-01T00:01:00+00:00</published><updated>2023-01-01T00:01:00+00:00</updated><id>https://www.huiwang.me/blog/2023/issue23</id><content type="html" xml:base="https://www.huiwang.me/blog/2023/issue23/"><![CDATA[<p>2022年过得太快了！每天都过得好快，尤其到年尾意识到要开始倒计时的时候，这种无法控制的感觉更明显了。</p>
+
+<p>很遗憾去年这一年并没有完整地完成12期内容。当然借口可以找到很多，但考虑时间安排上明明多了很多“躺平”的时间，所以还是自己对这个事情不上心了。</p>
+
+<p>2022年共更新了10期，加上2021年的12期，共22期。截止到这个数字我觉得也是很好的。</p>
+
+<p>其实每天也都在获取新的信息，收藏夹和Note笔记里也整理了很多，最后两个月的内容量是有的。只是自己觉得两年整理的经验已经足够让自己养成这个习惯了，也许应该把这些零碎的收藏放入一个文件中，分门别类列出，比如和几何相关的建筑结构，与数学有关的资料库，与工具或软件相关的资源等，这样足够自己可以更好地参考就好，如果还能对其他人有帮助，则是意外之喜了。所以也很感谢关注这个号的人。阅读量和关注人数虽然不重要，不过看见今年这些数字有所增加也是很开心的收获。</p>
+
+<p>ArchGeo这个主题应该不会放弃，文章的内容都同步在了网页上。日后或许不会发布在公众号上了(公众号打算更新游记类的内容)。打算在网页上更新能锻炼英语写作的内容，希望这个短板可以通过一年的锻炼有所增长。</p>
+
+<p>以下是2022年的10个总结分享帖：</p>
+
+<ul>
+  <li>第 22 期：<a href="https://www.huiwang.me/blog/2022/issue22/">利雅得建筑</a></li>
+  <li>第 21 期：<a href="https://www.huiwang.me/blog/2022/issue21/">温哥华建筑</a></li>
+  <li>第 20 期：<a href="https://www.huiwang.me/blog/2022/issue20/">SIGGRAPH会议</a></li>
+  <li>第 19 期：<a href="https://www.huiwang.me/blog/2022/issue19/">西班牙建筑</a></li>
+  <li>第 18 期：<a href="https://www.huiwang.me/blog/2022/issue18/">波尔多葡萄酒博物馆</a></li>
+  <li>第 17 期：<a href="https://www.huiwang.me/blog/2022/issue17/">土耳其建筑</a></li>
+  <li>第 16 期：<a href="https://www.huiwang.me/blog/2022/issue16/">弯曲褶皱建筑</a></li>
+  <li>第 15 期：<a href="https://www.huiwang.me/blog/2022/issue15/">迪拜建筑</a></li>
+  <li>第 14 期: <a href="https://www.huiwang.me/blog/2022/issue14/">迪拜世博会2020</a></li>
+  <li>第 13 期: <a href="https://www.huiwang.me/blog/2022/issue13/">像素画</a></li>
+</ul>
+
+<p>祝大家新年进步, 健康快乐!</p>
+
+<hr />
+
+<p>以下是自己2022年的一些业余时间去处：</p>
+
+<h4 id="书籍">书籍</h4>
+<blockquote>
+  <ul>
+    <li>《海边的卡夫卡》– 村上春树</li>
+    <li>《1Q84》(I-II-III)– 村上春树</li>
+    <li>《焦虑的人》– Fredrik Backman</li>
+    <li>《把自己作为方法》 – 项飙</li>
+    <li>《100 contemporary architects II》 –  Philip·Jodidio</li>
+    <li>《找形》– Frei Otto</li>
+    <li>《The short story of architecture</li>
+    <li>《Sinan: the Architect and His Work</li>
+    <li>《Guggenheim Museum Bilbao》</li>
+    <li>《The complete work of Antoni Gaudi》</li>
+    <li>《BIG》</li>
+    <li>《Englished exposed:Common Mistakes made by Chinese》</li>
+    <li>《Writing Science: how to write papers that get cited and proposals that get funded》</li>
+    <li>《Science research writing》</li>
+  </ul>
+</blockquote>
+
+<h4 id="linkedin-learning">LinkedIn Learning</h4>
+<blockquote>
+  <ul>
+    <li>《Laser Cutting: Design for Fabrication》</li>
+    <li>《Grasshopper: Architectural Prototyping》</li>
+    <li>《Grasshopper: Generative Design for Architecture》</li>
+    <li>《Design Foundation 3D: Shape and Form》</li>
+    <li>《Learning 3D Printing》</li>
+    <li>《Generative Design Foundations》</li>
+    <li>Product and Architectural Visualization Techniques》</li>
+    <li>《John Maeda on Design, Business, and Inclusion》</li>
+    <li>《Learning C++》</li>
+  </ul>
+</blockquote>
+
+<h4 id="影视">影视</h4>
+<blockquote>
+  <ul>
+    <li>(综艺)脱口秀大会V</li>
+    <li>(综艺)一年一度喜剧大会II</li>
+    <li>圆桌派</li>
+    <li>锵锵行天下</li>
+    <li>冬奥会</li>
+    <li>世界杯</li>
+    <li>这个杀手不太冷静</li>
+    <li>红海行动</li>
+    <li>国王排名</li>
+    <li>Love&amp;Death&amp;Robot III</li>
+    <li>The last dual</li>
+    <li>The bad guy</li>
+    <li>Uncharted</li>
+    <li>Jurassic World： Dominion</li>
+    <li>Avatar2</li>
+    <li>Star War I-II-III</li>
+    <li>The Matrix I-II</li>
+    <li>The Eiffel</li>
+    <li>Death on the Nile</li>
+    <li>RRR</li>
+    <li>Shiva</li>
+    <li>Cinderala musical show</li>
+  </ul>
+</blockquote>
+
+<h4 id="旅行">旅行</h4>
+<blockquote>
+  <ul>
+    <li>利雅得 (沙特)</li>
+    <li>Tarif (沙特)</li>
+    <li>Al Balad (沙特吉达老城，世界文化遗产)</li>
+    <li>Iftar Cruise (沙特吉达)</li>
+    <li>迪拜 (阿联酋)</li>
+    <li>土耳其</li>
+    <li>阿卡雄 (法国)</li>
+    <li>西班牙</li>
+    <li>温哥华 (加拿大)</li>
+  </ul>
+</blockquote>
+
+<h4 id="健身">健身</h4>
+<blockquote>
+  <ul>
+    <li>今年跑步15次,悦跑圈显示累计46.14km</li>
+    <li>keep断断续续在练</li>
+  </ul>
+</blockquote>
+
+<h4 id="新乐趣">新乐趣</h4>
+<blockquote>
+  <ul>
+    <li>驾驶车</li>
+    <li>钢琴入门</li>
+    <li>Grasshopper画图</li>
+    <li>3D 打印，laser cut</li>
+    <li>健身房喜欢爬楼机，保龄球</li>
+    <li>snorkeling浮潜</li>
+    <li>一只叫“好运”的橘猫</li>
+  </ul>
+</blockquote>
+
+<p>希望新年健康平安,勇敢,快乐! 努力!</p>
+
+<hr />
+
+<center> <h3>往期</h3> </center>
+
+<p>2021年 第 12 期：<a href="https://www.huiwang.me/blog/2021/issue12/">年终分享</a></p>]]></content><author><name></name></author><category term="ArchGeo" /><category term="images" /><summary type="html"><![CDATA[年终分享]]></summary></entry><entry><title type="html">ArchGeo建筑几何(第 22 期)</title><link href="https://www.huiwang.me/blog/2022/issue22/" rel="alternate" type="text/html" title="ArchGeo建筑几何(第 22 期)" /><published>2022-10-30T00:01:00+00:00</published><updated>2022-10-30T00:01:00+00:00</updated><id>https://www.huiwang.me/blog/2022/issue22</id><content type="html" xml:base="https://www.huiwang.me/blog/2022/issue22/"><![CDATA[<p>Parts of images from the internet. If there is any copyright infringement, please notify me at once and I’ll delete it.</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-10/skyline.png" width="500" />
+</p>
+
+<p>暑假在沙特首都利雅得呆了四天. 从利雅得的城市天际线看上去, 并没有很多令人瞩目的建筑. 2014年之后, 利雅得建成超过100座高楼. 高楼数量位于中东第三位, 继迪拜和阿布扎比之后. 这里简单介绍几个参数化相关的建筑结构. 部分建筑在去年<a href="https://www.huiwang.me/blog/2021/issue3/">第三期</a>有介绍. 其他利雅得新兴建筑可以参考<a href="https://www.archdaily.com/tag/riyadh">ArchDaily</a>.</p>
+
+<center> <h3>Architecture建筑</h3> </center>
+
+<p>利雅得城市的主要现代化建筑几乎都集中在King Fahd路上, 包括地标性的国王中心, 以及新建设成的阿卜杜拉国王金融区. 整个城市似乎也是沿着这条主路分散发展开来. 因为是个内陆城市, 夏天尤其干热, 即使夜晚, 路上也温度极高.</p>
+
+<ul>
+  <li>
+    <h4 id="king-fahad-library沙特国家图书馆"><a href="https://www.archdaily.com/469088/king-fahad-national-library-gerber-architekten">King Fahad Library沙特国家图书馆</a></h4>
+
+    <p>由德国Gerber建筑公司在原有老的图书馆基础上重新设计的外立面结构. 同时也设计了背面广场. 结构在原有基础上进行了扩张, 形成长方体形状. 外立面由重复的对称的拉账薄膜结构组成. 每个薄膜曲面的边界插值两个对角点和两个相对直线. 个人很喜欢这个结构, 并进行了<a href="https://www.huiwang.me/projects/36_fun/">Grasshopper建模</a>.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-10/library.jpg" width="500" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-10/library1.png" width="500" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-10/library2.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="kingdom-center-王国中心"><a href="https://en.wikipedia.org/wiki/Kingdom_Centre">Kingdom center 王国中心</a></h4>
+
+    <p>Richard Tenguerian设计. 自2002年建成以来, 一直是利雅得也是沙特的地标建筑. 302米高, 99层处有城市观景台, 底层有商场. 对称结构, 分片柱面, 顶部有切割布尔运算.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-10/kingdom.jpg" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="faisaliyah-tower-费萨利塔"><a href="https://en.wikipedia.org/wiki/Al_Faisaliyah_Center">Faisaliyah Tower 费萨利塔</a></h4>
+
+    <p>福斯特建筑公司设计. 267米高, 2000年建成. 对称四面体结构. 快到顶层有一个玻璃球面. 顶部可观光, 底层有沙盘.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-10/faisaliyah.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="al-majdoul-tower"><a href="https://www.skyscrapercenter.com/building/al-majdoul-tower/14451">Al Majdoul Tower</a></h4>
+
+    <p>Zeidler Partnership 建筑公司设计. 外立面由四个全等的扭曲曲面片构成. 自底向上四个面扭曲超过90度. 艺术家Bobin对该塔和王国中心进行了平面再设计.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-10/design.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="kapsarc-阿卜杜拉国王石油研发中心"><a href="https://www.archdaily.cn/cn/882427/a-bu-du-la-guo-wang-shi-you-yan-fa-zhong-xin-zaha-hadid-architects?ad_name=article_cn_redirect=popup">KAPSARC 阿卜杜拉国王石油研发中心</a></h4>
+
+    <p>由扎哈事务所设计, 2017年完工的建筑部落,具有非平面非规则的六边形. 该六角棱柱蜂窝结构能有效利用利雅得的光能. 建筑群封闭管理, 不支持参观, 给infomation发邮件无人回复.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2021-3/kapsarc.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="华为中心">华为中心</h4>
+
+    <p>King Fahd路边有很多低矮的楼群, 很多结构并不复杂, 但是看着风格怪异. 有些是在玻璃幕墙上做额外的装饰线, 构造奇特效果, 比如华为楼.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-10/huawei.jpg" width="500" />
+</p>
+
+<p>下面几个建筑都位于新规划的阿卜杜拉国王金融区.</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-10/kafd.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="kafd-metro-station-阿卜杜拉国王金融区地铁站"><a href="https://www.zaha-hadid.com/architecture/king-abdullah-financial-district-metro-station/">KAFD Metro Station 阿卜杜拉国王金融区地铁站</a></h4>
+
+    <p>依旧延续了扎哈事务所参数化异形的建模风格, 该地铁站的样子又超过了人们的想象. 从2012年开建, 本预计去年完工, 但暑假看到仍在装修中. 预计2030年每天满载的情况下运送360万名乘客, 减少汽车出行次数.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2021-3/metro.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="地铁站">地铁站</h4>
+
+    <p>城市其他地铁站正在修建中, 预计今年完成. 这些地铁站外表柱面, 有重复对称三角网拼贴.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-10/metro.jpg" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="kafd-conference-center-会议中心"><a href="https://www.som.com/china/projects/kafd_conference_center__structural_engineering">KAFD Conference Center 会议中心</a></h4>
+
+    <p>由SOM设计, 2017年完工. 位于金融区. 外立面的构造过程从点云, 生成三角网格, 再表面细分更多小三角网格, 结构考虑阳光照射问题.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2021-3/kafd1.png" width="500" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2021-3/kafd2.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="snb-headquater"><a href="https://www.fosterandpartners.com/projects/samba-headquarters/">SNB Headquater</a></h4>
+
+    <p>由Foster+partners设计,位于金融区核心位置. 去年还是SAMBA银行在沙特总部, 但已经被沙特国家银行(SNB)收购. 外立面同时由菱形和三角形玻璃构成, 增加阳光反射, 以应对沙特高温强光天气.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2021-3/samba.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="king-khalid利雅得国际机场ruh"><a href="https://architizer.com/projects/king-khalid-international-airport-expansion/">King Khalid利雅得国际机场RUH</a></h4>
+
+    <p>由HOK设计,位于位于利雅得西北部, 有清真寺和喷泉花坛. 顶部有三角网拼贴的正弯曲的三角面片错落组成. 正则三角网与地面瓷砖的六边形拼贴存在对偶关系.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-10/airport.png" width="500" />
+</p>
+
+<hr />
+
+<center> <h3>往期</h3> </center>
+
+<p>2021年 第 10 期：<a href="https://www.huiwang.me/blog/2021/issue10/">鱿鱼游戏</a></p>]]></content><author><name></name></author><category term="ArchGeo" /><category term="images" /><summary type="html"><![CDATA[利雅得建筑]]></summary></entry><entry><title type="html">ArchGeo建筑几何(第 21 期)</title><link href="https://www.huiwang.me/blog/2022/issue21/" rel="alternate" type="text/html" title="ArchGeo建筑几何(第 21 期)" /><published>2022-09-04T00:01:00+00:00</published><updated>2022-09-04T00:01:00+00:00</updated><id>https://www.huiwang.me/blog/2022/issue21</id><content type="html" xml:base="https://www.huiwang.me/blog/2022/issue21/"><![CDATA[<p>Parts of images from the internet. If there is any copyright infringement, please notify me at once and I’ll delete it.</p>
+
+<center> <h3>Architecture建筑</h3> </center>
+
+<p>8月有幸去温哥华参加<a href="https://www.huiwang.me/blog/2022/issue20/" target="\_blank"> SIGGRAPH 2022 </a>线下会议，在那里待了一周的时间，这期简单介绍几个感兴趣的建筑.</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/van0.png" width="500" />
+</p>
+<center>斯坦李公园视角的城市天际线.</center>
+
+<ul>
+  <li>
+    <h4 id="canada-place"><a href="https://en.wikipedia.org/wiki/Canada_Place">Canada Place</a></h4>
+
+    <p>由建筑师Eberhard Zeidler和Barry Downs专门为1986年温哥华世博会设计的场馆.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/place.png" width="500" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/place1.png" width="500" />
+</p>
+<center>拉账薄膜.</center>
+
+<ul>
+  <li>
+    <h4 id="harbour-centre旋转餐厅塔楼"><a href="http://harbourcentre.com/">Harbour Centre旋转餐厅塔楼</a></h4>
+    <p>1977年开放的观光塔, 顶层有360°旋转餐厅.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/van2.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="vancouver-library-square"><a href="https://www.safdiearchitects.com/projects/vancouver-library-square">Vancouver Library Square</a></h4>
+    <p>由同为Canada Place设计的Barry Downs设计的温哥华图书馆广场, 外形类似罗马斗兽场.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/library.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="东北大学vancouver校区"><a href="https://merrickarch.com/work/400-west-georgia/">东北大学vancouver校区</a></h4>
+    <p>OSO+Merrick建筑设计, 24层楼高, 定位为LEED铂金办公建筑. 类似叠加的鞋盒, 每组4层, 共6组. 该建筑是美国东北大学在温哥华的分部, 主要包含CS等master项目.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/oso.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="vancouver-house"><a href="https://www.architecturalrecord.com/articles/15095-vancouver-house-by-bjarke-ingels-group">Vancouver House</a></h4>
+    <p>BIG设计, 2020年建成, 53层楼高, 在直棱柱基础上进行曲面切割, 每个面都不相同. 形成了上升渐变的外表面效果.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/BIG.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="1568-alberni-street"><a href="https://kkaa.co.jp/en/project/1550-alberni-street-tower/">1568 Alberni Street</a></h4>
+    <p>隈研吾和Merrick建筑设计, 43层楼高, 对直棱柱的两个角点位置用勺子进行切割而成.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/1568.png" width="500" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/cut.png" width="500" />
+</p>
+<center>其他切割立面的建筑.</center>
+
+<ul>
+  <li>
+    <h4 id="vancouver-cardero"><a href="https://www.archdaily.cn/cn/985822/cardero-gong-yu-henriquez-partners-architects?ad_source=search&amp;ad_medium=projects_tab">Vancouver Cardero</a></h4>
+    <p>Henriquez Partners设计的公寓楼, 外表面由V字折纸形遮阳板构成. 获LEED金奖.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/cardero.png" width="200" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/b1.png" width="500" />
+</p>
+<center>带水平白色条带装饰的建筑.</center>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/davie.png" width="500" />
+</p>
+<center>对角线白色条带装饰的建筑.</center>
+
+<ul>
+  <li>
+    <h4 id="trump-tower-川普大楼"><a href="https://www.paradoxhotels.com/vancouver">Trump Tower 川普大楼</a></h4>
+    <p>运行了超过5年的川普国际酒店, 20年8月永久关闭, 今年4月份开始改为Paradox Hotel. 结构由两侧扭曲的重复平行结构.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/trump.png" width="500" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/stagger.png" width="500" />
+</p>
+<center>其他错位立面建筑.</center>
+
+<ul>
+  <li>
+    <h4 id="science-world-科学馆"><a href="https://en.wikipedia.org/wiki/Science_World_(Vancouver)">Science World 科学馆</a></h4>
+    <p>由Bruno Freschi为1986温哥华世博会设计的展馆. 测地网壳结构.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/GD_vancouver.png" width="500" />
+</p>
+<p>该结构灵感来自Fuller在1967年为蒙特利尔设计的Biosphere. 测地网壳不是Fuller最早研究的, 但是他最初使用美国专利的. 其钟爱球面测地网壳结构主要是因为它具有坚固,对称,稳定,以最小的表面积包围了最大的体积等显著优势.</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/GD_montreal.png" width="500" />
+</p>
+<center>Montreal Biosphere.</center>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/dome.png" width="500" />
+</p>
+<center>艺术馆旁有玻璃覆层的三角网壳结构.</center>
+
+<ul>
+  <li>
+    <h4 id="glowbal门口结构"><a href="https://glowbalgroup.com/glowbal/">Glowbal门口结构</a></h4>
+    <p>有一族平面木板作为底层支撑结构, 可展曲面顶部是平面四边网玻璃覆层, 结构是简单的平移曲面.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/wood.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="hotel-europe欧洲酒店"><a href="https://en.wikipedia.org/wiki/Hotel_Europe_(Vancouver)">Hotel Europe欧洲酒店</a></h4>
+    <p>Gastown区域的6层高的三角大楼, 1909年建成开放. 由Parr and Fee设计. 设计受纽约熨斗大厦(Flatiron Building 1902)的影响.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/europe.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="museum-of-anthropology人类学博物馆moa"><a href="https://moa.ubc.ca/">Museum of Anthropology人类学博物馆MOA</a></h4>
+    <p>位于UBC校园内的博物馆, 介绍早期本地人(First Nations)及其他文化的雕刻, 服饰等艺术和文化作品. 其中木质雕刻品独特而惊艳. 建筑外立面由加拿大建筑师Arthur Erickson(1924-2009)翻新设计.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/ubc2.png" width="500" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/ubc.png" width="500" />
+</p>
+<center>UBC校园CS所在楼.</center>
+
+<ul>
+  <li>
+    <h4 id="heatherwick设计住宅楼"><a href="https://www.archdaily.com/975139/heatherwick-studio-updates-vancouvers-1700-alberni-towers-design">Heatherwick设计住宅楼</a></h4>
+    <p>Heatherwick为温哥华设计的两栋双子塔楼: 1700 Alberni Towers 和 Curvaceous Towers. 结合了曲线, 渐变等参数化元素以及垂直绿色城市的概念.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-9/heatherwick.png" width="500" />
+</p>
+
+<hr />
+
+<center> <h3>往期</h3> </center>
+
+<p>2021年 第 9 期：<a href="https://www.huiwang.me/blog/2021/issue9/">景观雕塑</a></p>]]></content><author><name></name></author><category term="ArchGeo" /><category term="images" /><summary type="html"><![CDATA[温哥华建筑]]></summary></entry><entry><title type="html">ArchGeo建筑几何(第 20 期)</title><link href="https://www.huiwang.me/blog/2022/issue20/" rel="alternate" type="text/html" title="ArchGeo建筑几何(第 20 期)" /><published>2022-08-31T00:01:00+00:00</published><updated>2022-08-31T00:01:00+00:00</updated><id>https://www.huiwang.me/blog/2022/issue20</id><content type="html" xml:base="https://www.huiwang.me/blog/2022/issue20/"><![CDATA[<p>Part of images from the internet. If there is any copyright infringement, please notify me at once and I’ll delete it.</p>
+
+<center> <h3>Architecture建筑</h3> </center>
+
+<ul>
+  <li>
+    <h4 id="vcec温哥华会展中心"><a href="https://en.wikipedia.org/wiki/Vancouver_Convention_Centre">VCEC温哥华会展中心</a></h4>
+    <p>这次SIGGRAPH 会议举办地在隶属于温哥华英属哥伦比亚区政府的会展中心举办. 会展馆分东西楼. 其中东楼是2010年温哥华冬奥会的国际广播中心. 西楼获得2010年LEED 铂金建筑奖.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/sig_west.png" width="500" />
+</p>
+<center>会展西楼</center>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/sig_west1.png" width="500" />
+</p>
+<center>会展西楼雕塑和2010冬奥会火炬点燃点</center>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/sig_east.png" width="500" />
+</p>
+<center>会展东楼</center>
+<p>挨着Canada Place. 建筑是由建筑师Eberhard Zeidler和Barry Downs专门为1986年温哥华世博会设计的场馆.</p>
+
+<ul>
+  <li>
+    <h4 id="mamous-mani"><a href="https://mamou-mani.com/projects/">Mamous-Mani</a></h4>
+    <p>伦敦建筑设计公司, 制作了很多参数化设计的亭子. 2018年制作了Burning Man的 Galaxia Temple, 今年在Burning Man上也有一个木亭, 由大小渐变的平面六边形做成.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/MM.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="burning-man"><a href="https://mp.weixin.qq.com/s/AUHptAHJvfEVpa08ADWPeA">Burning Man</a></h4>
+    <p>1986年开始, 每年在美国沙漠举办的<a href="https://burningman.org/">燃烧狂欢节</a>. 今年8.28-9.5日举办, 为期8天. 因为结构最后会被烧毁, 所以绝大多数结构都是木质的.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/burningman.png" width="500" />
+</p>
+
+<hr />
+<center> <h3>Math数学</h3> </center>
+
+<ul>
+  <li>
+    <h4 id="siggraph-2022会议"><a href="https://s2022.siggraph.org">SIGGRAPH 2022会议</a></h4>
+    <p>计算机图形学顶会, 每年在北美举办, 今年于8月8-11日在温哥华举办, 首届线上线下同时进行会议. 不过部分会议文章仅线下展示, 某些报告和展览不能拍照等. 下届举办地是洛杉矶（LA），主席是英属哥伦比亚（UBC）CS教授Alla Sheffer.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/sig_west2.png" width="500" />
+</p>
+<center>会展西楼会场</center>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/wi.png" width="500" />
+</p>
+<center>WiGraphic</center>
+<p>由来自西班牙萨拉戈萨大学的Belen Masia, 瑞士ETH的Olga Sorkine-Hornung以及Meta的Yuting Ye三人分享女性在图形学的学术经验. 有幸和女神Olag单独合影.</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/sig_1.png" width="500" />
+</p>
+<center>Electric theater 电子剧场</center>
+<p>介绍25个动画短片. 其中获奖作品《The end of war》令人印象深刻. 创作者是来自清华美院的动画设计师<a href="https://www.enad.tsinghua.edu.cn/info/1027/1368.htm" target="\_blank"> Chen Lei </a>. 使用数百帧CG雕塑模型描绘反战主题的动画. 灵感来源德国画家及雕塑家<a href="https://en.wikipedia.org/wiki/K%C3%A4the_Kollwitz" target="\_blank"> Käthe Kollwitz </a>的作品及她的生活经历.</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/vr.png" width="500" />
+</p>
+<center>VR 体验厅. 半个多小时的沉浸式体验.</center>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/exhibition.png" width="500" />
+</p>
+<center>Exhibition 展览大厅, 很多高科技公司展示最新前沿成果.</center>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/capture.png" width="500" />
+</p>
+<center>有实时动作捕捉的蹦床运动及双人舞表演.</center>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/aibo.png" width="500" />
+</p>
+<center>Sony索尼的机器狗宠物; 在市中心的艺术博物馆也有简单介绍.</center>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/kaist.png" width="500" />
+</p>
+<center>KAIST的机械设计.</center>
+
+<hr />
+<center> <h3>Software工具</h3> </center>
+
+<ul>
+  <li>
+    <h4 id="gh运算器速查字典"><a href="https://www.kancloud.cn/li457357416/ghdictionary/2991615">GH运算器速查字典</a></h4>
+    <p>中文创作的Grasshopper运算器精讲介绍, 可以搜索查找. 初期免费，现需要支付解锁.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/GH.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="gh-parakeet"><a href="https://www.food4rhino.com/en/app/parakeet#lg=1&amp;slide=5">GH Parakeet</a></h4>
+    <p>GH 插件, 介绍很多种规则、半规则、不规则2D图案.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/parakeet.png" width="500" />
+</p>
+
+<hr />
+
+<center> <h3>Miscellaneous其他</h3> </center>
+
+<ul>
+  <li>
+    <h4 id="the-roundest-country-最圆的国家">The roundest country 最圆的国家</h4>
+    <p>提取地图边界多边形, 进行圆线插值, 得到接近圆线的10个国家, 其中最接近圆线的是西非国家塞拉利昂.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/round.jpg" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="铁球速度对比">铁球速度对比</h4>
+    <p>两个相同的铁球从相同的高度沿着不同的运动轨迹进行滚落滑行, 反而更起伏有更长路径的运动更快. 这样暗示着某种人生启示.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-8/ball.png" width="500" />
+</p>
+
+<hr />
+
+<center> <h3>往期</h3> </center>
+
+<p>2021年 第 8 期：<a href="https://www.huiwang.me/blog/2021/issue8/">SIGGRAPH会议</a></p>]]></content><author><name></name></author><category term="ArchGeo" /><category term="images" /><summary type="html"><![CDATA[SIGGRAPH 会议]]></summary></entry><entry><title type="html">ArchGeo建筑几何(第 19 期)</title><link href="https://www.huiwang.me/blog/2022/issue19/" rel="alternate" type="text/html" title="ArchGeo建筑几何(第 19 期)" /><published>2022-07-15T00:01:00+00:00</published><updated>2022-07-15T00:01:00+00:00</updated><id>https://www.huiwang.me/blog/2022/issue19</id><content type="html" xml:base="https://www.huiwang.me/blog/2022/issue19/"><![CDATA[<p>这里仅仅展示本人参观西班牙四个城市(毕尔巴鄂, 马德里, 巴伦西亚, 巴塞罗那)的建筑.</p>
+
+<center> <h3>Bilbao 毕尔巴鄂</h3> </center>
+
+<ul>
+  <li>
+    <h4 id="guggenheim-museum-古根海姆博物馆"><a href="https://www.guggenheim-bilbao.eus/en">Guggenheim Museum 古根海姆博物馆</a></h4>
+
+    <p>毕尔巴鄂的地标性建筑. 在原有货运港口和船厂的地址上建立的当代艺术博物馆. 1997年建成. 建筑由Frank Gehry设计. 使用超过3万多个近乎等大小的钛片构成的自由可展曲面. 外形是Frank钟爱的鱼的形状, 钛片对应鱼鳞. 钛材料主要优势是耐腐蚀, 轻巧, 反光效果好, 非常适合经常阴天下雨的毕尔巴鄂. 缺点是贵. Frank一开始并没有采用1977年问世的CATIA航空设计软件, 后来在遇到困境及看到软件展示的立体结果很满意后, 改变了想法.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/bilbao_gg.png" width="500" />
+</p>
+<p>无论远处还是近处看到博物馆, 都很确认”工业城市的符号”留给毕尔巴鄂的印记. 但是自由流畅的外形也能感受到想要挣脱这种宿命的决心.</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/bilbao_gg1.png" width="500" />
+</p>
+<p>桥边的石灰石塔也属于建筑的一部分, 它有整个建筑的最高点. 最初本打算承担一部分游客的乐趣, 建成后只是一个雕塑作品而已. 能从其裸露的构成结构看到并联想到整个空间浪费的情况. 建筑的难点在中厅, 使用了钢架, 钛片, 玻璃, 石灰石, 水泥强等众多元素. 为了弱化钢架的冰冷感, 还加上一层仅为装饰用处的玻璃面板, 其构成的不光滑曲面反而增加突兀的不适感.</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/bilbao_gg2.png" width="500" />
+</p>
+<p>目前博物馆展示以汽车, 艺术, 建筑为主题的展览持续到9月中旬. 印象最深刻的是汽车馆, 20世纪中设计出来的汽车, 现在也仍然具有时髦感和科幻感.</p>
+
+<p>由西班牙艺术图书出版社dosde出版的<Guggenheim Museum="" Bilbao="">很详细介绍了博物馆的历史, 建筑细节, 及Frank的一些作品. 也简单介绍了毕尔巴鄂的历史, 城市建筑等.</Guggenheim></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/frank.png" width="500" />
+</p>
+
+<p>纪录片<Sketches of="" Frank="" Gehry=""> 采访了Frank本人及其同行朋友对其的评价. [B站资源](https://www.bilibili.com/s/video/BV1k7411u7kL).</Sketches></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/frank1.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="zubizuri桥"><a href="https://en.wikipedia.org/wiki/Zubizuri">Zubizuri桥</a></h4>
+    <p>在博物馆不远处的一座由圣地亚哥-卡拉特拉瓦设计的悬索人行桥. 白色+曲线弧度+直线包络, 其建筑风格特色明显. 已经在桥面铺设了地毯, 解决玻璃桥面在下雨后湿滑的诟病.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/bilbao_bridge.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="metro地铁站口"><a href="https://www.fosterandpartners.com/projects/bilbao-metro/">Metro地铁站口</a></h4>
+    <p>由英国建筑师Norman Foster设计. 外表是一族弯曲钢架结构和曲面玻璃构成. 大面积的玻璃面板带来很强的透光性和整洁感.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/bilbao_metro.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="bbk总部"><a href="https://www.zaha-hadid.com/architecture/bbk-bank-headquarters/">BBK总部</a></h4>
+    <p>扎哈建筑公司2003年提出在毕尔巴鄂南部一个河湾小岛上的<a href="https://www.zaha-hadid.com/masterplans/zorrozaurre-masterplan/">城市更新规划</a>. 其中一个BBK塔从2010年计划开建, 目前仍处于没有任何雏形的状态.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/bilbao_zaha.png" width="500" />
+</p>
+
+<hr />
+
+<center> <h3>Madrid 马德里</h3> </center>
+
+<ul>
+  <li>
+    <h4 id="metro地铁站口-1">Metro地铁站口</h4>
+    <p>位于城市广场的地铁口, 外表由三角化的玻璃表面构成.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/madrid_metro.png" width="500" />
+</p>
+
+<p>在马德里市内, 找到一处现代化的建筑并不容易. 在厚重的墙体外增加钢和玻璃结构是一种新的变化. 在火车站和丽池公园内的水晶宫,可以看到钢和玻璃大范围的应用.</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/madrid_dome.png" width="500" />
+</p>
+
+<p>位于西班牙广场RIU大楼顶部, 可以看到整个马德里城市规划. 远处的查马丁地区有不少现代化的高楼建筑.</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/madrid_1.png" width="500" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/madrid_2.png" width="500" />
+</p>
+
+<hr />
+
+<center> <h3>Valencia 巴伦西亚</h3> </center>
+
+<p>位于巴伦西亚图里亚河岸的<a href="https://www.cac.es/va/web/ZH.html">艺术科学城</a>是复合了半球剧院, 植物园, 科学博物馆, 海洋水族馆,索非亚王后艺术歌剧院,多功能馆这六个场馆的建筑区域. 圣地亚哥‧卡拉特拉瓦设计了半球剧院、科学博物馆、索非亚王后艺术歌剧院、多功能馆和植物园, 而菲利克斯‧坎德拉则设计了海洋水族馆主要建筑物独特的屋顶.</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/valencia.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="半球剧院"><a href="https://www.cac.es/es/hemisferic/descubre-el-hemisferic/descubre-el-hemisferic.html">半球剧院</a></h4>
+    <p>1998年建成, 为欧洲最大的球幕. 对称结构. 模仿眼球形状. 内部有个半球, 外表面模仿眼皮, 两侧的四边形平面玻璃可以实现张合的变化.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/valencia_2.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="科学博物馆"><a href="https://www.cac.es/es/museu-de-les-ciencies/museu-de-les-ciencies/descubre-el-museu.html">科学博物馆</a></h4>
+    <p>2000年建成. 对称结构, 类似鱼骨形状. 内部展示科普知识. 也有艺术科学城的设计模型及建筑群介绍.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/valencia_1.png" width="500" />
+</p>
+<p>内部结构通透, 树状的支撑结构, 大面积褶皱的玻璃幕墙增加空间层次感.</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/valencia_11.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="索非亚王后艺术歌剧院"><a href="https://www.lesarts.com/">索非亚王后艺术歌剧院</a></h4>
+    <p>2005年建成. 对称结构. 外形酷似古希腊战士头盔.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/valencia_4.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="多功能馆"><a href="https://caixaforum.org/es/valencia">多功能馆</a></h4>
+    <p>也称阿格拉会展中心. 2009年建成. 对称结构, 外形似鱼嘴, 也像milka巧克力Montelino包装盒.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/valencia_5.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="植物园"><a href="https://www.cac.es/es/umbracle/Descubre-y-conoce-el-Umbracle/descubre-umbracle.html">植物园</a></h4>
+    <p>2001年建成. 对称结构. 外形和科学馆的玻璃幕墙类似, 弯曲褶皱结构.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/valencia_8.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="海洋水族馆"><a href="https://www.oceanografic.org/tickets/">海洋水族馆</a></h4>
+    <p>西班牙建筑师<a href="https://zhuanlan.zhihu.com/p/31405589">菲利克斯‧坎德拉</a>设计, 使用了他钟爱的双曲抛物面设计了对称的, 具有重复性的屋顶.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/valencia_3.png" width="500" />
+</p>
+<p>海洋馆旁边的球形鸟笼, 四边网框架和三角网框架的混合结构.</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/valencia_7.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="金色堤坝大桥"><a href="https://en.wikipedia.org/wiki/Assut_de_l%27Or_Bridge">金色堤坝大桥</a></h4>
+    <p>卡拉特拉瓦也一同设计这个大桥. 2008年完成. 不同于毕尔巴鄂的双层斜拉桥, 这个是单层的. 和他在塞维利亚与耶路撒冷设计的桥很相似.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/valencia_6.png" width="500" />
+</p>
+
+<hr />
+
+<center> <h3>Barcelona 巴塞罗那</h3> </center>
+
+<p>巴塞罗那的八角形网格状城市肌理起源于Ildefons Cerdà(1815-1876). 他是加泰罗尼亚(Catalunya)的土木工程师、城市规划师以及社会活动家. 1999 年, 巴塞罗那由美国《国家地理杂志》评选为 50 个人生必游景点之一. 继哥本哈根和里约热内卢之后, 巴塞罗那打败北京被联合国教科文组织任命为国际建筑师联盟（UIA, International Union of Architect）2026 年的世界建筑之都. 2026年也是加泰罗尼亚地区及整个西班牙的骄傲—建筑师高迪逝世100周年, 一直没有建成的圣家堂也打算2026年完工.</p>
+
+<p>无论是面对教堂, 还是站在教堂内部或顶部, 无不感叹高迪的天才之处, 细节无处不在. 他应用了很多悬链线,也在不同的建筑体处应用了几何物体求交的运算.</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/gaudi_1.png" width="500" />
+</p>
+<p>圣家堂从1882年建设至今, 其修建费用主要靠门票及个人捐赠.  1936年, 巴塞罗那受到国家内战的波及, 高迪生前的模型及图纸都被摧毁. 尽管教堂没有受到破坏, 但圣家堂的建设工作, 受到各种因素的影响和制约. 即使一直在建设, 但到现在也仍然没有完成. 圣家堂总共19座塔, 最中间的玛利亚塔高170米, 低于巴塞罗那周边最高的山峰, 这是高迪对自然的致敬.</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/gaudi_2.png" width="500" />
+</p>
+<p>高迪在巴塞罗那创作了很多建筑作品, 其中有7处被评为世界文化遗产, 除了圣家堂, 还有下面三处: 桂尔公园, 米拉之家, 巴特罗之家.</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/gaudi_3.png" width="500" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/gaudi_4.png" width="500" />
+</p>
+
+<p>dosde出版的<Antoni Gaudi="">很详细介绍了高迪的生平,及其所有建筑细节.</Antoni></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/gaudi.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="fish-鱼"><a href="https://barcelonalowdown.com/frank-gehrys-golden-fish-sculpture/">Fish 鱼</a></h4>
+    <p>Frank Gehry在巴塞罗那海边的雕塑作品. 形状似鱼. 对称结构, 镂空的金属编织网面.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/frank_fish.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="德国馆"><a href="https://www.archiposition.com/items/20181029102118">德国馆</a></h4>
+    <p>包豪斯学派建筑师密斯·凡德罗在1929年为巴塞罗那国际展览会建成的德国馆. 是现代主义建筑的代表作, 建筑书里的经典案例. “少即是多”的概念, “巴塞罗那椅”等也成为经典.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/mith.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="圣卡特纳市场"><a href="http://www.mirallestagliabue.com/project/santa-caterina-market-renovation/?utm_medium=website&amp;utm_source=archdaily.com">圣卡特纳市场</a></h4>
+    <p>西班牙建筑公司EMBT设计, 于2005年改造成的市场. 顶部采用多彩的平面六边形瓷砖拼贴而成的可展曲面片. 在巴塞罗那设计博物馆中有对这些彩色瓷砖的简单介绍.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/market.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="esferic球形亭"><a href="https://www.esferic.es/en/history">Esferic球形亭</a></h4>
+    <p>1929年为巴塞罗那国际展览会建成的科学展馆. 2008年后改建成一个餐厅, 外周架设了玻璃幕墙.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/barcelona_1.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="torre-glòries-阿格巴塔"><a href="http://www.iarch.cn/thread-31806-1-1.html">Torre Glòries 阿格巴塔</a></h4>
+    <p>让•努维尔向高迪致敬设计的高塔, 巴塞罗那第三高塔楼 (144米). 旋转面结构, 四边网平面玻璃幕墙, 沿着旋转面的平行圆及轮廓线形成的主法曲率线规则排列.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/barcelona_2.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="porta-fira酒店"><a href="https://www.archdaily.com/66387/porta-fira-towers-toyo-ito-aa-fermin-vazquez-b720-arquitectos">Porta Fira酒店</a></h4>
+    <p>2010年建成红色大楼. 形状不规则, 沿着水平方向有一族连续的曲线.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/barcelona_3.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="camp-nou-诺坎普体育场"><a href="https://www.fcbarcelona.com/en/club/facilities/camp-nou">Camp Nou 诺坎普体育场</a></h4>
+    <p>外表面全灰色的造型. 整个欧洲最大球场, 可收容超过10万人. 今年7月获得Spotify冠名.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/barcelona_4.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="las-arenas-商业中心"><a href="https://rshp.com/projects/">Las Arenas 商业中心</a></h4>
+    <p>英国建筑公司RSHP再设计, 于2011年改造成商业中心. 旋转柱面, 顶部有观光看台.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/barcelona_5.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="跳蚤市场"><a href="https://www.archdaily.com/453829/mercat-encants-b720-fermin-vazquez-arquitectos">跳蚤市场</a></h4>
+    <p>巴塞罗那建筑公司b720设计, 2013年建成的露天跳蚤市场. 顶部有平面四边形面板构成.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/barcelona_6.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="设计博物馆"><a href="https://www.archdaily.com/381612/dhub-barcelona-design-center-mbm-arquitectes">设计博物馆</a></h4>
+    <p>巴塞罗那建筑公司MBM设计, 2013年建成的艺术设计博物馆. 外表由错位的四边形面板拼接.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/barcelona_7.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="加泰罗尼亚音乐厅"><a href="https://visits.palaumusica.cat/en">加泰罗尼亚音乐厅</a></h4>
+    <p>1908年建成的多功能音乐厅. 外表局部有同内部风格一致的精美的马赛格拼贴装饰.用餐区有相交拱顶.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/barcelona_8.png" width="500" />
+</p>
+
+<hr />
+
+<center> <h3>Miscellaneous其他</h3> </center>
+
+<ul>
+  <li>
+    <h4 id="guggenheim-博物馆"><a href="https://en.wikipedia.org/wiki/List_of_Guggenheim_Museums">Guggenheim 博物馆</a></h4>
+    <p>由Guggenheim基金会成立的世界博物馆. 美国有4所, 欧洲3所,中东1所在阿布扎比, 也是由Frank Gehry设计, 2006年宣布项目, 一直到今天没有完成, 预计2025年完成.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/AbuDhabi.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="getty"><a href="https://www.getty.edu/about/">Getty</a></h4>
+    <p>LA的可视化艺术和文化遗产组织,有博物馆,研究机构,基金等. 类似Guggenheim.</p>
+  </li>
+  <li>
+    <h4 id="persepolis"><a href="https://persepolis.getty.edu/">Persepolis</a></h4>
+    <p>波斯波利斯老城3D复原.高清体验建筑及壁画装饰. 由Getty制作.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-7/persepolis.png" width="500" />
+</p>
+
+<hr />
+
+<center> <h3>往期</h3> </center>
+
+<p>2021年 第 7 期：<a href="https://www.huiwang.me/blog/2021/issue7/">东京奥运会</a></p>]]></content><author><name></name></author><category term="ArchGeo" /><category term="images" /><summary type="html"><![CDATA[西班牙建筑]]></summary></entry><entry><title type="html">ArchGeo建筑几何(第 18 期)</title><link href="https://www.huiwang.me/blog/2022/issue18/" rel="alternate" type="text/html" title="ArchGeo建筑几何(第 18 期)" /><published>2022-06-28T00:01:00+00:00</published><updated>2022-06-28T00:01:00+00:00</updated><id>https://www.huiwang.me/blog/2022/issue18</id><content type="html" xml:base="https://www.huiwang.me/blog/2022/issue18/"><![CDATA[<p>Part images from the internet. If there is any copyright infringement, please notify me at once and I’ll delete it.</p>
+
+<center> <h3>Architecture建筑</h3> </center>
+
+<ul>
+  <li>
+    <h4 id="cite-du-vin-波尔多葡萄酒博物馆"><a href="https://www.archdaily.cn/cn/788455/bo-er-duo-pu-tao-jiu-bo-wu-guan-xtu-architects">Cite du Vin 波尔多葡萄酒博物馆</a></h4>
+
+    <p>由XTU建筑公司设计, 2016年建成, 位于法国西南部的葡萄酒之都的波尔多. 曲面整体形状流畅光滑, 呈现从上而下的条带结构, 但是面板形状和组成方式也呈现一种斜向纹理. 外表面面板是由金属, 玻璃等材料拼接而成的四边网结构, 底部主要面板是弯曲的, 塔楼处主要面板是平面的. 面板的一族(竖直方向的)支撑结构是连续的.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-6/vin2.jpg" width="500" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-6/vin12.png" width="500" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-6/vin34.png" width="500" />
+</p>
+
+<hr />
+<center> <h3>Math数学</h3> </center>
+
+<ul>
+  <li>
+    <h4 id="curves-and-surfaces-2022-会议"><a href="https://cs2022.sciencesconf.org/">Curves and Surfaces 2022 会议</a></h4>
+    <p>第十届曲线曲面会议. 目前每四年举办一次. 今年在法国南部阿卡雄举办, 仅线下会议. 为期5天 (20-24,June).</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-6/cs2022.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="geometry-factory"><a href="https://geometryfactory.com/">Geometry Factory</a></h4>
+    <p>CGAL项目, 实现了很多经典算法: ARAP形状形变, 点云分类, 简化网格, 平均曲率流框架, 找寻三角网上测地线, 平行线划分, 补洞, 三角网切割, 城市建筑网格化等等. 也赞助今年SGP会议.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-6/gf.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="sgp2022"><a href="https://sgp2022.github.io/program/">SGP2022</a></h4>
+    <p>仍然线上举办, 为期三天(4-6,July).</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-6/sgp.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="curves-and-surfaces"><a href="https://ciechanow.ski/curves-and-surfaces/">Curves and Surfaces</a></h4>
+    <p>创作者Bartosz Ciechanowski非常详细地介绍了平面空间曲线曲面的绘制办法. 也很适合教学展示. 文中2D,3D可交互的图形由Canvas制作. 他开发ipad软件<a href="https://www.tablesgenerator.com/#">Revolved</a>, 给定平面曲线, 得到旋转面. 曲线的绘制利用Bezier控制定点的办法.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-6/cs.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="canvas-api"><a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API">Canvas API</a></h4>
+    <p>网页制作 API, 可以绘制网页版的2D, 3D 图形.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-6/canvas.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="arcgis"><a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=77da2e9eeea8427aab2ac83b79097b1a">Arcgis</a></h4>
+    <p>荷兰机载LiDAR点云数据下载链接.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-6/holand.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="numpy-100"><a href="https://github.com/rougier/numpy-100">numpy 100</a></h4>
+    <p>100道numpy编程练习题.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-6/numpy.png" width="500" />
+</p>
+
+<hr />
+
+<center> <h3>Software工具</h3> </center>
+
+<ul>
+  <li>
+    <h4 id="table-generator"><a href="https://www.tablesgenerator.com/#">Table Generator</a></h4>
+    <p>在线生成Latex表格代码, 直接粘贴可用.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-6/table.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="fontawesome-icon"><a href="http://mirrors.ibiblio.org/CTAN/fonts/fontawesome/doc/fontawesome.pdf">Fontawesome Icon</a></h4>
+    <p>Latex图标代码. pdf直接下载.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-6/icon.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="presentation-translator"><a href="https://www.microsoft.com/en-us/translator/APPS/PRESENTATION-TRANSLATOR/#:~:text=About%20Presentation%20Translator,-Presentation%20Translator%20subtitles&amp;text=As%20you%20speak%2C%20Presentation%20Translator,deaf%20or%20hard%20of%20hearing.">Presentation Translator</a></h4>
+    <p>PPT插件, 实现实时翻译+显示字幕.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-6/ppt.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="blender-plot"><a href="https://github.com/Linusnie/blender-plots">blender-plot</a></h4>
+    <p>在Blender中进行科学绘图Github项目.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-6/blender.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="react-paint"><a href="https://pengfeiw.github.io/minicode/react-paint">React Paint</a></h4>
+    <p>线上画板网页.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-6/react.png" width="500" />
+</p>
+
+<hr />
+
+<center> <h3>Miscellaneous其他</h3> </center>
+
+<ul>
+  <li>
+    <h4 id="水果的水彩画库"><a href="https://naldc.nal.usda.gov/usda_pomological_watercolor?q=&amp;search_field=all_fields">水果的水彩画库</a></h4>
+    <p>7583幅图水果图免费下载网页.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-6/fruits.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="quotefancy"><a href="https://quotefancy.com/quote/782361/C-G-Jung-Normality-is-a-fine-ideal-for-those-who-have-no-imagination">quotefancy</a></h4>
+    <p>带有名人名言的壁纸下载网页.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-6/quote.png" width="500" />
+</p>
+
+<hr />
+
+<center> <h3>往期</h3> </center>
+
+<p>2021年 第 6 期：<a href="https://www.huiwang.me/blog/2021/issue6/">参数曲面</a></p>]]></content><author><name></name></author><category term="ArchGeo" /><category term="images" /><summary type="html"><![CDATA[波尔多葡萄酒博物馆]]></summary></entry><entry><title type="html">ArchGeo建筑几何(第 17 期)</title><link href="https://www.huiwang.me/blog/2022/issue17/" rel="alternate" type="text/html" title="ArchGeo建筑几何(第 17 期)" /><published>2022-05-28T00:01:00+00:00</published><updated>2022-05-28T00:01:00+00:00</updated><id>https://www.huiwang.me/blog/2022/issue17</id><content type="html" xml:base="https://www.huiwang.me/blog/2022/issue17/"><![CDATA[<p>Part images from the internet. If there is any copyright infringement, please notify me at once and I’ll delete it.</p>
+
+<center> <h3>Architecture建筑</h3> </center>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/is.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="sinan锡南"><a href="https://www.archdaily.cn/cn/tag/yi-si-tan-bu-er-xin-ji-chang">Sinan锡南</a></h4>
+
+    <p>锡南是土耳其伟大的建筑师,苏丹时期的首席建筑师. 他设计,建立,监管,修复了伊斯坦布尔绝大多数的蓝顶清真寺,多达477座. 也培养了很多学生继续这项工作. 在伊斯坦布尔, 至少316座可以明确与他的工作有关. 曾经去过欧洲, 也来过麦加朝圣. 参加过军队,早期信奉基督教, 后来转为伊斯兰教. 与同时代的米开朗基罗对比, 却并没有得到同等重要的名声和影响力.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/sinan.jpg" width="500" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/sinan1.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="伊斯坦布尔大机场iga航站楼顶"><a href="https://en.wikipedia.org/wiki/Istanbul_Airport">伊斯坦布尔大机场IGA航站楼顶</a></h4>
+
+    <p>由Gimshaw, Nordic Office of Architecture等设计, 建成于2018年, IGA号称欧洲最繁忙的机场, 机场航站楼屋顶成为世界上最大的单一屋顶. 屋顶统一使用具有不断重复的拱顶组合而成. 每一个拱顶具有严格的对称性.几何是参数化设计而成的曲面片,由很多细长面条构成. 整体采光做的非常优秀,高大宽敞的空间,两侧由高立面的玻璃幕墙,每一个拱顶顶部中心有一个圆形天窗,室内只需要少量灯光就能呈现宽敞明亮的效果.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/IGA1.png" width="500" />
+</p>
+
+<p>室内设计也令人印象深刻, 有临时文化展亭, 博物馆, 游乐场, 连免税区都有独特的景观设计, 很有世博会的感觉.</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/IGA2.png" width="500" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/IGA4.png" width="500" />
+</p>
+
+<p>诺贝尔文学奖得主帕慕克经典小说《我的名字叫红》中提到土耳其保留的细密画(mininature), 在机场有相关文化活动展示.</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/IGA3.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="iga交通管制塔"><a href="https://www.archdaily.cn/cn/tag/yi-si-tan-bu-er-xin-ji-chang">IGA交通管制塔</a></h4>
+
+    <p>由AECOM和Pininfarina设计完成. 同期竞争设计的还有扎哈-哈迪德和设计了新加坡机场的摩西-萨夫迪等其他5个竞争公司. 外塔由四边网构成.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/is_tower1.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="göbekli-tepe石阵棚顶"><a href="https://www.sanliurfa.bel.tr/icerik/226/624/gobeklitepe">Göbekli Tepe石阵棚顶</a></h4>
+
+    <p>位于土耳其南部的考古遗址上建立的负弯曲的帐篷顶, 外侧有多个三角片, 顶部由多个四边片缝合而成. 和沙特常见的遮光亭使用相同材质, 但却有不同的设计风格.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/gobekli.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="roof">Roof</h4>
+
+    <p>位于伊斯坦布尔老城区的建筑能明显看到欧洲的面貌, 但是也有些不同之处, 比如下面类似帐篷一样的飞檐.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/roof.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="self-supproted-structure自支撑石拱">Self-supproted structure自支撑石拱</h4>
+
+    <p>位于Selime教堂遗迹处的古老自支撑石拱, 完全由石块构成的简单弧拱.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/arc.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="土耳其纸币"><a href="https://en.wikipedia.org/wiki/Turkish_lira">土耳其纸币₺</a></h4>
+
+    <p>纸币有₺5, ₺10, ₺20, ₺50, ₺100, ₺200这6种面额. 正面都是土耳其国父Mustafa的头像,而背面分别是土耳其的历史学家,数学家,建筑师,小说家,作曲家和诗人.</p>
+
+    <p>₺20纸币背面有Gazi大学校徽,建筑师<a href="https://en.wikipedia.org/wiki/Mimar_Kemaleddin">Mimar Kemaleddin</a>的头像及其标志性建筑.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/20.png" width="500" />
+</p>
+
+<p>₺10纸币背面是提出Arf理论的Cahit Arf拓扑学数学教授. 他1937年在著名的数学殿堂—哥廷根大学博士毕业. 曾在位于土耳其Ankara的中东理工大学(METU)数学院任职,直到退休. METU有建筑学院.数学学科归属于艺术与科学学院.</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-5/10.png" width="500" />
+</p>
+
+<hr />
+<center> <h3>Math数学</h3> </center>
+
+<ul>
+  <li>
+    <h4 id="gridshell网壳"><a href="https://echoes.paris/keyword/structuraldesign/structuralgeometry/gridshell/">Gridshell网壳</a></h4>
+
+    <p>介绍一些网壳结构例子.</p>
+  </li>
+</ul>
+
+<hr />
+
+<center> <h3>Software工具</h3> </center>
+
+<ul>
+  <li>
+    <h4 id="telepathy"><a href="https://www.food4rhino.com/en/app/telepathy/">Telepathy</a></h4>
+    <p>Grasshopper插件. 设置输出别名, 自动识别多个别名作为输入.</p>
+  </li>
+  <li>
+    <h4 id="snappinggecko"><a href="https://www.food4rhino.com/en/app/snappinggecko">Snappinggecko</a></h4>
+    <p>Grasshopper插件. 对空间实现类似PPT自动对齐行列的排列功能.</p>
+  </li>
+  <li>
+    <h4 id="metahopper"><a href="https://www.food4rhino.com/en/app/metahopper#downloads_list">Metahopper</a></h4>
+    <p>Grasshopper插件. 对多个空间一步内化, 一步隐藏多个连接线等.</p>
+  </li>
+  <li>
+    <h4 id="gephi"><a href="https://gephi.org/">Gephi</a></h4>
+    <p>数据可视化软件</p>
+  </li>
+  <li>
+    <h4 id="cura"><a href="https://en.wikipedia.org/wiki/Cura_(software)">Cura</a></h4>
+    <p>荷兰3D打印品牌Ultimaker设置软件.</p>
+  </li>
+  <li>
+    <h4 id="anycubic纵维立方"><a href="https://cn.anycubic.com/">Anycubic纵维立方</a></h4>
+    <p>3D打印品牌,2015年成立于深圳, 相比荷兰的Ultimaker,产品性价比高,可个人购买.</p>
+  </li>
+  <li>
+    <h4 id="latex2png"><a href="http://latex2png.com/">latex2png</a></h4>
+    <p>在线输入Latex, 生成背景透明的公式图片, 方便插入PPT. 可以设置生成字体颜色.</p>
+  </li>
+</ul>
+
+<hr />
+
+<center> <h3>往期</h3> </center>
+
+<p>2021年 第 5 期：<a href="https://www.huiwang.me/blog/2021/issue5/">迪拜世博会2020</a></p>]]></content><author><name></name></author><category term="ArchGeo" /><category term="images" /><summary type="html"><![CDATA[土耳其建筑]]></summary></entry><entry><title type="html">ArchGeo建筑几何(第 16 期)</title><link href="https://www.huiwang.me/blog/2022/issue16/" rel="alternate" type="text/html" title="ArchGeo建筑几何(第 16 期)" /><published>2022-04-27T21:01:00+00:00</published><updated>2022-04-27T21:01:00+00:00</updated><id>https://www.huiwang.me/blog/2022/issue16</id><content type="html" xml:base="https://www.huiwang.me/blog/2022/issue16/"><![CDATA[<center> <h3>Architecture建筑</h3> </center>
+
+<p>弯曲褶皱的建筑表面结构逐渐变多, 这种褶皱结构沿着一个方向上下起伏,形成山(Mountain)和谷(Valley)两种交替出现的变化, 另一方向
+具有光滑的条带面.</p>
+
+<ul>
+  <li>
+    <h4 id="卡塔尔2022世界杯al-janoub体育馆"><a href="https://www.archdaily.cn/cn/974818/qia-ta-er-2022nian-guo-ji-zu-lian-shi-jie-bei-ji-jiang-ju-ban-zu-qiu-chang-she-ji-xiang-mu-he-ji">卡塔尔2022世界杯Al Janoub体育馆</a></h4>
+
+    <p>第13期提到过扎哈-哈迪德建筑公司设计的世界杯体育场, 具有纯白的褶皱幕墙表面.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-1/katar.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="第聂伯罗地铁站"><a href="https://www.archdaily.cn/cn/976419/zha-ha-star-ha-di-de-shi-wu-suo-de-wu-ke-lan-di-nie-bo-luo-di-tie-zhan-shi-gong-zhong">第聂伯罗地铁站</a></h4>
+    <p>正在建设中的乌克兰第聂伯罗地铁站是扎哈建筑公司另一个褶皱建筑. 主体使用薄钢结构, 垂直立面使用大块平面玻璃, 整体感觉通透轻盈. 两个自由建筑表面分别具有3个和5个支撑分支.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-4/Dnipro.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="rain-bow-gate"><a href="https://tonkinliu.co.uk/rain-bow-gate">Rain bow gate</a></h4>
+
+    <p>英国建筑公司Tonkin Liu设计的褶皱亭子. 2012年建成, 位于英国Burnley. Arup做结构工程. 也是采用薄钢结构, 3个支撑分支. 自由的褶皱表面上有该团队爱添加的孔洞特色. 看起来不是很大也没有很复杂的结构, 花费了12.1万英镑.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-4/tonkin.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="susan-latham-弯曲折叠"><a href="http://susanlatham.net/metal/">Susan Latham 弯曲折叠</a></h4>
+    <p>Suan Latham个人主页介绍钢弯曲折叠的雕塑结构. Vessica Pisces结构是具有两个圆经过彼此圆心, 然后沿着中间相交部分折叠重合成一个封闭结构. 这里展示的是两个这样封闭结构的组合.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-4/vessica.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="beeah-沙漠总部"><a href="https://www.archdaily.cn/cn/979516/beeah-zong-bu-da-lou-zha-ha-ha-di-de-shi-wu-suo?ad_source=search&amp;ad_medium=projects_tab">BEEAH 沙漠总部</a></h4>
+    <p>扎哈建筑公司设计,位于阿联酋沙迦沙漠中的建筑. 上表面四边网进行了一族对角划分,形成3-web.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-4/beeah.png" width="500" />
+</p>
+
+<hr />
+<center> <h3>Math数学</h3> </center>
+
+<ul>
+  <li>
+    <h4 id="curve-pleated-structures弯曲折叠结构"><a href="https://dl.acm.org/doi/10.1145/3355089.3356540">Curve-pleated Structures弯曲折叠结构</a></h4>
+    <p>2019年SIGGRAPH Asia会议文章. 通过优化计算的方法能实现从平面纸张折叠成弯曲结构. 一方面可以对给定曲面进行弯曲折叠效果重构,另一方面可以设计出自由的弯曲折叠结构.</p>
+  </li>
+</ul>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-4/pleate.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="sgp科学图形项目"><a href="https://www.msri.org/publications/sgp/jim/new/index.html">SGP科学图形项目</a></h4>
+    <p>介绍经典几何图形, 如极小曲面, 等值面, 常平均曲率曲面等. 界面已经截止到2004年.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-4/SGP.png" width="500" />
+</p>
+
+<hr />
+
+<center> <h3>Software工具</h3> </center>
+
+<ul>
+  <li>
+    <h4 id="origamisilulator折纸模拟器"><a href="https://origamisimulator.org/">origamisilulator折纸模拟器</a></h4>
+    <p>MIT计算机教授Erik Demaine及团队设计的在线折纸模拟器. 提供了很多例子, 通过控制条实现从平面到最终弯曲的折叠过程.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-4/simulator.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="crane-gh折纸插件"><a href="https://grasshopperdocs.com/addons/crane.html">Crane-GH折纸插件</a></h4>
+    <p>由Suto Kai设计的Grasshopper折纸插件.</p>
+  </li>
+  <li>
+    <h4 id="oricut-gh剪纸折纸插件"><a href="https://www.food4rhino.com/en/app/oricut#downloads_list">Oricut-GH剪纸折纸插件</a></h4>
+    <p>Grasshopper剪纸折纸插件.</p>
+  </li>
+  <li>
+    <h4 id="deepl-翻译"><a href="https://www.deepl.com/translator">Deepl 翻译</a></h4>
+    <p>免费翻译软件. 支持导入pdf,导出翻译好的pdf文件, 文件大小不能超过5M.</p>
+  </li>
+</ul>
+
+<hr />
+
+<center> <h3>Miscellaneous其他</h3> </center>
+
+<ul>
+  <li>
+    <h4 id="ron-resch-主页"><a href="http://www.ronresch.org/ronresch/">Ron Resch 主页</a></h4>
+    <p>艺术家Ron Resch从70年代开始做了很多弯曲折叠工作. 他使用计算机实现一些弯曲折叠雕塑作品.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-4/Resch.png" width="500" />
+</p>
+
+<ul>
+  <li>
+    <h4 id="建筑交互面向智能未来会议"><a href="https://mp.weixin.qq.com/s/x7JvCFOw1l64p4zQ7mWwhA">建筑交互面向智能未来会议</a></h4>
+    <p>由清华大学未来实验室组织的一天线上国际会议, 于本周五线上举办. 有免费直播连接.</p>
+  </li>
+</ul>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WWmore/ArchGeo/main/asset/2022-4/futurelab.png" width="500" />
+</p>
+
+<hr />
+
+<center> <h3>往期</h3> </center>
+
+<p>2021年 第 4 期：<a href="https://www.huiwang.me/blog/2021/issue4/">AAG 会议</a></p>]]></content><author><name></name></author><category term="ArchGeo" /><category term="images" /><summary type="html"><![CDATA[弯曲褶皱建筑]]></summary></entry></feed>
