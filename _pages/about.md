@@ -21,9 +21,9 @@ social: true  # includes social icons at the bottom of the page
 
 I am an associate professor in the 
 <a href="https://math.xjtu.edu.cn/index.htm" target="\_blank"> School of Mathematics and Statistics </a> of <a href="https://www.xjtu.edu.cn/" target="\_blank"> Xi'an Jiaotong University</a> in China.
-Previously I was a <a href="https://cemse.kaust.edu.sa/vcc/people/person/hui-wang" target="\_blank"> Postdoctoral Researcher </a> in <a href="https://www.kaust.edu.sa/en/" target="\_blank">King Abdullah University of Science and Technology (KAUST)</a>, working together with <a href="https://cemse.kaust.edu.sa/vcc/people/person/helmut-pottmann" target="\_blank"> Prof. Helmut Pottmann </a> and <a href="https://cemse.kaust.edu.sa/merge" target="\_blank"> Prof. Shehab Ahmed </a>.
+Previously I was a <a href="https://cemse.kaust.edu.sa/vcc/people/person/hui-wang" target="\_blank"> Postdoctoral Researcher </a> in <a href="https://www.kaust.edu.sa/en/" target="\_blank">King Abdullah University of Science and Technology (KAUST)</a>, working together with <a href="https://cemse.kaust.edu.sa/vcc/people/person/helmut-pottmann" target="\_blank"> Prof. Helmut Pottmann </a>.
 I got my PhD in 2020 in <a href="https://math.dlut.edu.cn/English/About_us/Institutes.htm" target="\_blank"> Computational Geometry</a> group (PI: <a href="http://faculty.dlut.edu.cn/zhu/zh_CN/index.htm" target="\_blank">Prof. Chungang Zhu</a>) from Dalian University of Technology (DUT).
-During my PhD study, I visited Prof. Helmut Pottmann's
+During my PhD study, I visited Prof. Pottmann's
 <a href="https://www.geometrie.tuwien.ac.at/geom/ig/pottmann/index.php" target="\_blank">Applied Geometry </a> group in TU Wien for 2 years.
 My research interests include Computer Graphics, Computational Design and Fabrication, CAD/CAM, Architectural Geometry, Geometry Processing, Computational Geometry, Image Processing, 3D Reconstruction, CV, etc.
 
