@@ -1,9 +1,9 @@
 source 'https://rubygems.org'
-source 'https://gems.ruby-china.com'
+
+gem 'jekyll', '~> 4.2'
 
 group :jekyll_plugins do
-  gem 'bundler', '~> 2.5'
-  gem 'jekyll', '~> 4.2'
+  gem 'classifier-reborn'
   gem 'jekyll-archives'
   gem 'jekyll-diagrams'
   gem 'jekyll-email-protect'
@@ -16,7 +16,6 @@ group :jekyll_plugins do
   gem 'jekyll-scholar'
   gem 'jekyll-sitemap'
   gem 'jekyll-toc'
-  gem 'jekyll-twitter-plugin'
   gem 'jemoji'
   gem 'mini_racer'
   gem 'unicode_utils'
