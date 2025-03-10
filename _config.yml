@@ -165,7 +165,7 @@ keep_files:
 
 # Plug-ins
 plugins:
-  - jekyll-archives
+  - jekyll-archives-v2
   - jekyll-diagrams
   - jekyll-email-protect
   - jekyll-feed
