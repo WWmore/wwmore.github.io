@@ -1,7 +1,6 @@
-source 'https://rubygems.org'
+source 'https://gems.ruby-china.com'
 
 group :jekyll_plugins do
-  gem 'classifier-reborn'
   gem 'bundler', '~> 2.5'
   gem 'jekyll', '~> 4.2'
   gem 'jekyll-archives'
