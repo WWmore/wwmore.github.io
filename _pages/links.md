@@ -1,9 +1,8 @@
 ---
 layout: page
 permalink: /links/
-title: ~~
+title: Links
 description: updating...
-nav: false
 nav_order: 6
 ---
 
