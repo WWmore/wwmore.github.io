@@ -20,19 +20,20 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.0.2'
-    - name: Enable bundler cache
+    - name: Clean Bundler Cache
+      run: bundle clean --force
+    - name: Cache Bundler Gems
       uses: actions/cache@v3
       with:
         path: vendor/bundle
-        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+        key: ${{ runner.os }}-gems-v2-${{ hashFiles('**/Gemfile.lock') }}
         restore-keys: |
           ${{ runner.os }}-gems-
-    - name: Install deps
+    - name: Install Dependencies
       run: |
         gem install bundler -v 2.5.23
         bundle config path vendor/bundle
         bundle install --jobs 4 --retry 3
-        npm install -g mermaid.cli
     - name: Setup deploy options
       id: setup
       run: |
