@@ -50,7 +50,3 @@ jobs:
       run:  yes | bin/deploy --verbose ${{ env.NO_PUSH }}
                     --src ${{ env.SRC_BRANCH }} 
                     --deploy ${{ env.DEPLOY_BRANCH }}
-    - name: Debug gem environment
-      run: |
-        gem env
-        gem list
