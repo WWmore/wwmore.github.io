@@ -20,8 +20,8 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.0.2'
-    - name: Clean Bundler Cache
-      run: bundle clean --force
+    - name: Install Xcode Command Line Tools
+      run: xcode-select --install
     - name: Cache Bundler Gems
       uses: actions/cache@v3
       with:
