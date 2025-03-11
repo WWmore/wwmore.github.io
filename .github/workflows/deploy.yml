@@ -54,7 +54,7 @@ jobs:
         fi
         echo "DEPLOY_BRANCH=gh-pages" >> $GITHUB_OUTPUT
     - name: Build website
-      run: bundle exec jekyll build
+      run: bundle exec jekyll build --trace
     - name: Deploy website
       run: |
         yes | bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }} \
