@@ -10,9 +10,12 @@ category: work
 ------
 
 ##### <i class='fas fa-folder-open'>**Publication**</i><br/>
-The paper has been conditionally accepted for presentation at the [Symposium on Solid and Physical Modeling (SPM 2025)](https://spmconf2025.github.io/SPM2025/) scheduled to take place in Hangzhou, China, from October 29 to November 2, 2025.
+The paper has been accepted for presentation at the [Symposium on Solid and Physical Modeling (SPM 2025)](https://spmconf2025.github.io/SPM2025/) scheduled to take place in Hangzhou, China, from October 29 to November 2, 2025.
 
-Additionally, it will be presented as a poster paper with a 10-minute oral presentation at the [International Conference on Geometric Modeling and Processing (GMP2025)](https://sites.wustl.edu/gmp2025/program/), which will be held at Washington University in St. Louis, US, from May 28 to 30, 2025.
+It is published in the [Computer-Aided Design journal](https://authors.elsevier.com/tracking/article/details.do?aid=103937&jid=JCAD&surname=Wang).
+
+
+Additionally, it was presented as a poster paper with a 10-minute oral presentation at the [International Conference on Geometric Modeling and Processing (GMP2025)](https://sites.wustl.edu/gmp2025/program/), which was held at Washington University in St. Louis, US, from May 28 to 30, 2025.
 
 ##### <i class='fas fa-laugh-beam'>**Authors**</i><br/>
 Hui Wang* (corresponding author), Xinye Li, Zhi Li, and Cheng Wang
@@ -23,8 +26,7 @@ High-quality surface designs are increasingly significant in industrial applicat
 
 
 ##### <i class='fas fa-file-pdf'>**PDF**</i>
-<!-- [paper](/assets/pdf/2023SMI.pdf) -->
-to be updated ...
+[paper](https://www.researchgate.net/publication/393983945_Discrete_Isogonal_Nets_with_Similar_Parallelograms)
 
 <iframe src="/assets/pdf/2025DIN_poster.pdf#toolbar=0" 
 width="100%" height=1200 frameborder="0" style="border: none;">
