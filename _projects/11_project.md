@@ -27,6 +27,11 @@ Straight flat strips of inextensible material can be bent into curved strips ali
 width="100%" height=400 frameborder="0" style="border: none;">
 </iframe>
 
+##### <i class='fas fa-file-pdf'>**Slide**</i>
+<iframe src="/assets/pdf/slides/2024SIGA-Hui.pdf#toolbar=0" 
+width="100%" height=400 frameborder="0" style="border: none;">
+</iframe>
+
 ------
 
 ##### <i class='far fa-images'>**Figures**</i>
