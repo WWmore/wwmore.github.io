@@ -60,10 +60,80 @@ layout: default
               {{ site.contact_note }}
             </div>
           </div>
-
-          <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=529yslcglge&amp;m=0&amp;c=0006ff&amp;cr1=baff00&amp;sx=0" async="async"></script>
-
           {%- endif %}
+
+          <!-- 新的访客统计部分 - 替换原来的 RevolverMaps -->
+          <div class="visitor-stats" style="text-align: center; margin: 50px 0; padding: 30px; background: #f8f9fa; border-radius: 12px; border: 1px solid #eaeaea;">
+            <h3 style="margin-bottom: 30px; color: #2c3e50; font-weight: 600;">Website Analytics</h3>
+            
+            <!-- 核心统计数据行 -->
+            <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin-bottom: 30px;">
+              
+              <!-- 总访客数 -->
+              <div style="text-align: center; min-width: 220px; padding: 15px; background: white; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+                <h4 style="margin-bottom: 12px; color: #555; font-size: 1em; font-weight: 500;">Total Visitors</h4>
+                <a href="https://visitorbadge.io/status?path=https://www.huiwang.me" target="_blank" style="text-decoration: none;">
+                  <img src="https://api.visitorbadge.io/api/visitors?path=https://www.huiwang.me&label=VISITORS&countColor=%232c3e50&labelColor=%235a6c82&style=for-the-badge&format=long" 
+                       alt="Total Visitors" 
+                       style="border-radius: 6px; max-width: 100%; height: auto;" />
+                </a>
+              </div>
+              
+              <!-- 页面浏览量 -->
+              <div style="text-align: center; min-width: 220px; padding: 15px; background: white; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+                <h4 style="margin-bottom: 12px; color: #555; font-size: 1em; font-weight: 500;">Page Views</h4>
+                <a href="https://visitorbadge.io/status?path=https://www.huiwang.me" target="_blank" style="text-decoration: none;">
+                  <img src="https://api.visitorbadge.io/api/combined?path=https://www.huiwang.me&label=PAGE%20VIEWS&countColor=%2327ae60&labelColor=%23219652&style=for-the-badge" 
+                       alt="Page Views" 
+                       style="border-radius: 6px; max-width: 100%; height: auto;" />
+                </a>
+              </div>
+              
+              <!-- 独立访客 -->
+              <div style="text-align: center; min-width: 220px; padding: 15px; background: white; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+                <h4 style="margin-bottom: 12px; color: #555; font-size: 1em; font-weight: 500;">Unique Visitors</h4>
+                <img src="https://api.visitorbadge.io/api/combined?path=https://www.huiwang.me&label=UNIQUE&countColor=%233498db&labelColor=%232d78ad&style=for-the-badge" 
+                     alt="Unique Visitors" 
+                     style="border-radius: 6px; max-width: 100%; height: auto;" />
+              </div>
+              
+            </div>
+            
+            <!-- 国家分布 -->
+            <div style="margin-top: 30px; padding: 20px; background: white; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+              <h4 style="margin-bottom: 15px; color: #555; font-weight: 500;">Visitor Countries</h4>
+              <img src="https://api.visitorbadge.io/api/combined?path=https://www.huiwang.me&label=COUNTRIES&countColor=%23562b80&labelColor=%237b4397&style=flat-square" 
+                   alt="Visitor Countries" 
+                   style="max-width: 100%; border-radius: 6px; height: auto;" />
+              <p style="margin-top: 10px; color: #777; font-size: 0.85em;">
+                Showing visitor distribution by country (updates daily)
+              </p>
+            </div>
+            
+            <!-- 实时统计 -->
+            <div style="margin-top: 30px; padding: 20px; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 8px;">
+              <h4 style="margin-bottom: 15px; color: #2c3e50; font-weight: 500;">Live Statistics</h4>
+              <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+                <img src="https://api.visitorbadge.io/api/combined?path=https://www.huiwang.me&label=TODAY&countColor=%23e74c3c&style=flat-square" 
+                     alt="Today's Visitors" />
+                <img src="https://api.visitorbadge.io/api/combined?path=https://www.huiwang.me&label=THIS%20WEEK&countColor=%23f39c12&style=flat-square" 
+                     alt="This Week's Visitors" />
+                <img src="https://api.visitorbadge.io/api/combined?path=https://www.huiwang.me&label=THIS%20MONTH&countColor=%239b59b6&style=flat-square" 
+                     alt="This Month's Visitors" />
+              </div>
+            </div>
+            
+            <div style="margin-top: 25px; padding-top: 20px; border-top: 1px solid #eaeaea;">
+              <p style="color: #666; font-size: 0.9em; margin-bottom: 5px;">
+                📊 <strong>Privacy Note:</strong> These statistics are anonymized and respect visitor privacy.
+              </p>
+              <p style="color: #888; font-size: 0.85em; margin: 0;">
+                Data updates every 24 hours • Powered by <a href="https://visitorbadge.io" target="_blank" style="color: #3498db;">Visitor Badge</a>
+              </p>
+            </div>
+            
+          </div>
+
         </article>
 
 </div>
