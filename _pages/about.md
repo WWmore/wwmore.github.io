@@ -27,10 +27,10 @@ During my doctoral studies, I spent two years as a visiting researcher in Prof. 
 <a href="https://www.geometrie.tuwien.ac.at/geom/ig/pottmann/index.php" target="\_blank">Applied Geometry </a> group at TU Wien.
 My research interests include Computer Graphics, Computational Design and Fabrication, CAD/CAM, Architectural Geometry, Geometry Processing, Computational Geometry, Image Processing, 3D Reconstruction, geometric deep learning, etc.
 
-:loudspeaker: $${\color{red}\small{(**Open Positions**)}}$$: My research group is currently recruiting passionate Master's students, PhD candidates, and postdoc from around the world. We encourage applications from students with a strong interest in computer graphics and a solid background in programming, mathematics, deep learning, civil engineering, or related fields. Scholarship refers to <a href="https://sie.xjtu.edu.cn/en/Application_Guide/Application_Procedur.htm" target="\_blank"> XJTU Application Guide for Postgraduates and PhD students.</a> 
+:loudspeaker: $${\color{red}{Open Positions}}$$: My research group is currently recruiting passionate Master's students, PhD candidates, and postdoc from around the world. We encourage applications from students with a strong interest in computer graphics and a solid background in programming, mathematics, deep learning, civil engineering, or related fields. Scholarship refers to <a href="https://sie.xjtu.edu.cn/en/Application_Guide/Application_Procedur.htm" target="\_blank"> XJTU Application Guide for Postgraduates and PhD students.</a> 
 Interested candidates are welcome to contact me directly.
 
-:mega: $${\color{red}\small{(**Visiting Scholars & Students**)}}$$: We warmly welcome students and researchers from abroad to join us for short-term visits. Experience firsthand the vibrant academic environment and explore Xi'an—the ancient capital of 13 Chinese dynasties, rich in culture and history.
+:mega: $${\color{red}{Visiting Scholars and Students}}$$: We warmly welcome students and researchers from abroad to join us for short-term visits. Experience firsthand the vibrant academic environment and explore Xi'an—the ancient capital of 13 Chinese dynasties, rich in culture and history.
 
 
 <!-- After my PhD graduation in 2020, I worked as a <a href="https://cemse.kaust.edu.sa/vcc/people/person/hui-wang" target="\_blank"> Postdoctoral Researcher </a> 

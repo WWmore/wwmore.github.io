@@ -1,0 +1,47 @@
+---
+layout: page
+permalink: /mkdocs-archgeo/
+title: ArchGeo
+description: opensource Geometry Processing Library - ArchGeo
+nav: true
+nav_order: 7
+---
+
+<div class="redirect-notice" style="text-align: center; margin: 50px 0;">
+  <h2>正在跳转到 ArchGEO 代码文档</h2>
+  <p>您将在 3 秒后自动跳转...</p>
+  <div class="spinner" style="margin: 30px 0;"></div>
+  <p>如果未自动跳转，请点击：</p>
+  <a href="https://www.huiwang.me/mkdocs-archgeo/" class="btn btn-primary" style="font-size: 1.2em;">
+    访问 ArchGEO 代码文档
+  </a>
+</div>
+
+<script>
+  // 3秒后重定向
+  setTimeout(function() {
+    window.location.href = "https://www.huiwang.me/mkdocs-archgeo/";
+  }, 3000);
+  
+  // 添加加载动画
+  document.addEventListener('DOMContentLoaded', function() {
+    const spinner = document.querySelector('.spinner');
+    spinner.innerHTML = `
+      <div style="
+        width: 50px;
+        height: 50px;
+        margin: 0 auto;
+        border: 5px solid #f3f3f3;
+        border-top: 5px solid #3498db;
+        border-radius: 50%;
+        animation: spin 1s linear infinite;
+      "></div>
+      <style>
+        @keyframes spin {
+          0% { transform: rotate(0deg); }
+          100% { transform: rotate(360deg); }
+        }
+      </style>
+    `;
+  });
+</script>
