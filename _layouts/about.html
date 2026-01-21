@@ -62,41 +62,12 @@ layout: default
           </div>
           {%- endif %}
 
-          <!-- MapMyVisitors 地图部分 -->
-          <div class="visitor-map-section" style="margin: 50px 0;">
-            <div style="text-align: center; padding: 30px; background: #f8f9fa; border-radius: 12px; border: 1px solid #eaeaea;">
-              <h3 style="margin-bottom: 25px; color: #2c3e50; font-weight: 600;">🌍 Global Visitors</h3>
-              
-              <!-- 地图容器 -->
-              <div style="min-height: 450px; width: 100%;">
-                <script type="text/javascript" 
-                        id="mapmyvisitors" 
-                        src="//mapmyvisitors.com/map.js?d=OFyfD-etv4HrvFgotxNMx7M1ONPY__ik2nr36ZYB26w&cl=ffffff&w=a"></script>
-              </div>
-              
-              <!-- 辅助统计信息 -->
-              <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 30px;">
-                <div>
-                  <img src="https://api.visitorbadge.io/api/visitors?path=https://www.huiwang.me&label=Total%20Visitors&countColor=%232c3e50" 
-                       alt="Total Visitors" 
-                       style="border-radius: 4px;" />
-                </div>
-                <div>
-                  <img src="https://api.visitorbadge.io/api/combined?path=https://www.huiwang.me&label=Online%20Now&countColor=%2327ae60" 
-                       alt="Online Now" 
-                       style="border-radius: 4px;" />
-                </div>
-              </div>
-              
-              <div style="margin-top: 25px; padding-top: 20px; border-top: 1px solid #ddd;">
-                <p style="color: #666; font-size: 0.9em; margin-bottom: 5px;">
-                  <strong>Privacy Notice:</strong> This map shows aggregated visitor locations. No personal data is collected.
-                </p>
-                <p style="color: #888; font-size: 0.85em; margin: 0;">
-                  Real-time tracking • Updates every 5 minutes • Powered by <a href="https://mapmyvisitors.com" target="_blank" style="color: #3498db;">MapMyVisitors</a>
-                </p>
-              </div>
-            </div>
+          <!-- 只有地图 -->
+          <div style="text-align: center; margin: 30px 0;">
+            <script type='text/javascript' 
+                    id='mapmyvisitors' 
+                    src='https://mapmyvisitors.com/map.js?cl=080808&w=300&t=tt&d=OFyfD-etv4HrvFgotxNMx7M1ONPY__ik2nr36ZYB26w&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'>
+            </script>
           </div>
 
         </article>
