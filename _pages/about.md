@@ -25,9 +25,13 @@ Previously I was a <a href="https://cemse.kaust.edu.sa/vcc/people/person/hui-wan
 I got my PhD in 2020 in <a href="https://math.dlut.edu.cn/English/About_us/Institutes.htm" target="\_blank"> Computational Geometry</a> group (PI: <a href="http://faculty.dlut.edu.cn/zhu/zh_CN/index.htm" target="\_blank">Prof. Chungang Zhu</a>) from Dalian University of Technology (DUT).
 During my PhD study, I visited Prof. Pottmann's
 <a href="https://www.geometrie.tuwien.ac.at/geom/ig/pottmann/index.php" target="\_blank">Applied Geometry </a> group in TU Wien for 2 years.
-My research interests include Computer Graphics, Computational Design and Fabrication, CAD/CAM, Architectural Geometry, Geometry Processing, Computational Geometry, Image Processing, 3D Reconstruction, CV, etc.
+My research interests include Computer Graphics, Computational Design and Fabrication, CAD/CAM, Architectural Geometry, Geometry Processing, Computational Geometry, Image Processing, 3D Reconstruction, geometric deep learning, etc.
 
-Welcome to contact me if you are interested in my research!
+:loudspeaker: <span style="color:red">**Open Positions**</span>: My research group is currently recruiting passionate Master's students, PhD candidates, and postdoctoral researchers from around the world. We encourage applications from students with a strong interest in computer graphics and a solid background in programming, mathematics, deep learning, civil engineering, or related fields. Scholarship refers to <a href="https://sie.xjtu.edu.cn/en/Application_Guide/Application_Procedur.htm" target="\_blank"> 2026 XJTU Application Guide for Postgraduates and PhD students.</a> 
+Interested candidates are welcome to contact me directly.
+
+:mega: <span style="color:red">**Visiting Scholars & Students**</span>: We warmly welcome students and researchers from abroad to join us for short-term visits. Experience firsthand the vibrant academic environment and explore Xi'an—the ancient capital of 13 Chinese dynasties, rich in culture and history.
+
 
 <!-- After my PhD graduation in 2020, I worked as a <a href="https://cemse.kaust.edu.sa/vcc/people/person/hui-wang" target="\_blank"> Postdoctoral Researcher </a> 
 of <a href="https://cemse.kaust.edu.sa/vcc/people/person/helmut-pottmann" target="\_blank"> Prof. Helmut Pottmann's </a> 

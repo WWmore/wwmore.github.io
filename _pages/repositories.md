@@ -5,6 +5,7 @@ title: code
 description: open repositories in Github
 nav: true
 nav_order: 1
+redirect_to: https://www.huiwang.me/mkdocs-archgeo/
 ---
 
 
