@@ -3,7 +3,7 @@ layout: page
 title: Origami shell
 description: Origami model built in AAG2023 workshop
 img: assets/img/proj12/3.png
-importance: 2
+importance: 7
 category: work
 ---
 

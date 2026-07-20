@@ -3,7 +3,7 @@ layout: page
 title: Discrete Isogonal Nets with Similar Parallelograms
 description: Checkerboard pattern, Isogonal net,Isogonal web, Conformal map
 img: assets/img/proj13/din_maps.png
-importance: 1
+importance: 3
 category: work
 ---
 

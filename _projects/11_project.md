@@ -4,7 +4,7 @@ title: Rectifying Strip Patterns
 description: Computational design and fabrication, Shading system, Gridshell,Pseudo-geodesic, Developable strips
 
 img: assets/img/proj11/teaser.png
-importance: 1
+importance: 4
 category: work
 ---
 

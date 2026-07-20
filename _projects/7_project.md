@@ -3,7 +3,7 @@ layout: page
 title: Quad Meshes with Planar Parameter Lines
 description: architectural geometry, computational design, planar parameter lines, static equilibrium
 img: assets/img/paper_2022PPQ.png
-importance: 7
+importance: 8
 category: work
 ---
 

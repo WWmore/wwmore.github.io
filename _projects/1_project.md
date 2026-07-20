@@ -3,7 +3,7 @@ layout: page
 title: Surfaces with a constant ratio of principal curvatures
 description: Discrete differential geometry, Architectural geometry, Weingarten surface, Characteristic parameterization, Constant ratio of principal curvatures, Principal symmetric net
 img: assets/img/paper_2021CRPC.jpg
-importance: 1
+importance: 6
 category: work
 ---
 

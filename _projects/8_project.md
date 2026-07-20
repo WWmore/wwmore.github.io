@@ -3,7 +3,7 @@ layout: page
 title: AAG-Shell
 description: real wooden shell structure in Munich, Germany
 img: assets/img/proj8/AG_vault.png
-importance: 2
+importance: 7
 category: work
 ---
 

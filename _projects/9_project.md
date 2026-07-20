@@ -3,7 +3,7 @@ layout: page
 title: Asymptotic Gridshell
 description: real shell structure
 img: assets/img/proj9/GIF_kinetic.gif
-importance: 2
+importance: 7
 category: work
 ---
 

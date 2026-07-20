@@ -3,7 +3,7 @@ layout: page
 title: Shape-morphing mechanical metamaterials
 description: Kirigami, Auxetic materials, Metamaterials, Shape morphing, Computational fabrication
 img: assets/img/paper_2021CAD.png
-importance: 3
+importance: 6
 category: work
 ---
 

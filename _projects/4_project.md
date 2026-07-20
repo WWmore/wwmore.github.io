@@ -3,7 +3,7 @@ layout: page
 title: Principal Symmetric Meshes (S-nets)
 description: Discrete differential geometry, Architectural geometry, Computational fabrication, Paneling, Sphere geometries, Curvature adaptive milling
 img: assets/img/paper_2020SIG.png
-importance: 4
+importance: 5
 category: work
 ---
 
