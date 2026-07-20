@@ -28,7 +28,7 @@ During my doctoral studies, I spent two years as a visiting researcher in Prof. 
 My research interests include Computer Graphics, Computational Design and Fabrication, CAD/CAM, Architectural Geometry, Geometry Processing, Computational Geometry, Image Processing, 3D Reconstruction, geometric deep learning, etc.
 
 :loudspeaker: $${\color{red}{Open Positions}}$$: My research group is currently recruiting passionate Master's students, PhD candidates, and postdoc from around the world. We encourage applications from students with a strong interest in computer graphics and a solid background in programming, mathematics, deep learning, civil engineering, or related fields. Scholarship refers to <a href="https://sie.xjtu.edu.cn/en/Application_Guide/Application_Procedur.htm" target="\_blank"> XJTU Application Guide for Postgraduates and PhD students.</a> 
-Interested candidates are welcome to contact me directly.
+Interested candidates are welcome to contact me directly. (huiwang@xjtu.edu.cn)
 
 :mega: $${\color{red}{Visiting Scholars / Students}}$$: We warmly welcome students and researchers from abroad to join us for short-term visits. Experience firsthand the vibrant academic environment and explore Xi'an—the ancient capital of 13 Chinese dynasties, rich in culture and history.
 
