@@ -21,7 +21,7 @@ Hui Wang* (corresponding author), Yongxiang Tan
 ##### <i class='fas fa-align-justify'>**Abstract**</i>
 We propose a quad-mesh-based framework for discrete isogonal nets using checkerboard patterns with inscribed parallelograms derived from quad meshes. By controlling the angles, similarity, or congruence of these parallelograms, we obtain three classes of isogonal nets on diagonal or control meshes. These nets admit simple explicit representations, enable diverse shape exploration related to conformal mappings with preserved pattern shapes, and support efficient computation and optimization. The third class serves as a discrete model of developable surfaces, grounded in our analysis of smooth isogonal Chebyshev nets and verified through discrete differential geometric quantities. We demonstrate the effectiveness of the three proposed nets through pattern designs for shell structures and interactive paper-cutting models, both fabricated with repetitive similar elements.
 
-<img src="/assets/img/proj14/DIN.jpg" alt="image" width="800" height="auto">
+<img src="/assets/img/proj14/DIN.jpg" alt="image" width="700" height="auto">
 
 ------
 
