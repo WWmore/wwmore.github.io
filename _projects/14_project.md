@@ -10,9 +10,9 @@ category: work
 ------
 
 ##### <i class='fas fa-folder-open'>**Publication**</i><br/>
-The paper has been conditionally accepted for presentation at the [SIGGRAPH (Asia) 2026](https://asia.siggraph.org/2026/) conference scheduled to take place in Kuala Lumpur, Malaysia :palm_tree: from Decemeber 1 to 4, 2026.
+The paper has been accepted for presentation at the [SIGGRAPH (Asia) 2026](https://sa2026.conference-schedule.org/presentation/?id=papers_2209&sess=sess117) conference in Kuala Lumpur, Malaysia :palm_tree: from Decemeber 1 to 4, 2026.
 
-It will be published in the [ACM Transactions on Graphics (TOG)](https://dl.acm.org/journal/tog) journal in November.
+It is published in the [ACM Transactions on Graphics (TOG)](https://dl.acm.org/doi/abs/10.1145/3842568) journal.
 
 
 ##### <i class='fas fa-laugh-beam'>**Authors**</i><br/>
@@ -33,10 +33,10 @@ width="100%" height=800 frameborder="0" style="border: none;">
 </iframe>
 
 ##### <i class='fas fa-file-pdf'>**Slide**</i>
-slide is coming soon...
+Check the [Published Webpage](https://dl.acm.org/doi/abs/10.1145/3842568) or another [Project webpage](https://yxtan-xjtu.github.io/isogonal-nets/#video).
 
 #### <i class='fas fa-photo-video'>Video</i>
-video is coming soon...
+Check the [Published Webpage](https://dl.acm.org/doi/abs/10.1145/3842568) or another [Project webpage](https://yxtan-xjtu.github.io/isogonal-nets/#video).
 
 #### <i class='fa fa-code'>Code</i>
-code is coming soon...
+Check the [Published Webpage](https://dl.acm.org/doi/abs/10.1145/3842568) or another [Project webpage](https://yxtan-xjtu.github.io/isogonal-nets/#video).
